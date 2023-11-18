@@ -2,7 +2,7 @@
     "categories": [
         {
             "name": "Prehistory Period (Before 4th Centuries CE)",
-            "sourceUrl": "https://raw.githubusercontent.com/MasudKorea/StudyAssam/main/CategoryList/prehistory.json",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/MasudKorea/StudyAssam@latest/CategoryList/prehistory.json",
             "imageUrl": "not_updated"
         }
     ]
