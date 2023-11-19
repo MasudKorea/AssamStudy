@@ -14,6 +14,11 @@
             "name": "Medieval History of Assam (12-13th Centuries CE to 1826)",
             "sourceUrl": "https://masudkorea.github.io/StudyAssam/CategoryList/medievalhistroy.json",
             "imageUrl": "not_updated"
+        },
+        {
+            "name": "Assam after Independence (1947 and Onwards)",
+            "sourceUrl": "https://masudkorea.github.io/StudyAssam/CategoryList/postindependence.json",
+            "imageUrl": "not_updated"
         }
     ]
 }
