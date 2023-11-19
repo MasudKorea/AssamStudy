@@ -1,1 +1,9 @@
-medievalhistroy.json
+{
+    "categories": [
+        {
+            "name": "Medieval Histroy (Part I)",
+            "sourceUrl": "https://masudkorea.github.io/StudyAssam/AssamHistory/03_01_Medieval_History_of_Assam_12_13th_Centuries_CE_to_1826.json",
+            "imageUrl": "not_updated"
+        }
+    ]
+}
