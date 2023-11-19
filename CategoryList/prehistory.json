@@ -1,29 +1,525 @@
 {
-    "categories": [
-        {
-            "name": "Prehistory Period (Part I)",
-            "sourceUrl": "https://masudkorea.github.io/StudyAssam/AssamHistory/01_Prehistory_Period_Before_4th_Centuries_CE.json",
-            "imageUrl": "not_updated"
-        },
-        {
-            "name": "Prehistory Period (Part II)",
-            "sourceUrl": "https://masudkorea.github.io/StudyAssam/AssamHistory/01_Prehistory_Period_Before_4th_Centuries_CE.json",
-            "imageUrl": "not_updated"
-        },
-        {
-            "name": "Prehistory Period (Part III)",
-            "sourceUrl": "https://masudkorea.github.io/StudyAssam/AssamHistory/01_Prehistory_Period_Before_4th_Centuries_CE.json",
-            "imageUrl": "not_updated"
-        },
-        {
-            "name": "Prehistory Period (Part IV)",
-            "sourceUrl": "https://masudkorea.github.io/StudyAssam/AssamHistory/01_Prehistory_Period_Before_4th_Centuries_CE.json",
-            "imageUrl": "not_updated"
-        },
-        {
-            "name": "Prehistory Period (Part V)",
-            "sourceUrl": "https://masudkorea.github.io/StudyAssam/AssamHistory/01_Prehistory_Period_Before_4th_Centuries_CE.json",
-            "imageUrl": "not_updated"
-        }
-    ]
+  "name": "Prehistory Period (Before 4th Centuries CE)",
+  "questions": [
+    {
+      "question": "The History of Assam can be divided into_____ eras.",
+      "options": [
+        "A. 3 eras",
+        "B. 4 eras",
+        "C. 5 eras",
+        "D. 6 eras"
+      ],
+      "answer": "B. 4 eras."
+    },
+    {
+      "question": "In Ancient times, Assam was known by the name of",
+      "options": [
+        "A. Kaliabor",
+        "B. Guwahati",
+        "C. Pragjyotisha",
+        "D. Charaideo"
+      ],
+      "answer": "C. Pragjyotisha"
+    },
+    {
+      "question": "Which one of the following epics is considered as the highest source of the Prehistory period of Assam?",
+      "options": [
+        "A. Mahabharata",
+        "B. Harshacharita",
+        "C. Kalika Puran",
+        "D. Arthasastra"
+      ],
+      "answer": "C. Kalika Puran"
+    },
+    {
+      "question": "Who was the earliest king of Pragjyotishpur?",
+      "options": [
+        "A. Bhasakar Varman",
+        "B. Mahiranga Danava",
+        "C. Narakasura",
+        "D. Banasura"
+      ],
+      "answer": "B. Mahiranga Danava"
+    },
+    {
+      "question": "Mahiranga was Sanskritized from",
+      "options": [
+        "A. Nilachal",
+        "B. Chitrachal",
+        "C. Patkai",
+        "D. Mairong"
+      ],
+      "answer": "D. Mairong"
+    },
+    {
+      "question": "What was the ancient name of Assam mentioned in Ramayana and Mahabharata?",
+      "options": [
+        "A. Kamarupa",
+        "B. Indraprastha",
+        "C. Pragjyotishpura",
+        "D. Assam"
+      ],
+      "answer": "C. Pragjyotishpura"
+    },
+    {
+      "question": "According to Ramayana, Amurtyaraja was the founder of the kingdom of?",
+      "options": [
+        "A. Pragjyotisha",
+        "B. Kamarupa",
+        "C. Harupeswar",
+        "D. Cooch Behar"
+      ],
+      "answer": "A. Pragjyotisha"
+    },
+    {
+      "question": "Narakasura founded which dynasty?",
+      "options": [
+        "A. Pala dynasty",
+        "B. Varman dynasty",
+        "C. Salasthamba dynasty",
+        "D. Bhauma dynasty"
+      ],
+      "answer": "D. Bhauma dynasty"
+    },
+    {
+      "question": "Ghatakasura was killed by?",
+      "options": [
+        "A. Narakasura",
+        "B. Bana Raja",
+        "C. Mahiranga Danava",
+        "D. Bhasakar Varman"
+      ],
+      "answer": "A. Narakasura"
+    },
+    {
+      "question": "According to Pre-History sources, the mother of Narakasura was",
+      "options": [
+        "A. Dharitri",
+        "B. Hidimba",
+        "C. Usha",
+        "D. Ulupi"
+      ],
+      "answer": "A. Dharitri"
+    },
+    {
+      "question": "Ghatakasura was a ruler of the",
+      "options": [
+        "A. Aryans",
+        "B. Kirats",
+        "C. Dravidians",
+        "D. Mongolians"
+      ],
+      "answer": "B. Kirats"
+    },
+    {
+      "question": "Who was killed by the first Naraka King Narakasura and established the Bhauma dynasty?",
+      "options": [
+        "A. Pushyavarman",
+        "B. Ghatakasura",
+        "C. Bhaskarvarman",
+        "D. Gopala"
+      ],
+      "answer": "B. Ghatakasura"
+    },
+    {
+      "question": "Name the two medieval texts that were compiled in the region of Assam:",
+      "options": [
+        "A. Ved and Puran",
+        "B. Kalika Purana and Yogini Tantra",
+        "C. Kaunji Khel and Yogini Tantra",
+        "D. Namanjali and Kirtan"
+      ],
+      "answer": "B. Kalika Purana and Yogini Tantra"
+    },
+    {
+      "question": "The tantric text 'Yogini Tantra' is dedicated to the worship of two goddesses. One is kali and the other one is?",
+      "options": [
+        "A. Mahamaya",
+        "B. Kamakhya",
+        "C. Tara Devi",
+        "D. None of the above"
+      ],
+      "answer": "B. Kamakhya"
+    },
+    {
+      "question": "According to which of the following 'Purana', the temple of Kamakhya was in the centre of Kamarupa?",
+      "options": [
+        "A. Vishnu Purana",
+        "B. Kalika Purana",
+        "C. Shiva Purana",
+        "D. Yogini Tantra"
+      ],
+      "answer": "B. Kalika Purana"
+    },
+    {
+      "question": "According to the Kalika Purana, Naraka the mythological ancestor of the Varman dynasty was the son of:",
+      "options": [
+        "A. Varaha form of Vishnu and Bhumi",
+        "B. Kartick form of Shiv and Parborti",
+        "C. Srikrishna",
+        "D. None of the above"
+      ],
+      "answer": "A. Varaha form of Vishnu and Bhumi"
+    },
+    {
+      "question": "Ranapith, Kampith, Swanapith and Saumarpith were the four divisions of the ancient Kamrupa. Which of the following historical composition mentions about these four divisions?",
+      "options": [
+        "A. Yogini Tantra",
+        "B. Kalika Purana",
+        "C. Vishnu Purana",
+        "D. Mahabharat"
+      ],
+      "answer": "A. Yogini Tantra"
+    },
+    {
+      "question": "Hinduism was established in Pragjyotishpura by the king",
+      "options": [
+        "A. Narakasur",
+        "B. Sri Krishna",
+        "C. Bhagadatta",
+        "D. Banasur"
+      ],
+      "answer": "A. Narakasur"
+    },
+    {
+      "question": "Narakasura was killed by",
+      "options": [
+        "A. Shiva",
+        "B. Sri Krishna",
+        "C. Bhagadatta",
+        "D. Banasur"
+      ],
+      "answer": "B. Sri Krishna"
+    },
+    {
+      "question": "Who killed Mura, the general of Narakasura?",
+      "options": [
+        "A. Shiva",
+        "B. Sri Krishna",
+        "C. Bhagadatta",
+        "D. Banasur"
+      ],
+      "answer": "B. Sri Krishna"
+    },
+    {
+      "question": "According to the epic Mahabharata, who ruled the Pragjyotishpura kingdom during the Kurukshetra war?",
+      "options": [
+        "A. Bhaskarvarman",
+        "B. Bhutivarman",
+        "C. Narakasur",
+        "D. Bhagadatta"
+      ],
+      "answer": "D. Bhagadutta"
+    },
+    {
+      "question": "Which Kamrupa King took part in the Battle of Kurukshetra (the Mahabharata War)",
+      "options": [
+        "A. Naraka",
+        "B. Bhagadatta",
+        "C. Bhaskarvarman",
+        "D. Vajradatta"
+      ],
+      "answer": "B. Bhagadatta"
+    },
+    {
+      "question": "In the Battle of Kurukshetra, Bhagadatta fought on the side of",
+      "options": [
+        "A. Kauravas",
+        "B. Pandavas",
+        "C. Arjun",
+        "D. None of the above"
+      ],
+      "answer": "A. Kauravas"
+    },
+    {
+      "question": "What was the name of the elephant of Bhagadatta?",
+      "options": [
+        "A. Oiravat",
+        "B. Chetak",
+        "C. Langie",
+        "D. Ramu"
+      ],
+      "answer": "A. Oiravat"
+    },
+    {
+      "question": "What is the name of the Parva of Mahabharata which mentions the valor of Bhagadatta?",
+      "options": [
+        "A. Adi Parva (The Book of the Beginning)",
+        "B. Bhishma Parva (The Book of Bhishma)",
+        "C. Drona Parva (The Book of Drona)",
+        "D. Karna Parva (The Book of Karna)"
+      ],
+      "answer": "D. Karna Parva (The Book of Karna)"
+    },
+    {
+      "question": "Bhanumathi, The daughter of Bhagadatta was married to",
+      "options": [
+        "A. Arjuna",
+        "B. Karna",
+        "C. Duryodhana",
+        "D. Dushasan"
+      ],
+      "answer": "C. Duryodhana"
+    },
+    {
+      "question": "The Dighali Pukhuri in Guwahati is associated with",
+      "options": [
+        "A. Harjaravarman",
+        "B. Narakasura",
+        "C. Bhagadatta",
+        "D. Bhaskarvarman"
+      ],
+      "answer": "C. Bhagadatta"
+    },
+    {
+      "question": "In Kurukshetra war, Bhagadatta was slain by",
+      "options": [
+        "A. Nakul",
+        "B. Sri Krishna",
+        "C. Arjuna",
+        "D. Bheema"
+      ],
+      "answer": "C. Arjuna"
+    },
+    {
+      "question": "In ancient times who was the king of Vidarbha?",
+      "options": [
+        "A. Bhishmaka",
+        "B. Narakasur",
+        "C. Bhagadatta",
+        "D. Marichi"
+      ],
+      "answer": "A. Bhishmaka"
+    },
+    {
+      "question": "Rukmini was the princess of",
+      "options": [
+        "A. Kundil Nagar",
+        "B. Kamrup",
+        "C. Tezpur",
+        "D. Sadiya"
+      ],
+      "answer": "A. Kundil Nagar, Sadiya"
+    },
+    {
+      "question": "Rukmini was the daughter of",
+      "options": [
+        "A. Marichi",
+        "B. Narakasur",
+        "C. Bhagadatta",
+        "D. Bhishmaka"
+      ],
+      "answer": "D. Bhishmaka"
+    },
+    {
+      "question": "Who built Kundil Nagar on the bank of Kundil River?",
+      "options": [
+        "A. Banasur",
+        "B. Bhishmaka",
+        "C. Narakasur",
+        "D. Bhagadatta"
+      ],
+      "answer": "B. Bhishmaka"
+    },
+    {
+      "question": "The ancient city 'Bengmara' is presently known as",
+      "options": [
+        "A. Diphu",
+        "B. Sodiya",
+        "C. Tinsukia",
+        "D. Dibrugarh"
+      ],
+      "answer": "C. Tinsukia"
+    },
+    {
+      "question": "Which of the following was the chief weapon of war in ancient Assam?",
+      "options": [
+        "A. Asik",
+        "B. Parsu",
+        "C. Jada and Khatvanga",
+        "D. All of these"
+      ],
+      "answer": "B. Parsu"
+    },
+    {
+      "question": "The character Chand Sadagar is found in the tale of",
+      "options": [
+        "A. Aymati",
+        "B. Usha",
+        "C. Behula",
+        "D. Sabitri"
+      ],
+      "answer": "C. Behula"
+    },
+    {
+      "question": "Which of the following place was famous for astrology?",
+      "options": [
+        "A. Pragjyotishpura",
+        "B. Kamarupa",
+        "C. Charaidew",
+        "D. Saumara"
+      ],
+      "answer": "A. Pragjyotishpura"
+    },
+    {
+      "question": "Assam was formerly known by the name of",
+      "options": [
+        "A. Vanga",
+        "B. Kamarupa",
+        "C. Anga",
+        "D. Vaishali"
+      ],
+      "answer": "B. Kamarupa"
+    },
+    {
+      "question": "Which city is called 'The City of Eastern Astrology'?",
+      "options": [
+        "A. Pragjyotishpur",
+        "B. Harupeswar",
+        "C. Sri Duriya",
+        "D. Tezpur"
+      ],
+      "answer": "A. Pragjyotishpur"
+    },
+    {
+      "question": "One of the following books is the most important literary source for the study of early history of Assam. Which is the book?",
+      "options": [
+        "A. The Mahabharata",
+        "B. The Harshacharita",
+        "C. The Kalika Purana",
+        "D. The Arthashastra"
+      ],
+      "answer": "C. The Kalika Purana"
+    },
+    {
+      "question": "The earliest king of Assam was-",
+      "options": [
+        "A. Mahiranga Danava",
+        "B. Narakasura",
+        "C. Bhaskaravarman",
+        "D. Naranarayana"
+      ],
+      "answer": "A. Mahiranga Danava"
+    },
+    {
+      "question": "The earliest historical dynasty of Assam was that of the",
+      "options": [
+        "A. Palas",
+        "B. Varmans",
+        "C. Narakas",
+        "D. Salastambhas"
+      ],
+      "answer": "B. Varmans"
+    },
+    {
+      "question": "The Buranjis are",
+      "options": [
+        "A. Autobiographical writings of the Ahom rulers",
+        "B. Diaries written by the monarchs",
+        "C. Chronicles",
+        "D. None of the above"
+      ],
+      "answer": "C. Chronicles"
+    },
+    {
+      "question": "Which of the following is the only Kamarupa dynasty's inscription that distinguishes between the b (ব) and v (ৱ) letters?",
+      "options": [
+        "A. Nidhanpur copperplate inscription",
+        "B. Dubi Rock Inscription",
+        "C. Nagajari-Khanikargaon rock inscription",
+        "D. None of these"
+      ],
+      "answer": "C. Nagajari-Khanikar Gaon rock inscription"
+    },
+    {
+      "question": "Nagajari-Khanikargaon rock inscription belongs to:",
+      "options": [
+        "A. Varman Dynasty",
+        "B. Mlechchha dynasty",
+        "C. Pala dynasty",
+        "D. None of these"
+      ],
+      "answer": "A. Varman Dynasty"
+    },
+    {
+      "question": "Which one of the following is the earliest epigraphic source discovered in Assam?",
+      "options": [
+        "A. Dubi Copper plate",
+        "B. Parbatiya Copper plate",
+        "C. Nidhanpur Copper plate",
+        "D. The Umachal rock inscription"
+      ],
+      "answer": "D. The Umachal rock inscription"
+    },
+    {
+      "question": "Which of the following is NOT related with the Varman king Bhaskaravarman?",
+      "options": [
+        "A. Dubi Copper plate",
+        "B. Parbatiya Copper plate",
+        "C. Nidhanpur Copper plate",
+        "D. Nalanda Clay seals"
+      ],
+      "answer": "B. Parbatiya Copper plate"
+    },
+    {
+      "question": "Which one is correct about the Umachal rock inscription?",
+      "options": [
+        "A. It is the earliest epigraphic source discovered in Assam",
+        "B. The script of this inscription is in the eastern variety of the Gupta script and the language is Sanskrit prose",
+        "C. Only A",
+        "D. Both A & B"
+      ],
+      "answer": "D. Both A & B"
+    },
+    {
+      "question": "Hiuen Tsang visited Assam during the reign of",
+      "options": [
+        "A. Naranarayan",
+        "B. Brahmapala",
+        "C. Balavarman",
+        "D. Bhaskarvarman"
+      ],
+      "answer": "D. Bhaskaravarman"
+    },
+    {
+      "question": "Hiuen Tsang described which Kamrupa king as the 'Aristocratic king of eastern India'?",
+      "options": [
+        "A. Brahmapala",
+        "B. Balavarman",
+        "C. Bhaskarvarman",
+        "D. Naranarayan"
+      ],
+      "answer": "C. Bhaskaravarman"
+    },
+    {
+      "question": "What is the name of the book that compares Bhaskaravarman with grandfather Bhishma?",
+      "options": [
+        "A. Mahabharata",
+        "B. Harshacharita",
+        "C. Kalika Puran",
+        "D. Arthasastra"
+      ],
+      "answer": "B. Harshacharita"
+    },
+    {
+      "question": "Who was the famous teacher of Nalanda, on whose request and advice, Chinese Pilgrim Hiuen Tsang visited Kamarupa",
+      "options": [
+        "A. Kautilya",
+        "B. Charaka",
+        "C. Silabhadra",
+        "D. None of these"
+      ],
+      "answer": "C. Silabhadra"
+    },
+    {
+      "question": "Huen Tsang visited Assam in the year?",
+      "options": [
+        "A. 640 AD, In the reign of Bhaskaravarman",
+        "B. 600 AD, In the reign of Pushyavarman",
+        "C. 626 AD, In the reign of Bhutivarman",
+        "D. 540 AD, In the reign of Bhaskaravarman"
+      ],
+      "answer": "A. 640 AD, In the reign of Bhaskaravarman"
+    }
+  ]
 }
