@@ -4,6 +4,11 @@
             "name": "Prehistory Period (Before 4th Centuries CE)",
             "sourceUrl": "https://masudkorea.github.io/StudyAssam/CategoryList/prehistory.json",
             "imageUrl": "not_updated"
+        },
+        {
+            "name": "Medieval History of Assam (12-13th Centuries CE to 1826)",
+            "sourceUrl": "https://masudkorea.github.io/StudyAssam/CategoryList/medievalhistroy.json",
+            "imageUrl": "not_updated"
         }
     ]
 }
