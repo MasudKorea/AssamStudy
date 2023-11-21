@@ -1,0 +1,994 @@
+{
+    "questions": [
+        {
+            "question": "The Victoria memorial is situated in",
+            "options": [
+                "A. Kolkata",
+                "B. New Delhi",
+                "C. Mumbai",
+                "D. Bhopal"
+            ],
+            "answer": "A. Kolkata"
+        },
+        {
+            "question": "In which track and field sports does Hima Das participate?",
+            "options": [
+                "A. Triple Jump",
+                "B. Long distance run",
+                "C. Sprints, Short distance",
+                "D. Hurdles"
+            ],
+            "answer": "C. Sprints, Short distance"
+        },
+        {
+            "question": "Who was awarded the “Assam Baibhav” award in December, 2021?",
+            "options": [
+                "A. Jitendra Nath Goswami",
+                "B. Ratan Tata",
+                "C. Ratan Thiam",
+                "D. Amalprava Das"
+            ],
+            "answer": "A. Jitendra Nath Goswami"
+        },
+        {
+            "question": "Narendra Modi Stadium is situated in",
+            "options": [
+                "A. Baroda",
+                "B. Surat",
+                "C. Mehsana",
+                "D. Ahmedabad"
+            ],
+            "answer": "D. Ahmedabad"
+        },
+        {
+            "question": "What does LAD stand for in MPLAD Scheme?",
+            "options": [
+                "A. Local Asset Development",
+                "B. Local Area Development",
+                "C. Leading Asset Development",
+                "D. Local Area Distribution"
+            ],
+            "answer": "B. Local Area Development"
+        },
+        {
+            "question": "On whose birthday is Abhiruchi Sports Day celebrated in Assam?",
+            "options": [
+                "A. Bhogeswar Baruah",
+                "B. Monalisa Baruah (Mehta)",
+                "C. Hima Das",
+                "D. Radha Govinda Baruah"
+            ],
+            "answer": "B. Monalisa Baruah (Mehta)"
+        },
+        {
+            "question": "Which one of the following places connect Assam with Arunachal Pradesh?",
+            "options": [
+                "A. Dirak",
+                "B. Baxirhat",
+                "C. Dimapur",
+                "D. Jorhat"
+            ],
+            "answer": "D. Jorhat"
+        },
+        {
+            "question": "Who was the first person from Assam to clear the Indian Civil Service (ICS) Examination?",
+            "options": [
+                "A. Jamchonga Nampui",
+                "B. Anundoram Barooah",
+                "C. Hem Chandra Baruah",
+                "D. Parvati Prasad Boruah"
+            ],
+            "answer": "B. Anundoram Barooah"
+        },
+        {
+            "question": "Who put forward the law of physics that “Every action has an equal and opposite reaction”?",
+            "options": [
+                "A. Benjamin Franklin",
+                "B. Michael Faraday",
+                "C. Sir Isaac Newton",
+                "D. Albert Einstein"
+            ],
+            "answer": "C. Sir Isaac Newton"
+        },
+        {
+            "question": "What is the capital city of Zimbabwe?",
+            "options": [
+                "A. Nairobi",
+                "B. Harare",
+                "C. Cairo",
+                "D. Khartoum"
+            ],
+            "answer": "B. Harare"
+        },
+        {
+            "question": "What is the currency of United Arab Emirates (UAE)?",
+            "options": [
+                "A. Ruble",
+                "B. Dinar",
+                "C. Dirham",
+                "D. Shekel"
+            ],
+            "answer": "C. Dirham"
+        },
+        {
+            "question": "Between which two towns is the Naranarayan Setu situated?",
+            "options": [
+                "A. Tezpur and Kaliabor",
+                "B. Nagaon and Jorhat",
+                "C. Jogighopa and Pancharatna",
+                "D. Dibrugarh and Dhemaji"
+            ],
+            "answer": "C. Jogighopa and Pancharatna"
+        },
+        {
+            "question": "Who was the last king of the Ahom Kingdom?",
+            "options": [
+                "A. Chandrakanta Singha",
+                "B. Jogeswar Singha",
+                "C. Kamaleswar Singha",
+                "D. Purandar Singha"
+            ],
+            "answer": "D. Purandar Singha"
+        },
+        {
+            "question": "Laxminath Bezbaruah’s poem “O’ Mor Apunar Desh” was first published in",
+            "options": [
+                "A. Bahi",
+                "B. Orunodoi",
+                "C. Jonbiri",
+                "D. Jonaki"
+            ],
+            "answer": "B. Orunodoi"
+        },
+        {
+            "question": "Bangkok is the capital city of",
+            "options": [
+                "A. South Korea",
+                "B. Philippines",
+                "C. Indonesia",
+                "D. Thailand"
+            ],
+            "answer": "D. Thailand"
+        },
+        {
+            "question": "Who was the Chief Minister of Assam immediately after Gopinath Bardoloi?",
+            "options": [
+                "A. Bimala Prasad Chaliha",
+                "B. Sarat Chandra Singha",
+                "C. Bishnuram Medhi",
+                "D. Golap Borbora"
+            ],
+            "answer": "A. Bimala Prasad Chaliha"
+        },
+        {
+            "question": "Where was the first medical college of Assam established?",
+            "options": [
+                "A. Jorhat",
+                "B. Guwahati",
+                "C. Silchar",
+                "D. Dibrugarh"
+            ],
+            "answer": "D. Dibrugarh"
+        },
+        {
+            "question": "Which of the following places is adjacent to New Delhi?",
+            "options": [
+                "A. Gurugram",
+                "B. Nandigram",
+                "C. Secunderabad",
+                "D. Dhanbad"
+            ],
+            "answer": "A. Gurugram"
+        },
+        {
+            "question": "Margaret Thatcher was a former Prime Minister of",
+            "options": [
+                "A. New Zealand",
+                "B. Canada",
+                "C. Israel",
+                "D. England"
+            ],
+            "answer": "D. England"
+        },
+        {
+            "question": "The body of water between Russia and Alaska is",
+            "options": [
+                "A. Panama Canal",
+                "B. Bering Strait",
+                "C. Suez Canal",
+                "D. Palk Strait"
+            ],
+            "answer": "B. Bering Strait"
+        },
+        {
+            "question": "Which of the following is not a sea-side city of India?",
+            "options": [
+                "A. Bengaluru",
+                "B. Chennai",
+                "C. Mumbai",
+                "D. Cochin"
+            ],
+            "answer": "A. Bengaluru"
+        },
+        {
+            "question": "Which of the following vehicles is exempted from NHAI Fastag Tolls?",
+            "options": [
+                "A. Ambulance",
+                "B. Petroleum Tanker",
+                "C. Private vehicles of Senior citizens",
+                "D. Personal vehicle of Defence personnel"
+            ],
+            "answer": "A. Ambulance"
+        },
+        {
+            "question": "The first modern theatre hall of Assam, the ‘Baan Theatre’ is located in",
+            "options": [
+                "A. Guwahati",
+                "B. Jorhat",
+                "C. Tezpur",
+                "D. Nagaon"
+            ],
+            "answer": "A. Guwahati"
+        },
+        {
+            "question": "Which of the following countries is in South America?",
+            "options": [
+                "A. Somalia",
+                "B. Bolivia",
+                "C. Tasmania",
+                "D. Cambodia"
+            ],
+            "answer": "B. Bolivia"
+        },
+        {
+            "question": "In which movement during India’s struggle for independence was Kanaklata Barua martyred?",
+            "options": [
+                "A. Non-Cooperation",
+                "B. Quit India",
+                "C. Sepoy Mutiny",
+                "D. Civil Disobedience"
+            ],
+            "answer": "B. Quit India"
+        },
+        {
+            "question": "Who was the first Indian to go to space?",
+            "options": [
+                "A. Kalpana Chawla",
+                "B. Vikram Sarabhai",
+                "C. Rakesh Sharma",
+                "D. Yuri Gagarin"
+            ],
+            "answer": "C. Rakesh Sharma"
+        },
+        {
+            "question": "Where is the Assam State Museum located?",
+            "options": [
+                "A. Majuli",
+                "B. Guwahati",
+                "C. Nagaon",
+                "D. Kohora"
+            ],
+            "answer": "B. Guwahati"
+        },
+        {
+            "question": "Who amongst the following is a newly inducted Cabinet Minister of Assam?",
+            "options": [
+                "A. Pizush Hazarika",
+                "B. Jayanta Malla Baruah",
+                "C. Ranoj Pegu",
+                "D. Ajanta Neog"
+            ],
+            "answer": "D. Ajanta Neog"
+        },
+        {
+            "question": "In which year did Doordarshan start colour television programme in India?",
+            "options": [
+                "A. 1991",
+                "B. 1985",
+                "C. 1980",
+                "D. 1982"
+            ],
+            "answer": "B. 1985"
+        },
+        {
+            "question": "What is the primary product of Boeing company?",
+            "options": [
+                "A. Aircrafts",
+                "B. Breakfast cereals",
+                "C. Shoes",
+                "D. Medicines"
+            ],
+            "answer": "A. Aircrafts"
+        },
+        {
+            "question": "Which of the following is NOT an element?",
+            "options": [
+                "A. Tin",
+                "B. Mercury",
+                "C. Iodine",
+                "D. Quartz"
+            ],
+            "answer": "D. Quartz"
+        },
+        {
+            "question": "Which one of the following sports does not use a ball?",
+            "options": [
+                "A. Golf",
+                "B. Lawn Tennis",
+                "C. Table Tennis",
+                "D. Badminton"
+            ],
+            "answer": "A. Golf"
+        },
+        {
+            "question": "Which of the following is celebrated on May 8 every year?",
+            "options": [
+                "A. Environment Day",
+                "B. No Tobacco Day",
+                "C. Labour Day",
+                "D. Red Cross and Red Crescent Day"
+            ],
+            "answer": "D. Red Cross and Red Crescent Day"
+        },
+        {
+            "question": "Who was awarded the Ramon Magsaysay Award in 1994 in the category of Government Service?",
+            "options": [
+                "A. Arvind Kejriwal",
+                "B. T.N. Seshan",
+                "C. Dr. Kiran Bedi",
+                "D. Chintaman D. Deshmukh"
+            ],
+            "answer": "B. T.N. Seshan"
+        },
+        {
+            "question": "Which of the following was the first artificial satellite of India?",
+            "options": [
+                "A. Bhaskara",
+                "B. Rohini",
+                "C. Aryabhatta",
+                "D. INSAT – IA"
+            ],
+            "answer": "C. Aryabhatta"
+        },
+        {
+            "question": "If a person is transacting in “Taka”, which country the person is in?",
+            "options": [
+                "A. Nepal",
+                "B. Pakistan",
+                "C. Cambodia",
+                "D. Bangladesh"
+            ],
+            "answer": "D. Bangladesh"
+        },
+        {
+            "question": "Which country is the biggest exporter of asafoetida (hing) to India?",
+            "options": [
+                "A. Spain",
+                "B. Mexico",
+                "C. Afghanistan",
+                "D. Russia"
+            ],
+            "answer": "C. Afghanistan"
+        },
+        {
+            "question": "“God’s Own Country” is the tagline for tourism of which state of India?",
+            "options": [
+                "A. Karnataka",
+                "B. Jammu and Kashmir",
+                "C. Rajasthan",
+                "D. Kerala"
+            ],
+            "answer": "D. Kerala"
+        },
+        {
+            "question": "Which state is the North Eastern Police Academy located in?",
+            "options": [
+                "A. Assam",
+                "B. Meghalaya",
+                "C. Arunachal Pradesh",
+                "D. Manipur"
+            ],
+            "answer": "A. Assam"
+        },
+        {
+            "question": "Counter-Insurgency and Jungle Warfare School is located in Mizoram at _____.",
+            "options": [
+                "A. Aizawl",
+                "B. Lunglei",
+                "C. Serchhip",
+                "D. Vairengte"
+            ],
+            "answer": "D. Vairengte"
+        },
+        {
+            "question": "The animal Sangai is found in",
+            "options": [
+                "A. Keibul Lamjao National Park",
+                "B. Kaziranga National Park",
+                "C. Namdapha National Park",
+                "D. Nokrek National Park"
+            ],
+            "answer": "A. Keibul Lamjao National Park"
+        },
+        {
+            "question": "Who won the Whitley Award, also known as the Green Oscar for the efforts in protecting the Greater Adjutant Stork?",
+            "options": [
+                "A. Purnima Devi Barman",
+                "B. Jadav Payeng",
+                "C. Birubala Rabha",
+                "D. Rohit Choudhury"
+            ],
+            "answer": "A. Purnima Devi Barman"
+        },
+        {
+            "question": "The Right to Education Act as a Fundamental Right was enacted under _____.",
+            "options": [
+                "A. Article 21 (a)",
+                "B. Article 25",
+                "C. Article 18",
+                "D. Article 23"
+            ],
+            "answer": "A. Article 21 (a)"
+        },
+        {
+            "question": "Chanakya, the author of Arthashastra was a minister in the court of:",
+            "options": [
+                "A. Ashoka",
+                "B. Samudragupta",
+                "C. Chandragupta Maurya",
+                "D. Bindusara"
+            ],
+            "answer": "C. Chandragupta Maurya"
+        },
+        {
+            "question": "Who amongst the following was an explorer to visit India during the reign of Muhammad bin Tughlaq?",
+            "options": [
+                "A. Fahien",
+                "B. Hieun Tsang",
+                "C. Vasco da Gama",
+                "D. Ibn Battuta"
+            ],
+            "answer": "D. Ibn Battuta"
+        },
+        {
+            "question": "Who is the first Law and Justice Minister of Independent India?",
+            "options": [
+                "A. Vallabhbhai Patel",
+                "B. Maulana Abul Kalam Azad",
+                "C. C. Rajagopalachari",
+                "D. B.R. Ambedkar"
+            ],
+            "answer": "D. B.R. Ambedkar"
+        },
+        {
+            "question": "The Durand Line forms the dividing border between",
+            "options": [
+                "A. Pakistan and Afghanistan",
+                "B. Pakistan and India",
+                "C. India and Burma (Myanmar)",
+                "D. India and Bangladesh"
+            ],
+            "answer": "A. Pakistan and Afghanistan"
+        },
+        {
+            "question": "The National Inter-School football tournament in India is played for",
+            "options": [
+                "A. Durand Cup",
+                "B. Subroto Cup",
+                "C. Duleep Trophy",
+                "D. Irani Trophy"
+            ],
+            "answer": "B. Subroto Cup"
+        },
+        {
+            "question": "The first private bank of Assam set up in the year 1926 was",
+            "options": [
+                "A. Assam Co-operative Apex Bank Limited",
+                "B. The Gauhati Bank Limited",
+                "C. Assam Gramin Vikash Bank",
+                "D. Lakhimi Gaonlia Bank"
+            ],
+            "answer": "B. The Gauhati Bank Limited"
+        },
+        {
+            "question": "Who holds the position of the Chairman of NITI Aayog?",
+            "options": [
+                "A. Prime Minister of India",
+                "B. Finance Minister of India",
+                "C. Governor, Reserve Bank of India",
+                "D. Home Minister of India"
+            ],
+            "answer": "A. Prime Minister of India"
+        },
+        {
+            "question": "Which form of Democracy is followed in India?",
+            "options": [
+                "A. Representative Democracy",
+                "B. Presidential Democracy",
+                "C. Parliamentary Democracy",
+                "D. Participatory Democracy"
+            ],
+            "answer": "C. Parliamentary Democracy"
+        },
+        {
+            "question": "By which name is the river Brahmaputra known after it joins the river Ganga in Bangladesh?",
+            "options": [
+                "A. Lohit",
+                "B. Hooghly",
+                "C. Padma",
+                "D. Siang"
+            ],
+            "answer": "C. Padma"
+        },
+        {
+            "question": "The angular distance of any place from the Prime Meridian measured towards East and West is called",
+            "options": [
+                "A. Latitude",
+                "B. Altitude",
+                "C. Longitude",
+                "D. Amplitude"
+            ],
+            "answer": "C. Longitude"
+        },
+        {
+            "question": "Which of the following pairs is NOT correctly matched?",
+            "options": [
+                "A. Hydrosphere : Water",
+                "B. Biosphere : Environment",
+                "C. Atmosphere : Air",
+                "D. Lithosphere : Land"
+            ],
+            "answer": "B. Biosphere : Environment"
+        },
+        {
+            "question": "Tsunamis are caused in the",
+            "options": [
+                "A. Oceans",
+                "B. Deserts",
+                "C. High mountains",
+                "D. Deep forests"
+            ],
+            "answer": "A. Oceans"
+        },
+        {
+            "question": "Which of the following words does not appear in the preamble of the Constitution of India?",
+            "options": [
+                "A. Secular",
+                "B. Democratic",
+                "C. Federal",
+                "D. Socialist"
+            ],
+            "answer": "A. Secular"
+        },
+        {
+            "question": "The ancient tradition of exchanging goods for goods (trade without currency) is :",
+            "options": [
+                "A. Paik System",
+                "B. Barter System",
+                "C. Banking System",
+                "D. Rayat System"
+            ],
+            "answer": "B. Barter System"
+        },
+        {
+            "question": "The famous dish “Dal Baati Churma” is typically served in the state of :",
+            "options": [
+                "A. Punjab",
+                "B. Rajasthan",
+                "C. Bihar",
+                "D. Odisha"
+            ],
+            "answer": "B. Rajasthan"
+        },
+        {
+            "question": "Animals that feed on green plants are known as",
+            "options": [
+                "A. Omnivorous",
+                "B. Carnivorous",
+                "C. Cannibals",
+                "D. Herbivorous"
+            ],
+            "answer": "D. Herbivorous"
+        },
+        {
+            "question": "Which schedule of the Indian Constitution has made provisions for autonomous administration for hills and tribal regions of North East India?",
+            "options": [
+                "A. Sixth Schedule",
+                "B. Fifth Schedule",
+                "C. Eighth Schedule",
+                "D. Ninth Schedule"
+            ],
+            "answer": "A. Sixth Schedule"
+        },
+        {
+            "question": "Choose the correct SYNONYM for the word: Pompous",
+            "options": [
+                "A. Humble",
+                "B. Simple",
+                "C. Haughty",
+                "D. Unpretentious"
+            ],
+            "answer": "C. Haughty"
+        },
+        {
+            "question": "Choose the correct SYNONYM for the word: Timid",
+            "options": [
+                "A. Courageous",
+                "B. Brave",
+                "C. Coward",
+                "D. Bold"
+            ],
+            "answer": "C. Coward"
+        },
+        {
+            "question": "Choose the correct SYNONYM for the word: Virtue",
+            "options": [
+                "A. Vice",
+                "B. Morality",
+                "C. Dishonesty",
+                "D. Unworthy"
+            ],
+            "answer": "B. Morality"
+        },
+        {
+            "question": "Choose the correct ANTONYM for the word: Harass",
+            "options": [
+                "A. Irritate",
+                "B. Comfort",
+                "C. Molest",
+                "D. Seduce"
+            ],
+            "answer": "B. Comfort"
+        },
+        {
+            "question": "Choose the correct ANTONYM for the word: Gorgeous",
+            "options": [
+                "A. Magnificent",
+                "B. Dazzling",
+                "C. Beautiful",
+                "D. Dull"
+            ],
+            "answer": "D. Dull"
+        },
+        {
+            "question": "Choose the correct ANTONYM for the word: Bloom",
+            "options": [
+                "A. Wilt",
+                "B. Revive",
+                "C. Plant",
+                "D. Dry"
+            ],
+            "answer": "A. Wilt"
+        },
+        {
+            "question": "I always get nervous when I have to speak _____ an audience.",
+            "options": [
+                "A. in the front of",
+                "B. in front of",
+                "C. infront of",
+                "D. affront of"
+            ],
+            "answer": "B. in front of"
+        },
+        {
+            "question": "Submit your assignments _____ ten days of the announcement.",
+            "options": [
+                "A. within",
+                "B. by",
+                "C. with in",
+                "D. before"
+            ],
+            "answer": "A. within"
+        },
+        {
+            "question": "No student or teacher should be _____ this famous reference book.",
+            "options": [
+                "A. with",
+                "B. without",
+                "C. given",
+                "D. despite"
+            ],
+            "answer": "B. without"
+        },
+        {
+            "question": "A number of vehicles travelling together under escort for the sake of safety is called",
+            "options": [
+                "A. Regiment",
+                "B. Convoy",
+                "C. Escort",
+                "D. Cavalry"
+            ],
+            "answer": "B. Convoy"
+        },
+        {
+            "question": "Love for one’s country is known as",
+            "options": [
+                "A. Jingoism",
+                "B. Patriotism",
+                "C. Nationalism",
+                "D. Expatriate"
+            ],
+            "answer": "B. Patriotism"
+        },
+        {
+            "question": "A gifted scientist, Newton _____ some of the most fundamental laws in the history of science.",
+            "options": [
+                "A. keeps discovering",
+                "B. who discovered",
+                "C. discovered",
+                "D. kept from discovering"
+            ],
+            "answer": "C. discovered"
+        },
+        {
+            "question": "We are all worried about the _____ condition of the company.",
+            "options": [
+                "A. monetary affair",
+                "B. financial",
+                "C. finance",
+                "D. monetary"
+            ],
+            "answer": "B. financial"
+        },
+        {
+            "question": "Choose the correct order to complete the sentence : I. relationship between two or more II. people, places or things III. a relationship in space or time as a logical IV. prepositions are used to show",
+            "options": [
+                "A. II, III, IV, I",
+                "B. II, IV, I, III",
+                "C. IV, III, I, II",
+                "D. IV, III, II, I"
+            ],
+            "answer": "D. IV, III, II, I"
+        },
+        {
+            "question": "A group of lions is called",
+            "options": [
+                "A. Herd",
+                "B. Pride",
+                "C. Pack",
+                "D. Bunch"
+            ],
+            "answer": "B. Pride"
+        },
+        {
+            "question": "What would be the next to continue the series: PENTAGRAPH – ENTAGRAP – NTAGRA – ?",
+            "options": [
+                "A. GRAT",
+                "B. TAGR",
+                "C. NTAG",
+                "D. AGRA"
+            ],
+            "answer": "A. GRAT"
+        },
+        {
+            "question": "Identify the incorrect term in the series: 7 – 10 – 15 – 22 – 30 – 42 – 55",
+            "options": [
+                "A. 30",
+                "B. 15",
+                "C. 22",
+                "D. 55"
+            ],
+            "answer": "D. 55"
+        },
+        {
+            "question": "Identify the incorrect term in the series: (2, 6, 24, 60, 120, 216)",
+            "options": [
+                "A. 216",
+                "B. 120",
+                "C. 24",
+                "D. 0"
+            ],
+            "answer": "D. 0"
+        },
+        {
+            "question": "Which of the following pairs is related in a similar way as 'New Delhi : Charminar'?",
+            "options": [
+                "A. Kolkata : Victoria Memorial",
+                "B. Chennai : Red Fort",
+                "C. Mumbai : Gateway of India",
+                "D. Agra : Taj Mahal"
+            ],
+            "answer": "A. Kolkata : Victoria Memorial"
+        },
+        {
+            "question": "Which of the following pairs is NOT correct?",
+            "options": [
+                "A. Geology : Earth",
+                "B. Meteorology : Atmosphere",
+                "C. Zoology : Animals",
+                "D. Astrology : Space"
+            ],
+            "answer": "D. Astrology : Space"
+        },
+        {
+            "question": "Identify the term related to the military:",
+            "options": [
+                "A. Camouflage",
+                "B. Carnage",
+                "C. Cabbage",
+                "D. Cartilage"
+            ],
+            "answer": "A. Camouflage"
+        },
+        {
+            "question": "Which of the given pairs has a similar relationship as 'Engine : Vehicle'?",
+            "options": [
+                "A. Filament : Bulb",
+                "B. Thread : Needle",
+                "C. Cup : Plate",
+                "D. Ball : Bat"
+            ],
+            "answer": "B. Thread : Needle"
+        },
+        {
+            "question": "Identify the number that should not belong to the group.",
+            "options": [
+                "A. 1331",
+                "B. 1728",
+                "C. 3375",
+                "D. 2788"
+            ],
+            "answer": "D. 2788"
+        },
+        {
+            "question": "Identify the word that is different from others.",
+            "options": [
+                "A. SMILES",
+                "B. SPORTS",
+                "C. AGENDA",
+                "D. SPACES"
+            ],
+            "answer": "C. AGENDA"
+        },
+        {
+            "question": "Introducing Geeta to Priya, Rajani says, 'She is the daughter of the only son of my grandfather'. How is Geeta related to Rajani?",
+            "options": [
+                "A. Mother",
+                "B. Sister",
+                "C. Aunt",
+                "D. Niece"
+            ],
+            "answer": "D. Niece"
+        },
+        {
+            "question": "If the number 4532986 is reversed, the digit that does not change its position, is",
+            "options": [
+                "A. 5",
+                "B. 3",
+                "C. 2",
+                "D. 9"
+            ],
+            "answer": "D. 9"
+        },
+        {
+            "question": "Which of the following words contains both of the two middlemost letters of English alphabets?",
+            "options": [
+                "A. MAN",
+                "B. LAME",
+                "C. NOTE",
+                "D. KILN"
+            ],
+            "answer": "C. NOTE"
+        },
+        {
+            "question": "While coming down a staircase, Jignesh walks down 4 steps, up 3 steps, down 6 steps, up 2 steps, up 10 steps, and down 2 steps. Where is he standing in relation to the step on which he started his exercise?",
+            "options": [
+                "A. 3 steps above",
+                "B. 1 step above",
+                "C. The same place",
+                "D. 3 steps below"
+            ],
+            "answer": "D. 3 steps below"
+        },
+        {
+            "question": "Which of the following does not follow a rule set by others?",
+            "options": [
+                "A. MPRTV",
+                "B. PRTVX",
+                "C. CEGIK",
+                "D. OQSUW"
+            ],
+            "answer": "C. CEGIK"
+        },
+        {
+            "question": "A + B means A is the mother of B. A – B means A is the brother of B. A @ B means A is the father of B, and A × B means A is the sister of B. Which of the following alternatives shows that P is the maternal uncle of Q?",
+            "options": [
+                "A. Q – N + M × P",
+                "B. P + S × N – Q",
+                "C. P – M + N × Q",
+                "D. Q – S @ P"
+            ],
+            "answer": "C. P – M + N × Q"
+        },
+        {
+            "question": "In a bicycle race Mohit was leading the race with Kiran just behind. Reshma was at the last position, but after some time overtakes Pinky. At the last bend, Pinky overtakes Kiran, exactly when Reshma overtakes Mohit to win the race. Who completed the race last?",
+            "options": [
+                "A. Mohit",
+                "B. Reshma",
+                "C. Kiran",
+                "D. Pinky"
+            ],
+            "answer": "B. Reshma"
+        },
+        {
+            "question": "How many 4’s are there in the given series which are immediately preceded by an even number and immediately followed by a vowel?\n6 4 D 5 3 4 I 3 B D 6 8 4 U 6 4 A M 1 5 4 E 9 G 3 1 6 K L B 2 4 O 5 4",
+            "options": [
+                "A. 5",
+                "B. 2",
+                "C. 0",
+                "D. 3"
+            ],
+            "answer": "B. 2"
+        },
+        {
+            "question": "In the series: 36, 34, 30, 28, 24, …… which two numbers should come next?",
+            "options": [
+                "A. 22, 18",
+                "B. 26, 12",
+                "C. 25, 15",
+                "D. 20, 10"
+            ],
+            "answer": "A. 22, 18"
+        },
+        {
+            "question": "Identify the odd one in the following words:",
+            "options": [
+                "A. Egypt",
+                "B. Angola",
+                "C. Uganda",
+                "D. Sudan"
+            ],
+            "answer": "A. Egypt"
+        },
+        {
+            "question": "Which number replaces the question mark (?) in the series: 12, 11, 13, 12, 14, 13, ? , …",
+            "options": [
+                "A. 10",
+                "B. 16",
+                "C. 15",
+                "D. 13"
+            ],
+            "answer": "B. 16"
+        },
+        {
+            "question": "If the words Parts and Strap are related in some ways, then which word should be similarly related to Wolf?",
+            "options": [
+                "A. Flow",
+                "B. Animal",
+                "C. Wood",
+                "D. Fox"
+            ],
+            "answer": "D. Fox"
+        },
+        {
+            "question": "In a certain code, MILITARY is written as NIMIUASY. How will SEMINARY be written in the same code?",
+            "options": [
+                "A. RENIOASY",
+                "B. TENIOASY",
+                "C. TENIMASY",
+                "D. RENIMASY"
+            ],
+            "answer": "C. TENIMASY"
+        },
+        {
+            "question": "Which of the following words does not belong to the same group?",
+            "options": [
+                "A. Ship",
+                "B. Motorboat",
+                "C. Train",
+                "D. Aircraft"
+            ],
+            "answer": "C. Train"
+        },
+        {
+            "question": "Which of the following is unlike with the rest of the words?",
+            "options": [
+                "A. Hanger",
+                "B. Airport",
+                "C. Aeroplane",
+                "D. Aircraft"
+            ],
+            "answer": "A. Hanger"
+        }
+    ]
+}
