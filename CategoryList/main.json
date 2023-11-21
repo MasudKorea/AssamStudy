@@ -24,6 +24,11 @@
             "name": "Assam after Independence (1947 and Onwards)",
             "sourceUrl": "https://masudkorea.github.io/StudyAssam/CategoryList/postindependence.json",
             "imageUrl": "not_updated"
+        },
+        {
+            "name": "Previous Year Questions",
+            "sourceUrl": "https://masudkorea.github.io/QuestionAnswers/001_index.json",
+            "imageUrl": "not_updated"
         }
     ]
 }
