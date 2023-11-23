@@ -1,1 +1,505 @@
-
+{
+    "name": "Polity of Assam",
+    "questions": [
+        {
+            "question": "When was Assam separated from the Bengal Presidency?",
+            "options": [
+                "A. 1854",
+                "B. 1874",
+                "C. 1901",
+                "D. 1947"
+            ],
+            "answer": "B. 1874 (In 1874 (2nd February), Assam was separated from the Bengal Presidency, and its status was upgraded to a Chief Commissioner's Province by merging Goalpara, Cachar, Sylhet (12 Sept), Garo, Khasi and Jaintia Hills, Lushai and Naga Hills. The Ahom kingdom on the border of the Mughal Empire, 1665.)"
+        },
+        {
+            "question": "When was Assam re-constituted into a Chief Commissioner's province?",
+            "options": [
+                "A. 1874",
+                "B. I 906",
+                "C. 1912",
+                "D. 1921"
+            ],
+            "answer": "C. 1912 (In 1912, Assam was reconstituted into a Chief Commissioner's Province.)"
+        },
+        {
+            "question": "Who was the first Chief Commissioner of Assam after it was reconstituted into a Chief Commissioner's province?",
+            "options": [
+                "A. Sir Archdale Easle",
+                "B. Sir Henry Joseph Tuynam",
+                "C. Charles Alexander Bruce",
+                "D. David Scott"
+            ],
+            "answer": "A. Sir Archdale Easle (Sir Archdale Easle was the first Chief Commissioner of Assam after it was reconstituted into a Chief Commissioner's province.)"
+        },
+        {
+            "question": "In which year The Legislative Council of Assam was created?",
+            "options": [
+                "A. 1912",
+                "B. 1913",
+                "C. 1909",
+                "D. 1911"
+            ],
+            "answer": "B. 1913 (The Legislative Council of Assam first met on 6th January 1913 at 11 a.m. at Shillong, which was presided over by Sir Archdale Easle, the Chief Commissioner of Assam, Under the Government of India Act.)"
+        },
+        {
+            "question": "When was The Assam Rural Self-Government Act passed?",
+            "options": [
+                "A. 1925",
+                "B. 1926",
+                "C. 1930",
+                "D. 1934"
+            ],
+            "answer": "B. 1926 (In 1926, the Assam Rural Self-Government Act was passed with a view to provide an administrative setup where villagers could participate for solution of their own problems under this Act, powers were given to the panchayat and provision was made to increase the powers and functions of the panchayat in course of time in under the same Act.)"
+        },
+        {
+            "question": "When was the Assam Legislative Assembly formed?",
+            "options": [
+                "A. 7th April 1935",
+                "B. 7th April 1936",
+                "C. 7th April 1937",
+                "D. 7th April 1945"
+            ],
+            "answer": "C. 7th April 1937 (The Assam Legislative Assembly came into being on the day of its first sitting on April 7, 1937 in the Assembly Chamber at Shillong, the erstwhile Capital of the composite State of Assam.)"
+        },
+        {
+            "question": "Which article of the Constitution of Indian has special provision with respect to the State of Assam?",
+            "options": [
+                "A. Article 371",
+                "B. Article 371 B",
+                "C. Article 273",
+                "D. Article 300 B"
+            ],
+            "answer": "B. Article 371B (Article 371 B - Special provision with respect to the State of Assam.)"
+        },
+        {
+            "question": "How many districts in Assam had before the Independence in 1947?",
+            "options": [
+                "A. 9",
+                "B. 23",
+                "C. 21",
+                "D. 13"
+            ],
+            "answer": "D. 13 (Before the Independence in 1947, Assam had 13 districts. The districts were Cachar, Darrang, Goalpara, Kamrup, Lakhimpur, Nagaon, Sivasagar, Jayantia parganas, Garo hills, Lushai hills, Naga hills, Sylhet and NEFA.)"
+        },
+        {
+            "question": "Which was the former capital of post-independence Assam?",
+            "options": [
+                "A. Shillong",
+                "B. Jorhat",
+                "C. Sivasagar",
+                "D. Dibrugarh"
+            ],
+            "answer": "A. Shillong (The capital of Assam was Shillong, currently the capital of Meghalaya. Prior to the Partition of India, Sylhet was a part of Assam. Undivided Assam had a total area of 234,568 km2/90,567 sq mi)"
+        },
+        {
+            "question": "The Assam Public Service Commission (APSC) came into existence on",
+            "options": [
+                "A. 1st April 1937",
+                "B. 1st April 1939",
+                "C. 1st April 1979",
+                "D. 1st April 1992"
+            ],
+            "answer": "A. 1st April 1937"
+        },
+        {
+            "question": "When was the Assam Legislative Council abolished?",
+            "options": [
+                "A. 1945",
+                "B. 1947",
+                "C. 1948",
+                "D. 1950"
+            ],
+            "answer": "B. 1947 (The bicameral Assam Legislative Assembly became unicameral with the abolition of the Assam Legislative Council in 1947.)"
+        },
+        {
+            "question": "Who was the first Chief Minister of Assam?",
+            "options": [
+                "A. Bishnuram Medhi",
+                "B. Tarun Ram Phukan",
+                "C. Gopinath Bordoloi",
+                "D. None of the Above"
+            ],
+            "answer": "C. Gopinath Bordoloi"
+        },
+        {
+            "question": "Who was the Chief Minister of Assam when the 5 Year Plans were first introduced?",
+            "options": [
+                "A. Gopinath Bordoloi",
+                "B. Bishnu Ram Medhi",
+                "C. Sarat Chandra Singha",
+                "D. Bimala Prasad Chaliha"
+            ],
+            "answer": "B. Bishnu Ram Medhi (When Gopinath Bordoloi passed away in 1950, Bishnu Ram Medhi took over as the next Chief Minister of Assam. During his tenure from 1950 to 1957, the First Five-Year Plan was started, Panchayat system of governance was introduced and the agricultural sector got more importance.)"
+        },
+        {
+            "question": "Who was the first speaker of the Assam Legislative Assembly?",
+            "options": [
+                "A. Babu Basanta Kumar Des",
+                "B. Debeswar Sarmah",
+                "C. Kuladhar Chaliha",
+                "D. Devakanta Barcoah"
+            ],
+            "answer": "A. Babu Basanta Kumar Das (Late Babu Basanta Kumar Das was the first Speaker of the Assam Legislative Assembly.)"
+        },
+        {
+            "question": "Who was the first Chief Justice of the Assam High Court?",
+            "options": [
+                "A. R.F. Lodge",
+                "B. C.P. Sinha",
+                "C. Sarjoo Prasad",
+                "D. Holiram Deka"
+            ],
+            "answer": "A. R.F. Lodge (Sir R.F. Lodge was sworn in as the first Chief Justice of Assam High Court on 5th April 1948.)"
+        },
+        {
+            "question": "The Assam Public Service Commission (APSC) Regulation was promulgated in the exercise of the powers in which year?",
+            "options": [
+                "A. 1947",
+                "B. 1950",
+                "C. 1951",
+                "D. 1960"
+            ],
+            "answer": "C. 1951 (Shri Kameswar Das, an educationist of repute of Assam, was the first non-official Chairman of the Commission after promulgation of the APSC Regulations 1951. He held the office till July 1952. The Public Service Commission is a body created by the Constitution of India.)"
+        },
+        {
+            "question": "Assam Language Bill was passed in the year:",
+            "options": [
+                "A. 1940",
+                "B. 1950",
+                "C. 1960",
+                "D. 1970"
+            ],
+            "answer": "C. 1960 (Assam Language Bill provided for two official languages- Assamese and for an interim period, English. The bill passed on October 24, 1960, included safeguards for linguistic minorities as well. Thus in 1960 the Assam official Language Bill was passed and Assamese was declared as the official language of the state.)"
+        },
+        {
+            "question": "Who presented the Assam Official Language Bill to make Assamese as the sole official language of Assam?",
+            "options": [
+                "A. Gopinath Bordoloi",
+                "B. Bishnu Ram Medhi",
+                "C. Sarat Chandra Singha",
+                "D. Bimala Prasad Chaliha"
+            ],
+            "answer": "D. Bimala Prasad Chaliha (The government of Assam, under the then Chief Minister Bimala Prasad Chaliha proposed the Assamese Official Language Bill in the Assembly on 10 October 1960. The Bill provided for two official languages- Assamese and for an interim period, English.)"
+        },
+        {
+            "question": "Which state was separated from Assam in 1963?",
+            "options": [
+                "A. Nagaland",
+                "B. Meghalaya",
+                "C. Tripura",
+                "D. Manipur"
+            ],
+            "answer": "A. Nagaland (Nagaland was the first to be carved out of Assam in 1963)"
+        },
+        {
+            "question": "In which year the All Assam Students Union (AASU) established as a formal organisation and adopted its Constitution?",
+            "options": [
+                "A. 1962",
+                "B. 1967",
+                "C. 1987",
+                "D. 1979"
+            ],
+            "answer": "B. 1967 (In 1940, a student union named Asom Chattra Sanmilani (Assam Students' Association) divided into the All Assam Student Federation and the All Assam Students' Congress. A decade later the two recombined as the All Assam Students' Association, which was later renamed All Assam Students' Union in January 1967. In August 1967, the Union 'established itself as a formal organisation and adopted its Constitution')"
+        },
+        {
+            "question": "Which of the following years the All Bodo Students Union (ABSU) was formed?",
+            "options": [
+                "A. 1962",
+                "B. 1967",
+                "C. 1987",
+                "D. 1979"
+            ],
+            "answer": "B. 1967 (Bodo nationalists established the All Bodo Students' Union (ABSU) in the state of Assam to promote an independent Bodo state beginning in February 1967.)"
+        },
+        {
+            "question": "When was the Northeastern (Reorganisation Areas) Act passed?",
+            "options": [
+                "A. 1963",
+                "B. 1971",
+                "C. 1974",
+                "D. 1985"
+            ],
+            "answer": "B. 1971 (30th December, 1971. An Act to provide for the establishment of the States of Manipur and Tripura and to provide for the formation of the State of Meghalaya and of the Union territories of Mizoram and Arunachal Pradesh by reorganisation of the existing State of Assam and for matters connected therewith.)"
+        },
+        {
+            "question": "What is the date for expelling illegal migrants under clause 5.8 of the Assam Accord?",
+            "options": [
+                "A. March 15, 1951",
+                "B. March 24, 1951",
+                "C. March 24, 1971",
+                "D. March 31, 1971"
+            ],
+            "answer": "C. March 24, 1971 (Clause 5 of Assam Accord: 5.8 Foreigners who came to Assam on or after March 25, 1971 shall continue to be detected, deleted and expelled in accordance with law. Immediate and practical steps shall be taken to expel such foreigners.)"
+        },
+        {
+            "question": "When was Mizoram separated from Assam?",
+            "options": [
+                "A. 1954",
+                "B. 1972",
+                "C. 1948",
+                "D. 1964"
+            ],
+            "answer": "B. 1972 (Mizoram was previously part of Assam until 1972, when it was carved out as a Union Territory. In 1986 the Indian Parliament adopted the 53rd amendment of the Indian Constitution, which allowed for the creation of the State of Mizoram on 20 February 1987, as India's 23rd state.)"
+        },
+        {
+            "question": "In which year, the capital of Assam shifted from Shillong to Dispur?",
+            "options": [
+                "A. 1950",
+                "B. 1955",
+                "C. 1971",
+                "D. 1973"
+            ],
+            "answer": "D. 1973 (In 1963, Nagaland came into being as a separate State. With the passing of North Eastern (Reorganization Areas) Act in 1971 by the Parliament, Meghalaya became a full-fledged state. Subsequently, Mizoram and Arunachal Pradesh also followed suit. After the creation of Meghalaya as a separate state, Shillong continued to be the joint capital of both Assam and Meghalaya. However, the Government of Assam decided to shift the Capital to Dispur, Guwahati. Accordingly, the first sitting of the Budget Session of the Assam Legislative Assembly was held at the temporary capital at Dispur on the 16th March, 1973.)"
+        },
+        {
+            "question": "In the 1978 election, Golap Borborah was the first non-congress CM of Assam; he is the CM of which political Party?",
+            "options": [
+                "A. Janata Party",
+                "B. Ganashakti",
+                "C. Assam Gana Parishad",
+                "D. AJP"
+            ],
+            "answer": "A. Janata Party (Congress monopoly in the state was brought to an end when Golap Borbora led the Janata Party to victory in the 1978 assembly elections. Borbora consequently became the first non congress Chief Minister of Assam.)"
+        },
+        {
+            "question": "Census work in Assam was not conducted in",
+            "options": [
+                "A. 1971",
+                "B. 1981",
+                "C. 1991",
+                "D. 1961"
+            ],
+            "answer": "B. 1981 (In 1981 Census could not be conducted in Assam due to the disturbed conditions.)"
+        },
+        {
+            "question": "Which of the following is INCORRECT about the first president's rule in Assam?",
+            "options": [
+                "A. On 12 December 1979 for the first time, Assam was under the president's rule.",
+                "B. Jogen Hazarika was the CM when the first president's rule was declared.",
+                "C. On 6 December 1980, the president‟s rule was cancelled.",
+                "D. Hiteswar Saikia was the CM when the first president's rule was declared."
+            ],
+            "answer": "D. Hiteswar Saikia was the CM when the first president's rule was declared. (Reason(s) to impose the President's rule: 'Assam Agitation' against illegal foreign national staying in Assam started to take roots under the leadership of the All Assam Students‟Union (AASU). The violence fuelled by United Liberation Front of Asom (ULFA) resulted in breakdown of law and order.)"
+        },
+        {
+            "question": "The historic Assam Accord was signed on",
+            "options": [
+                "A. 15th August 1985",
+                "B. 26th January 1986",
+                "C. 15th August 1986",
+                "D. 15th August 1990"
+            ],
+            "answer": "A. 15th August 1985 (The Assam Accord was signed on 15th August, 1985 amongst Union of India, Govt. of Assam, All Assam Student Union, All Assam Gana Sangram Parishad.)"
+        },
+        {
+            "question": "Which clause of the Assam Accord deals with constitutional protections to the people of Assam?",
+            "options": [
+                "A. Clause 4",
+                "B. Clause 5",
+                "C. Clause 6",
+                "D. Clause 7"
+            ],
+            "answer": "C: Clause 6 (What is Clause 6?: Part of the Assam Accord that came at the culmination of a movement against immigration from Bangladesh, Clause 6 reads: “Constitutional, legislative and administrative safeguards, as may be appropriate, shall be provided to protect, preserve and promote the cultural, social, linguistic identity and heritage of the Assamese people.”)"
+        },
+        {
+            "question": "A committee to implement clause 6 of the Assam Accord is being led by",
+            "options": [
+                "A. Justice BK Sarma",
+                "B. Justice Ranjan Gogoi",
+                "C. Justice PK Goswami",
+                "D. Justice Madan B Lokur"
+            ],
+            "answer": "A. Justice BK Sarma (The committee was headed by retired High Court judge Biplab Kumar Sarma and including members of the legal fraternity, retired civil servants, scholars, journalists and AASU office-bearers)"
+        },
+        {
+            "question": "Which party came to power in Assam in 1985?",
+            "options": [
+                "A. Janata",
+                "B. Asom Gana Parishad",
+                "C. Dravida Munnetra Kazhagam",
+                "D. Congress"
+            ],
+            "answer": "B. Asom Gana Parishad (Asom Gana Parishad was launched in Golaghat on 14 October 1985.)"
+        },
+        {
+            "question": "Which of the following cultural institutions was born out of the Assam Accord?",
+            "options": [
+                "A. Rock Garden",
+                "B. Assam state museum",
+                "C. Rabindra Bhawan",
+                "D. Srimanta Sankardev Kalakshetra"
+            ],
+            "answer": "D. Srimanta Sankardev Kalakshetra (In the year 1990 the Government of Assam had taken up with the Government of India, the matter of placing the project of the Kalakshetra under Clause VI of the “Assam Accord 1985”, which says –“Constitutional, legislative and administrative safeguards, as may be appropriate, shall be provided to protect, preserve and promote the cultural, social, linguistic identity and heritage of the Assamese people”.)"
+        },
+        {
+            "question": "Who was the prime minister of India during the signing of the Assam Accord?",
+            "options": [
+                "A. Indira Gandhi",
+                "B. Deve Gowda",
+                "C. AB Vajpayee",
+                "D. Rajiv Gandhi"
+            ],
+            "answer": "D. Rajiv Gandhi (The Assam Accord was a Memorandum of Settlement (MoS) signed between representatives of the Government of India and the leaders of the Assam Movement. It was signed in the presence of the then Prime Minister Rajiv Gandhi in New Delhi on 15 August 1985.)"
+        },
+        {
+            "question": "Which refinery was established due to the 'Assam Accord'?",
+            "options": [
+                "A. Guwahati",
+                "B. Bongaigaon",
+                "C. Numaligarh",
+                "D. Digboi"
+            ],
+            "answer": "C. Numaligarh (Numaligarh Refinery Limited, known as 'Assam Accord Refinery')"
+        },
+        {
+            "question": "Which one is INCORRECT about Syeda Anwara Taimur?",
+            "options": [
+                "A. She is the only female Chief Minister of Assam",
+                "B. She is the first Muslim Chief Minister of any Indian state",
+                "C. She is the only Muslim Chief Minister of Assam",
+                "D. She was Finance Minister of Assam from 1983 to 1985"
+            ],
+            "answer": "D. She was Finance minister of Assam from 1983 to 1985 (From 1983 to 1985 she was the PWD minister of the same state.)"
+        },
+        {
+            "question": "The capacity of the Assam Assembly is",
+            "options": [
+                "A. 125",
+                "B. 126",
+                "C. 127",
+                "D. 129"
+            ],
+            "answer": "B. 126 (The Legislative Assembly comprises 126 Members of Legislative Assembly, directly elected from single-seat constituencies.)"
+        },
+        {
+            "question": "From which year, Assam BidhanSava Seats are fit to 126:",
+            "options": [
+                "A. 1970",
+                "B. 1972",
+                "C. 1985",
+                "D. 1992"
+            ],
+            "answer": "B. 1972"
+        },
+        {
+            "question": "The total numbers of parliamentary constituencies in Assam are? or The no. of Lok Sabha seats in Assam are now",
+            "options": [
+                "A. 13",
+                "B. 14",
+                "C. 15",
+                "D. 16"
+            ],
+            "answer": "B. 14"
+        },
+        {
+            "question": "Which article provides for the duration of the Assam Legislative Assembly as 5 years?",
+            "options": [
+                "A. Article 150",
+                "B. Article 161",
+                "C. Article 172",
+                "D. Article 181"
+            ],
+            "answer": "C. Article 172 (Although the Article 172 provides the duration of State Legislative Assembly as 5 years due to the imposition of National Emergency in 1975 the fifth Assam Assembly lasted for 6 years.)"
+        },
+        {
+            "question": "Assam Assembly is elected by universal adult suffrage for a period of",
+            "options": [
+                "A. Four years",
+                "B. Five years",
+                "C. Six years",
+                "D. Seven years"
+            ],
+            "answer": "B. Five years (The Assam Assembly is elected by universal adult suffrage for a period of five years.)"
+        },
+        {
+            "question": "When was the Assam Right to Information Act enacted in Assam?",
+            "options": [
+                "A. 2001",
+                "B. 2002",
+                "C. 2003",
+                "D. 2005"
+            ],
+            "answer": "A. 2001 (Enacted in 2001, Received Governors assent on 2nd May, 2002 & Came into force on 7th May, 2002.)"
+        },
+        {
+            "question": "Which of the following districts has been created as the 34th District of Assam?",
+            "options": [
+                "A. Biswanath",
+                "B. Majuli",
+                "C. West Karbi Anglong",
+                "D. Bajali"
+            ],
+            "answer": "D. Bajali (On 8 August 2020 The Assam cabinet approved a proposal to make Bajali (curved out of Barpeta) the 34th full-fledged district of Assam.)"
+        },
+        {
+            "question": "How many times were the President‟s rule imposed on Assam after independence?",
+            "options": [
+                "A. 2 times",
+                "B. 3 times",
+                "C. 4 times",
+                "D. 5 times"
+            ],
+            "answer": "C. 4 times 1st 12 December 1979 to 5 December 1980 (359 days) 2nd 30 June 1981 to 13 January 1982 (197 days) 3rd 19 March 1982 to 27 February 1983 (345 days) 4th 28 November 1990 to 30 June 1991 (214 days)"
+        },
+        {
+            "question": "Which Schedule of the Indian Constitution deals with administrative provisions of tribal areas in Assam, Meghalaya, Tripura, and Mizoram?",
+            "options": [
+                "A. First",
+                "B. Second",
+                "C. Sixth",
+                "D. Twelfth"
+            ],
+            "answer": "C. Sixth (The Sixth Schedule of the Constitution provides for the administration of tribal areas in Assam, Meghalaya, Tripura and Mizoram to safeguard the rights of the tribal population in these states. This special provision is provided under Article 244(2) and Article 275(1) of the Constitution.)"
+        },
+        {
+            "question": "The first state to ratify Central Govt's GST Bill",
+            "options": [
+                "A. Rajasthan",
+                "B. Madhya Pradesh",
+                "C. Assam",
+                "D. Chhattisgarh"
+            ],
+            "answer": "C. Assam (On 12 August 2016, Assam became the first state to ratify the bill, when the Assam Legislative Assembly unanimously approved it.)"
+        },
+        {
+            "question": "How many Autonomous Councils are in Assam under the Sixth-Schedule of the Indian Constitution?",
+            "options": [
+                "A. 3 Autonomous Councils",
+                "B. 4 Autonomous Councils",
+                "C. 6 Autonomous Councils",
+                "D. 10 Autonomous Councils"
+            ],
+            "answer": "A. 3 Autonomous Councils (In Assam there are 3 Autonomous Councils under Sixth-Schedule of the Indian Constitution. The 3 Autonomous Councils are: Bodoland Territorial Council, Dima Hasao Autonomous District Council & Karbi Anglong Autonomous District Council)"
+        },
+        {
+            "question": "In Assam state Assembly, seats are reserved for ST & SC Candidates are:",
+            "options": [
+                "A. ST 16, SC 8",
+                "B. ST 8, SC 16",
+                "C. ST 18, SC 9",
+                "D. ST 9, SC 18"
+            ],
+            "answer": "A. ST 16, SC 8 (The number of constituencies of Assam Legislative Assembly at the time of its inception on 7 April 1937 was 108. In 1957 it was reduced to 105. In 1962, the number of constituencies was enhanced to 114 and since 1972, it is 126. Since 1976, 8 constituencies are reserved for the Scheduled castes candidates and 16 constituencies are reserved for Scheduled tribes candidates.)"
+        },
+        {
+            "question": "From 14 seats only Lok Sabha seat is reserved for ST is:",
+            "options": [
+                "A. Karimganj",
+                "B. Dhubri",
+                "C. Silchar",
+                "D. Kokrajhar"
+            ],
+            "answer": "A. Karimganj"
+        },
+        {
+            "question": "Choose the correct one in relation to CAA.\ni. CAA is 126th amendment in Lok sabha ii. CAB was introduced by Amit Shah iii. 31 December 2014 All the minorities (Hindu, Sikh, Jain, Buddhist, Christian & Parchies) from Pakistan, Bangladesh & Afghanistan are given citizenship. iv. CAA 2019 citizenship amendment is the 6th amendment of B55.",
+            "options": [
+                "A. Only i is correct",
+                "B. Both i & ii are correct",
+                "C. i, ii, & iii are correct",
+                "D. All statements are correct"
+            ],
+            "answer": "D. All statements are correct"
+        }
+    ]
+}
