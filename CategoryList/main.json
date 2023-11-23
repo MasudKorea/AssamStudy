@@ -26,6 +26,11 @@
             "imageUrl": "not_updated"
         },
         {
+            "name": "Assam Quiz (Online Sources)",
+            "sourceUrl": "https://masudkorea.github.io/StudyAssam/AssamQuiz/main.json",
+            "imageUrl": "not_updated"
+        },
+        {
             "name": "Previous Year Questions",
             "sourceUrl": "https://masudkorea.github.io/StudyAssam/QuestionAnswers/main.json",
             "imageUrl": "not_updated"
