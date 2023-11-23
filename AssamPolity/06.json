@@ -1,0 +1,470 @@
+{
+    "name": "Panchayati Raj",
+    "questions": [
+        {
+            "question": "The subject of Panchayati Raj is in",
+            "options": [
+                "A. Concurrent List",
+                "B. Union List",
+                "C. State List",
+                "D. Residual List"
+            ],
+            "answer": "C. State List"
+        },
+        {
+            "question": "The decision to conduct Panchayat Elections is taken by which of the following?",
+            "options": [
+                "A. The Central Government",
+                "B. The State Government",
+                "C. The District Judge",
+                "D. The Election Commission"
+            ],
+            "answer": "B. The State Government"
+        },
+        {
+            "question": "When was the first Panchayati Raj Act implemented in Assam?",
+            "options": [
+                "A. 1935",
+                "B. 1948",
+                "C. 1952",
+                "D. 1974"
+            ],
+            "answer": "B. 1948"
+        },
+        {
+            "question": "Assam's first Panchayati Raj legislation namely Assam Rural Panchayat Act, was passed in which year?",
+            "options": [
+                "A. 1945",
+                "B. 1948",
+                "C. 1950",
+                "D. 1953"
+            ],
+            "answer": "B. 1948"
+        },
+        {
+            "question": "Which of the following articles is related to Panchayati Raj?",
+            "options": [
+                "A. Article 243",
+                "B. Article 324",
+                "C. Article 124",
+                "D. Article 73"
+            ],
+            "answer": "A. Article 243"
+        },
+        {
+            "question": "Which of the following committees recommended the Panchayati Raj System in India?",
+            "options": [
+                "A. Punchhi Samiti",
+                "B. Balwantrai Mehta Committee",
+                "C. Singhvi Committee",
+                "D. None of the following"
+            ],
+            "answer": "B. Balwantrai Mehta Committee"
+        },
+        {
+            "question": "Which one of the following Amendments of the Constitution of India deals with the issue of strengthening of the Panchayati Raj?",
+            "options": [
+                "A. 42nd",
+                "B. 44th",
+                "C. 73rd",
+                "D. 86th"
+            ],
+            "answer": "C. 73rd"
+        },
+        {
+            "question": "The list of items which may be entrusted to the Panchayats is given in the:",
+            "options": [
+                "A. Tenth Schedule",
+                "B. Eleventh Schedule",
+                "C. Twelfth Schedule",
+                "D. Seventh Schedule"
+            ],
+            "answer": "B. Eleventh Schedule"
+        },
+        {
+            "question": "On which date, National Panchayati Raj Day is observed?",
+            "options": [
+                "A. January 28",
+                "B. February 26",
+                "C. March 11",
+                "D. April 24"
+            ],
+            "answer": "D. April 24"
+        },
+        {
+            "question": "When the Two-tier panchayat system i.e. primary panchayat and rural panchayat was adopted in Assam?",
+            "options": [
+                "A. 1948",
+                "B. 1950",
+                "C. 1956",
+                "D. 1983"
+            ],
+            "answer": "A. 1948"
+        },
+        {
+            "question": "Panchayati Raj was started in the country in:",
+            "options": [
+                "A. 1951",
+                "B. 1952",
+                "C. 1957",
+                "D. 1959"
+            ],
+            "answer": "D. 1959"
+        }
+    ]
+}
+  
+
+
+{
+    "questions": [
+        {
+            "question": "When the Three-tier panchayat system was adopted in Assam?",
+            "options": [
+                "A. 1986",
+                "B. 1992",
+                "C. 1996",
+                "D. 2001"
+            ],
+            "answer": "A. 1986"
+        },
+        {
+            "question": "Balwant Rai Mehta Committee suggested that the structure of Panchayati Raj should consist of:",
+            "options": [
+                "A. The village, the block and the district levels",
+                "B. The mandal and the district levels",
+                "C. The village, the district and the State levels",
+                "D. The village, the mandal, the district and the State levels"
+            ],
+            "answer": "A. The village, the block and the district levels"
+        },
+        {
+            "question": "The Panchayati Raj System was adopted to:",
+            "options": [
+                "A. Make people aware of politics",
+                "B. Decentralise the power of democracy",
+                "C. Educate the peasants",
+                "D. None of the above"
+            ],
+            "answer": "B. Decentralise the power of democracy"
+        },
+        {
+            "question": "When the first panchayat election was held in Assam?",
+            "options": [
+                "A. 1990",
+                "B. 1992",
+                "C. 1996",
+                "D. 2001"
+            ],
+            "answer": "B. 1992"
+        },
+        {
+            "question": "How many tiers are in the Panchayati Raj system of India?",
+            "options": [
+                "A. One-tier",
+                "B. Two-tier",
+                "C. Three-tier",
+                "D. Four-tier"
+            ],
+            "answer": "C. Three-tier"
+        },
+        {
+            "question": "A three-tier Panchayat is envisaged for states having a population above__________?",
+            "options": [
+                "A. 10 lakhs",
+                "B. 15 lakhs",
+                "C. 20 lakhs",
+                "D. 25 lakhs"
+            ],
+            "answer": "C. 20 lakhs"
+        },
+        {
+            "question": "What is Zila Parishad?",
+            "options": [
+                "A. District Panchayat",
+                "B. Block Panchayat",
+                "C. Gram Sabha",
+                "D. None of these"
+            ],
+            "answer": "A. District Panchayat"
+        }
+    ]
+}
+  
+
+{
+    "questions": [
+        {
+            "question": "At which level does Zila Parishad actually make development plans?",
+            "options": [
+                "A. District level",
+                "B. Panchayat Samiti",
+                "C. Block-level",
+                "D. Government level"
+            ],
+            "answer": "A. District level"
+        },
+        {
+            "question": "Which of the following systems is established on the basis of direct election?",
+            "options": [
+                "A. Gram Panchayat",
+                "B. Block Committee",
+                "C. Zila Parishad",
+                "D. Both B and C"
+            ],
+            "answer": "A. Gram Panchayat"
+        },
+        {
+            "question": "When Assam Gana Parishad formed",
+            "options": [
+                "A. 14 October 1985",
+                "B. 15 August 1985",
+                "C. 16 December 1985",
+                "D. 18 August 1985"
+            ],
+            "answer": "A. 14 October 1985"
+        },
+        {
+            "question": "How many posts are reserved for women at all levels in the Panchayati raj system?",
+            "options": [
+                "A. 1/3",
+                "B. 1/2",
+                "C. 2/3",
+                "D. 1/4"
+            ],
+            "answer": "A. 1/3"
+        },
+        {
+            "question": "The Quorum for a meeting of the Gaon Panchayat is",
+            "options": [
+                "A. 1/10 of the total members",
+                "B. 1/5 of the total members",
+                "C. 1/4 of the total members",
+                "D. 1/3 of the total members"
+            ],
+            "answer": "A. 1/10 of the total members"
+        },
+        {
+            "question": "Which of the following is NOT a member of Zilla Parishad?",
+            "options": [
+                "A. President of Gaon Panchayat",
+                "B. Presidents of the Anchalik Panchayats",
+                "C. Members of Lok Sabha",
+                "D. Member of Legislative Assembly"
+            ],
+            "answer": "A. President of Gaon Panchayat"
+        },
+        {
+            "question": "In Assam, how many subjects are assigned to Panchayat?",
+            "options": [
+                "A. 21 subjects",
+                "B. 29 subjects",
+                "C. 39 subjects",
+                "D. 27 subjects"
+            ],
+            "answer": "B. 29 subjects"
+        },
+        {
+            "question": "Under which article of the Indian Constitution, the Assam State Finance Commission was set up to review the financial position of the Panchayats and to make recommendations in this regard?",
+            "options": [
+                "A. Article 371-B",
+                "B. Article 356",
+                "C. Article 359",
+                "D. Article 243-1"
+            ],
+            "answer": "D. Article 243-1"
+        },
+        {
+            "question": "The source of the maximum income to Panchayati Raj institution is:",
+            "options": [
+                "A. Local taxes",
+                "B. Regional funds",
+                "C. Government grants",
+                "D. Share in Union Govt. Revenue"
+            ],
+            "answer": "C. Government grants"
+        },
+        {
+            "question": "Which of the following is NOT a source of funds for Gaon Panchayat?",
+            "options": [
+                "A. Transfer by State Finance Commission for development purpose",
+                "B. Loan from Banks",
+                "C. Own Sources of Revenue (Tax and Non-Taxes)",
+                "D. Contribution by the communities themselves"
+            ],
+            "answer": "B. Loan from Banks"
+        }
+    ]
+}
+  
+
+{
+    "questions": [
+        {
+            "question": "Which is the apex level under the three-tier Panchayati Raj system in Assam?",
+            "options": [
+                "A. Gaon Panchayat",
+                "B. Anchalik Panchayat",
+                "C. Zilla Parishad",
+                "D. Nagar panchayats"
+            ],
+            "answer": "C. Zilla Parishad"
+        },
+        {
+            "question": "Who is to conduct the elections to the Panchayats and Municipalities?",
+            "options": [
+                "A. State Government",
+                "B. Central Government",
+                "C. State Election Commission",
+                "D. Central Election Commission"
+            ],
+            "answer": "C. State Election Commission"
+        },
+        {
+            "question": "A Municipal Corporation is set up in a city with a population of not less than:",
+            "options": [
+                "A. 1 lakh",
+                "B. 12 lakh",
+                "C. 10 lakh",
+                "D. 5 lakh"
+            ],
+            "answer": "C. 10 lakh"
+        },
+        {
+            "question": "In the Assam Panchayat election, what percent of seats are reserved for women?",
+            "options": [
+                "A. 67 percent",
+                "B. 50 percent",
+                "C. 33 percent",
+                "D. 25 percent"
+            ],
+            "answer": "B. 50 per cent"
+        },
+        {
+            "question": "Which is the apex level under the three-tier Panchayati Raj system in Assam?",
+            "options": [
+                "A. Gaon Panchayat",
+                "B. Anchalik Panchayat",
+                "C. Zilla Parishad",
+                "D. Nagar panchayats"
+            ],
+            "answer": "C. Zilla Parishad"
+        },
+        {
+            "question": "Which of the following is not a member of Zilla Parishad?",
+            "options": [
+                "A. President of Gaon Panchayat",
+                "B. Presidents of the Anchalik Panchayats",
+                "C. Members of Lok Sabha",
+                "D. Member of Legislative Assembly"
+            ],
+            "answer": "A. President of Gaon Panchayat"
+        },
+        {
+            "question": "The first state to ratify Central Govt's GST Bill",
+            "options": [
+                "A. Rajasthan",
+                "B. Madhya Pradesh",
+                "C. Assam",
+                "D. Chhattisgarh"
+            ],
+            "answer": "C. Assam"
+        },
+        {
+            "question": "Which Schedule of the Indian Constitution deals with administrative provisions of tribal areas in Assam, Meghalaya, Tripura and Mizoram?",
+            "options": [
+                "A. First",
+                "B. Sixth",
+                "C. Second",
+                "D. Twelfth"
+            ],
+            "answer": "B. Sixth"
+        },
+        {
+            "question": "Which article of the Constitution of Indian has a special provision with respect to the State of Assam?",
+            "options": [
+                "A. Article 371",
+                "B. Article 371B",
+                "C. Article 273",
+                "D. Article 300"
+            ],
+            "answer": "B. Article 371B"
+        },
+        {
+            "question": "Which tier of the Panchayati Raj system in Assam is responsible for preparing an integrated plan for the district as well as urban and rural areas?",
+            "options": [
+                "A. Geon Panchayat",
+                "B. Anchalik Panchayat",
+                "C. Zilla Parishad",
+                "D. All of these"
+            ],
+            "answer": "C. Zilla Parishad"
+        }
+    ]
+}
+  
+
+{
+    "questions": [
+        {
+            "question": "How many Zilla Parishads does Assam have presently?",
+            "options": [
+                "A. 20",
+                "B. 21",
+                "C. 36",
+                "D. 54"
+            ],
+            "answer": "B. 21"
+        },
+        {
+            "question": "How many Gaon Panchayats are there in Assam?",
+            "options": [
+                "A. 1500",
+                "B. 1681",
+                "C. 1876",
+                "D. 2201"
+            ],
+            "answer": "D. 2201"
+        },
+        {
+            "question": "How many Anchalik Panchayats are there in Assam?",
+            "options": [
+                "A. 150",
+                "B. 158",
+                "C. 185",
+                "D. 220"
+            ],
+            "answer": "C. 185"
+        },
+        {
+            "question": "Special representation in Panchayati Raj Institutions is given to",
+            "options": [
+                "A. Women",
+                "B. Co-operative societies",
+                "C. Backward classes",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "A person to be qualified for standing in a panchayat election must have attained the age of",
+            "options": [
+                "A. 21 years",
+                "B. 18 years",
+                "C. 25 years",
+                "D. 30 years"
+            ],
+            "answer": "A. 21 years"
+        },
+        {
+            "question": "The elections to Panchayats are to be held:",
+            "options": [
+                "A. Every four years",
+                "B. Every five years",
+                "C. When the State Government decides to do so",
+                "D. At the Centers directive"
+            ],
+            "answer": "B. Every five years"
+        }
+    ]
+}
