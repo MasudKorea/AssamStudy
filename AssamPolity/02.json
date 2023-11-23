@@ -1,0 +1,62 @@
+{
+    "name": "Governor",
+    "questions": [
+      {
+        "question": "Who is the chief executive head of the state?",
+        "options": ["A. Chief minister", "B. Governor", "C. President", "D. None of the above"],
+        "answer": "B. Governor (The executive head of the State is the Governor. Each state has its own Governor and has to act according to the recommendation of the Council of Ministers.)"
+      },
+      {
+        "question": "Who is the Constitutional Head of the State Governments?",
+        "options": ["A. Chief Minister", "B. Governor", "C. Speaker", "D. High Court Judge"],
+        "answer": "B. Governor (Governor is the executive head of the state. He plays an important part in the state executive where he acts as the chief executive head.)"
+      },
+      {
+        "question": "State Governor is appointed by",
+        "options": ["A. Central Cabinet", "B. Chief Justice of Supreme Court", "C. Speaker of Lok Sabha", "D. President of India"],
+        "answer": "D. President of India (The Governor of a State shall be appointed by the President by warrant under his hand and seal (Article 155)."
+      },
+      {
+        "question": "Who amongst the following administer the oath of office to the Governor?",
+        "options": ["A. President of India", "B. Chief Justice of Supreme Court", "C. Chief Justice of High Court", "D. Outgoing Governor of the concerned State"],
+        "answer": "C. Chief Justice of High Court (It is the Chief Justice of concerned State High Court who administers the oath of office to the Governor)"
+      },
+      {
+        "question": "Which one of the following Statements about the State Governors is NOT TRUE?",
+        "options": ["A. He is a part of the State Legislature", "B. He can pardon a sentence of death", "C. He does not appoint Judges of the State High Court", "D. He has no Emergency powers"],
+        "answer": "B. He can pardon a sentence of death"
+      },
+      {
+        "question": "Governor‟s salary and allowances are given by",
+        "options": ["A. Consolidated Fund of State", "B. Consolidated Fund of India", "C. Contingency Fund of the State", "D. Both (A) and (B)"],
+        "answer": "A. Consolidated Fund of State (The salaries and allowances of the Governor of Indian state are charged from Consolidated Fund of India.)"
+      },
+      {
+        "question": "The Governor of a State\n1. Is appointed by the President. 2. Holds office during the pleasure of the President. 3. Is the head of the State‟s Executive Power. 4. Normally holds office for five years. Select the correct answer from the codes given below. Code",
+        "options": ["A. 1 and 2", "B. 1, 2 and 3", "C. 1, 2 and 4", "D. All the four"],
+        "answer": "D. All the four"
+      },
+      {
+        "question": "Who was the first governor of Assam (after independence)",
+        "options": ["A. Sir Muhammad Saleh Akbar Hydari", "B. Shri Jairamdas Daulatram", "C. Shri Saiyid Fazal Ali", "D. Shri Chandreswar Prasad Sinha"],
+        "answer": "A. Sir Muhammad Saleh Akbar Hydari (The first governor of Assam after independence is Muhammad saleh Akbar hydari.)"
+      },
+      {
+        "question": "Who among the following can remove the governor of a state from office?",
+        "options": ["A. Legislative Assembly", "B. Parliament", "C. President", "D. Supreme Court"],
+        "answer": "C. President (A governor holds office for a term of five years which is subject to the pleasure of the President. He can resign at any time by addressing a resignation letter to the President. The governor has no security of tenure and can be removed by the President at any time.)"
+      },
+      {
+        "question": "Which one of the following statements about the Governor of an Indian State is NOT TRUE?",
+        "options": ["A. He is appointed by the President of India", "B. He can be Governor of more than one State", "C. He holds office for a term of five years", "D. He can be removed earlier if the Legislature of the concerned State passes a resolution for his removal"],
+        "answer": "D. He can be removed earlier if the Legislature of the concerned State passes a resolution for his removal"
+      },
+      {
+        "question": "Which article of the Indian Constitution provides for a Governor?",
+        "options": ["A. Article 152", "B. Article 153", "C. Article 154", "D. Article 156"],
+        "answer": "B. Article 153 (There shall be a Governor for each state (Articles 153 of the Constitution of India). The executive power of the State shall be vested in the Governor and shall be exercised by him either directly or through officers subordinates to him in accordance with the Constitution of India (Article 154)"
+      }
+      
+    ]
+  }
+  
