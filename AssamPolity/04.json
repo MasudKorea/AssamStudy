@@ -1,0 +1,35 @@
+{
+  "name":"The High Court",
+  "questions": [
+    {
+      "question": "The power of High Court to issue writ covers",
+      "options": [
+        "A. Constitutional Rights",
+        "B. Statutory Rights",
+        "C. Fundamental Rights",
+        "D. All of the above"
+      ],
+      "answer": "D. All of the above"
+    },
+    {
+      "question": "Which one of the following subjects comes under the common jurisdiction of the Supreme Court and the High Court?",
+      "options": [
+        "A. Mutual disputes among States",
+        "B. Dispute between Centre and State",
+        "C. Protection of Fundamental Rights",
+        "D. Protection from the Violation of the Constitution"
+      ],
+      "answer": "C. Protection of Fundamental Rights"
+    },
+    {
+      "question": "A High Court Judge addresses his letter of resignation to",
+      "options": [
+        "A. The President",
+        "B. The Chief Justice of India",
+        "C. The Chief Justice of his High Court",
+        "D. The Governor of the State"
+      ],
+      "answer": "A. The President"
+    }
+  ]
+}
