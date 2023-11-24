@@ -1,1 +1,504 @@
-
+{
+    "questions": [
+        {
+            "question": "Who is known as Sudhakantha of Assam?",
+            "options": [
+                "A. Bhabendranath Saikia",
+                "B. Lakshminath Bezbaruah",
+                "C. Dr. Bhupen Hazarika",
+                "D. Jahnu Baruah"
+            ],
+            "answer": "C. Dr. Bhupen Hazarika"
+        },
+        {
+            "question": "Who wrote the first Assamese autobiography?",
+            "options": [
+                "A. Lakshminath Bezbaruah",
+                "B. Hemchandra Baruah",
+                "C. Jatindra Nath Duwarah",
+                "D. Prafulla Chandra Baruah"
+            ],
+            "answer": "C. Jatindra Nath Duwarah"
+        },
+        {
+            "question": "Who wrote the first Assamese short story?",
+            "options": [
+                "A. Hiteshwar Barbarua",
+                "B. Radhanath Barbarua",
+                "C. Padmanath Gohainbaruah",
+                "D. Lakshminath Bezbaruah"
+            ],
+            "answer": "D. Lakshminath Bezbaruah"
+        },
+        {
+            "question": "For which film did Bhupen Hazarika win the best music director award?",
+            "options": [
+                "A. Chameli Memsaheb",
+                "B. Pratidhwani",
+                "C. Tejimala",
+                "D. Sandhyarag"
+            ],
+            "answer": "B. Pratidhwani"
+        },
+        {
+            "question": "Malaya Goswami won the Best Actress award for which film?",
+            "options": [
+                "A. Mon Jai",
+                "B. Addahya",
+                "C. Firingoti",
+                "D. Sarathi"
+            ],
+            "answer": "C. Firingoti"
+        },
+        {
+            "question": "What is the name of the first Assamese film to be titled Swarnakamal Bota?",
+            "options": [
+                "A. Halodhia choraiye baodhan khai",
+                "B. Nayanmani",
+                "C. Agnisnan",
+                "D. Hun Moina"
+            ],
+            "answer": "B. Nayanmani"
+        },
+        {
+            "question": "What is the name of the first Assamese full-color film?",
+            "options": [
+                "A. Bhaiti",
+                "B. Shakuntala",
+                "C. Ajoli nabou",
+                "D. Piyoli Phukan"
+            ],
+            "answer": "C. Ajoli nabou"
+        },
+        {
+            "question": "What is the name of the first film dubbed from Hindi to Assamese?",
+            "options": [
+                "A. Dr. Bezbaruah",
+                "B. Bhagya",
+                "C. Erabator Sur",
+                "D. Kallol"
+            ],
+            "answer": "B. Bhagya"
+        },
+        {
+            "question": "In which year was Jayamati, the first Assamese film released?",
+            "options": [
+                "A. 1948",
+                "B. 1934",
+                "C. 1930",
+                "D. 1935"
+            ],
+            "answer": "C. 1930"
+        },
+        {
+            "question": "What was the name of the actress who starred in the film Jayamati?",
+            "options": [
+                "A. Mridula Baruah",
+                "B. Aideu Handique",
+                "C. Malaya Goswami",
+                "D. Seema Biswas"
+            ],
+            "answer": "B. Aideu Handique"
+        },
+        {
+            "question": "When is Abhiruchi Sports Day celebrated?",
+            "options": [
+                "A. 13 January",
+                "B. 12 August",
+                "C. 30 August",
+                "D. 3 September"
+            ],
+            "answer": "C. 30 August"
+        },
+        {
+            "question": "When did Bhogeshwar Baruah win a medal in the Asian Games?",
+            "options": [
+                "A. 1962",
+                "B. 1966",
+                "C. 1978",
+                "D. 1972"
+            ],
+            "answer": "B. 1966"
+        },
+        {
+            "question": "What is the name of the last king of the Ahom Empire?",
+            "options": [
+                "A. Gobbar Raja",
+                "B. Sukapha",
+                "C. Jogeshwar Singha",
+                "D. Purandar Singha"
+            ],
+            "answer": "C. Jogeshwar Singha"
+        },
+        {
+            "question": "In which year was the Yandabo Treaty signed?",
+            "options": [
+                "A. 1802",
+                "B. 1826",
+                "C. 1824",
+                "D. 1842"
+            ],
+            "answer": "B. 1826"
+        },
+        {
+            "question": "What is the name of the first Assamese novel?",
+            "options": [
+                "A. Miri Jiyori",
+                "B. Mrityunjay",
+                "C. Bhanumati",
+                "D. Byarthotar daan"
+            ],
+            "answer": "A. Miri Jiyori"
+        },
+        {
+            "question": "Who composed the national anthem of Assam?",
+            "options": [
+                "A. Lakshminath Bezbaruah",
+                "B. Hemchandra Baruah",
+                "C. Chandrakumar Agarwala",
+                "D. Bishnu Prasad Rabha"
+            ],
+            "answer": "A. Lakshminath Bezbaruah"
+        },
+        {
+            "question": "In which magazine was the national anthem of Assam first released?",
+            "options": [
+                "A. Jonaki",
+                "B. Bahi",
+                "C. Surabhi",
+                "D. Jonbiri"
+            ],
+            "answer": "B. Bahi"
+        },
+        {
+            "question": "What is the name of the first Assamese Magazine?",
+            "options": [
+                "A. Jonaki",
+                "B. Bahi",
+                "C. Orunodoi",
+                "D. Abahon"
+            ],
+            "answer": "C. Orunodoi"
+        },
+        {
+            "question": "In which year was Orunodoi first published?",
+            "options": [
+                "A. 1872",
+                "B. 1845",
+                "C. 1889",
+                "D. 1846"
+            ],
+            "answer": "D. 1846"
+        },
+        {
+            "question": "What is the name of the writer who won the first Jnanpith Award?",
+            "options": [
+                "A. Birendra Kumar Bhattacharya",
+                "B. Jatindra Nath Duwarah",
+                "C. Indira Goswami",
+                "D. Lakshminandan Bora"
+            ],
+            "answer": "A. Birendra Kumar Bhattacharya"
+        },
+        {
+            "question": "Who is known as 'The Forest Man of India'?",
+            "options": [
+                "A. Uddhav Bharali",
+                "B. Jadav Payeng",
+                "C. Sundarlal Bahuguna",
+                "D. Medha Pateker"
+            ],
+            "answer": "B. Jadav Payeng"
+        },
+        {
+            "question": "Which of the following Sanctuary has been recognized as the sixth national park of Assam?",
+            "options": [
+                "A. Nambar",
+                "B. Pabitora",
+                "C. Raimona",
+                "D. Panidihing"
+            ],
+            "answer": "C. Raimona"
+        },
+        {
+            "question": "What is the name of the seventh national park of Assam?",
+            "options": [
+                "A. Dehing Patkai",
+                "B. Pabitora",
+                "C. Raimona",
+                "D. Orang"
+            ],
+            "answer": "A. Dehing Patkai"
+        },
+        {
+            "question": "What is the state animal of Assam?",
+            "options": [
+                "A. Leopard",
+                "B. Ganges River Dolphin",
+                "C. Horse",
+                "D. One-horned Rhinoceros"
+            ],
+            "answer": "D. One-horned Rhinoceros"
+        },
+        {
+            "question": "What is the state bird of Assam?",
+            "options": [
+                "A. White-winged Wood Duck",
+                "B. Hornbill",
+                "C. Greater Adjutant Stork",
+                "D. Sparrow"
+            ],
+            "answer": "A. White-winged Wood Duck"
+        },
+        {
+            "question": "What is the name of the state tree of Assam?",
+            "options": [
+                "A. Banyan tree",
+                "B. Peepal tree",
+                "C. Hollong",
+                "D. Shorea robusta"
+            ],
+            "answer": "C. Hollong"
+        },
+        {
+            "question": "What is the name of the river island district of Assam?",
+            "options": [
+                "A. Jorhat",
+                "B. Majuli",
+                "C. Dhemaji",
+                "D. Dhubri"
+            ],
+            "answer": "B. Majuli"
+        },
+        {
+            "question": "What is the name of the largest bridge in Assam?",
+            "options": [
+                "A. Saraighat",
+                "B. Naranarayana Bridge",
+                "C. Bogibeel",
+                "D. Dhola-Sadiya"
+            ],
+            "answer": "C. Bogibeel"
+        },
+        {
+            "question": "What is the name of the smallest river island in Assam?",
+            "options": [
+                "A. Majuli",
+                "B. Umananda",
+                "C. Shilghat",
+                "D. Mankachar"
+            ],
+            "answer": "B. Umananda"
+        },
+        {
+            "question": "What is the state flower of Assam?",
+            "options": [
+                "A. Sewali",
+                "B. Hasnahana",
+                "C. Fox tail orchid (Kopou phool)",
+                "D. Rose"
+            ],
+            "answer": "C. Fox tail orchid (Kopou phool)"
+        },
+        {
+            "question": "What is the percentage of total crude oil of India produced in Assam?",
+            "options": [
+                "A. 15%",
+                "B. 18%",
+                "C. 17%",
+                "D. 21%"
+            ],
+            "answer": "B. 18%"
+        },
+        {
+            "question": "What percentage of natural gas produced in India is procured from Assam?",
+            "options": [
+                "A. 21%",
+                "B. 29%",
+                "C. 26%",
+                "D. 25%"
+            ],
+            "answer": "C. 26%"
+        },
+        {
+            "question": "When was Digboi Refinery established?",
+            "options": [
+                "A. 1901",
+                "B. 1903",
+                "C. 1899",
+                "D. 1998"
+            ],
+            "answer": "A. 1901"
+        },
+        {
+            "question": "When was Assam Oil Company established?",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ],
+            "answer": "Not provided"
+        },
+        {
+            "question": "Limestone is found in which of the following places in Assam?",
+            "options": [
+                "A. Dilai",
+                "B. Kolajaan",
+                "C. Silveta",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "Where is Silimanite found in Assam?",
+            "options": [
+                "A. Nagaon",
+                "B. Karbi Anglong",
+                "C. Lakhimpur",
+                "D. Goalpara"
+            ],
+            "answer": "B. Karbi Anglong"
+        },
+        {
+            "question": "Quartz Magnetic Rock is found abundantly in which place?",
+            "options": [
+                "A. Hahim",
+                "B. Dhakuwakhana",
+                "C. Sualkuchi",
+                "D. Chippilangsu"
+            ],
+            "answer": "B. Dhakuwakhana"
+        },
+        {
+            "question": "In which place in Assam is Porcelain clay found?",
+            "options": [
+                "A. Nagaon",
+                "B. Cachar",
+                "C. Karbi Anglong",
+                "D. Lakhimpur"
+            ],
+            "answer": "D. Lakhimpur"
+        },
+        {
+            "question": "What is the position of Assam in the country in terms of population?",
+            "options": [
+                "A. 13th",
+                "B. 14th",
+                "C. 15th",
+                "D. 16th"
+            ],
+            "answer": "B. 14th"
+        },
+        {
+            "question": "What is the position of Assam within the country in terms of gender ratio?",
+            "options": [
+                "A. 15th",
+                "B. 20th",
+                "C. 29th",
+                "D. 21st"
+            ],
+            "answer": "C. 29th"
+        },
+        {
+            "question": "What is the position of Assam in the country in terms of literacy rate?",
+            "options": [
+                "A. 39th",
+                "B. 21st",
+                "C. 29th",
+                "D. 26th"
+            ],
+            "answer": "A. 39th"
+        },
+        {
+            "question": "What is the position of Assam in the country in terms of population density?",
+            "options": [
+                "A. 19th",
+                "B. 27th",
+                "C. 15th",
+                "D. 17th"
+            ],
+            "answer": "B. 27th"
+        },
+        {
+            "question": "What percentage of the land of India is covered by Assam?",
+            "options": [
+                "A. 3.39%",
+                "B. 2.39%",
+                "C. 4.39%",
+                "D. 2.93%"
+            ],
+            "answer": "D. 2.93%"
+        },
+        {
+            "question": "The North Cachar Hills is famous for?",
+            "options": [
+                "A. Graphite",
+                "B. Mineral salts",
+                "C. Limestone",
+                "D. Coal"
+            ],
+            "answer": "C. Limestone"
+        },
+        {
+            "question": "Which region of Assam is famous for red soil?",
+            "options": [
+                "A. Bodoland region",
+                "B. Barak Valley",
+                "C. North Cachar Hills",
+                "D. Brahmaputra Valley"
+            ],
+            "answer": "D. Brahmaputra Valley"
+        },
+        {
+            "question": "Baksa district has been carved out of a territorial part of which of the following districts?",
+            "options": [
+                "A. Barpeta, Nalbari, and Kamrup",
+                "B. Goalpara and Kokrajhar",
+                "C. Bongaigaon and Kokrajhar",
+                "D. Darrang, Barpeta, and Nalbari"
+            ],
+            "answer": "A. Barpeta, Nalbari, and Kamrup"
+        },
+        {
+            "question": "What is the length of Brahmaputra River in the territory of Assam?",
+            "options": [
+                "A. km",
+                "B. km",
+                "C. km",
+                "D. km"
+            ],
+            "answer": "B. km"
+        },
+        {
+            "question": "When was Charaideo recognized as a district?",
+            "options": [
+                "A. 15 August, 2016",
+                "B. 15 August, 2015",
+                "C. 8 September, 2016",
+                "D. 1 September, 2015"
+            ],
+            "answer": "C. 8 September, 2016"
+        },
+        {
+            "question": "Hojai district has been carved out from the territorial region of which of the following districts?",
+            "options": [
+                "A. Morigaon district",
+                "B. Nagaon district",
+                "C. Udalguri district",
+                "D. Sivsagar district"
+            ],
+            "answer": "B. Nagaon district"
+        },
+        {
+            "question": "When was Mizoram separated from the territory of Assam?",
+            "options": [
+                "A. 1971",
+                "B. 1972",
+                "C. 1987",
+                "D. 1965"
+            ],
+            "answer": "A. 1971"
+        }
+    ]
+}
