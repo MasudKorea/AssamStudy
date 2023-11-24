@@ -1,0 +1,524 @@
+{
+    "questions": [
+        {
+            "question": "According to the 2011 census, which district in Assam has the highest population?",
+            "options": [
+                "A) Kamrup (Metro)",
+                "B) Dhubri",
+                "C) Nagaon",
+                "D) Chirang"
+            ],
+            "answer": "A) Kamrup (Metro)"
+        },
+        {
+            "question": "What is the name of the first oil refinery in Assam?",
+            "options": [
+                "A) Noonmati",
+                "B) Digboi",
+                "C) Bongaigaon",
+                "D) Numaligarh"
+            ],
+            "answer": "B) Digboi"
+        },
+        {
+            "question": "What is the area surrounded by Kaziranga National Park?",
+            "options": [
+                "A) 430 sq km (Core area)",
+                "B) 450.98 sq km",
+                "C) 500.44 sq km",
+                "D) 1090.05 sq km (Total area)"
+            ],
+            "answer": "D) 1090.05 sq km (Total area)"
+        },
+        {
+            "question": "What is the position of Assam according to geographical area among the North Eastern States?",
+            "options": [
+                "A) First",
+                "B) Second",
+                "C) Third",
+                "D) Fourth"
+            ],
+            "answer": "B) Second"
+        },
+        {
+            "question": "What is the total land area of Assam?",
+            "options": [
+                "A) 78840 sq km",
+                "B) 78438 sq km",
+                "C) 78838 sq km",
+                "D) 78348 sq km"
+            ],
+            "answer": "A) 78840 sq km"
+        },
+        {
+            "question": "What is the percentage of land area covered under forest in Assam?",
+            "options": [
+                "A) 34.21%",
+                "B) 33.42%",
+                "C) 37.45%",
+                "D) 21.34%"
+            ],
+            "answer": "B) 33.42%"
+        },
+        {
+            "question": "What is the literacy rate of females in Assam as per the 2011 census?",
+            "options": [
+                "A) 66.27%",
+                "B) 77.85%",
+                "C) 72.19%",
+                "D) 60.67%"
+            ],
+            "answer": "A) 66.27%"
+        },
+        {
+            "question": "According to the 2011 census, Assam has a ratio of women against every 1000 males?",
+            "options": [
+                "A) 960",
+                "B) 958",
+                "C) 858",
+                "D) 920"
+            ],
+            "answer": "B) 958"
+        },
+        {
+            "question": "Which district of Assam has the lowest literacy rate according to the 2011 census?",
+            "options": [
+                "A) Dhubri",
+                "B) Dima Hasao",
+                "C) Darrang",
+                "D) Chirang"
+            ],
+            "answer": "A) Dhubri"
+        },
+        {
+            "question": "How many districts of Assam are located on the international border?",
+            "options": [
+                "A) 6",
+                "B) 9",
+                "C) 8",
+                "D) 7"
+            ],
+            "answer": "C) 8"
+        },
+        {
+            "question": "What is the length of Assam Mizoram border?",
+            "options": [
+                "A) 512.11 km",
+                "B) 204.22 km",
+                "C) 164.6 km",
+                "D) 190.11 km"
+            ],
+            "answer": "B) 204.22 km"
+        },
+        {
+            "question": "Which nation is located on the northern border of Assam?",
+            "options": [
+                "A) Bhutan",
+                "B) Bangladesh",
+                "C) China",
+                "D) Myanmar"
+            ],
+            "answer": "A) Bhutan"
+        },
+        {
+            "question": "How many districts are there in Barak valley?",
+            "options": [
+                "A) 4",
+                "B) 5",
+                "C) 3",
+                "D) 6"
+            ],
+            "answer": "A) 4"
+        },
+        {
+            "question": "How many districts are there in the Brahmaputra Valley?",
+            "options": [
+                "A) 27",
+                "B) 33",
+                "C) 29",
+                "D) 30"
+            ],
+            "answer": "B) 33"
+        },
+        {
+            "question": "Which is the first national park in Assam?",
+            "options": [
+                "A) Kaziranga National Park",
+                "B) Manas National Park",
+                "C) Nameri National Park",
+                "D) Orang National Park"
+            ],
+            "answer": "A) Kaziranga National Park"
+        },
+        {
+            "question": "When was the Kaziranga National Park brought under the tiger project?",
+            "options": [
+                "A) 1994",
+                "B) 1974",
+                "C) 2006",
+                "D) 2009"
+            ],
+            "answer": "C) 2006"
+        },
+        {
+            "question": "When did the Kaziranga National Park find its place in the World Heritage Site?",
+            "options": [
+                "A) 1974",
+                "B) 1908",
+                "C) 1990",
+                "D) 1985"
+            ],
+            "answer": "D) 1985"
+        },
+        {
+            "question": "Manas National Park is located in which of the following two districts of Assam?",
+            "options": [
+                "A) Kokrajhar and Chirang",
+                "B) Baksa and Barpeta",
+                "C) Baksa and Udalguri",
+                "D) Baksa and Chirang"
+            ],
+            "answer": "A) Kokrajhar and Chirang"
+        },
+        {
+            "question": "What is the name of the forest reserved for wild horses?",
+            "options": [
+                "A) Raimona National Park",
+                "B) Amchang Sanctuary",
+                "C) Dibru- Saikhowa National Park",
+                "D) Orang National Park"
+            ],
+            "answer": "A) Raimona National Park"
+        },
+        {
+            "question": "When did the first bridge over the Brahmaputra River officially open?",
+            "options": [
+                "A) 1963",
+                "B) 1962",
+                "C) 1966",
+                "D) 1960"
+            ],
+            "answer": "B) 1962"
+        },
+        {
+            "question": "What is the name of the smallest national park in Assam?",
+            "options": [
+                "A) Namari National Park",
+                "B) Orang National Park",
+                "C) Manas National Park",
+                "D) Raimona National Park"
+            ],
+            "answer": "B) Orang National Park"
+        },
+        {
+            "question": "In which year was the Nameri reserve forest?",
+            "options": [
+                "A) 1978",
+                "B) 1998",
+                "C) 1974",
+                "D) 1985"
+            ],
+            "answer": "A) 1978"
+        },
+        {
+            "question": "When was Orang recognized as a national park by the government?",
+            "options": [
+                "A) 1995",
+                "B) 1985",
+                "C) 1999",
+                "D) 1998"
+            ],
+            "answer": "C) 1999"
+        },
+        {
+            "question": "When was Nameri recognized as a sanctuary?",
+            "options": [
+                "A) 1985",
+                "B) 1998",
+                "C) 1978",
+                "D) 1999"
+            ],
+            "answer": "B) 1998"
+        },
+        {
+            "question": "When was Orang declared as a sanctuary?",
+            "options": [
+                "A) 1999",
+                "B) 1985",
+                "C) 1998",
+                "D) 1990"
+            ],
+            "answer": "C) 1998"
+        },
+        {
+            "question": "When is Manas National Park brought under the Tiger project?",
+            "options": [
+                "A) 1973",
+                "B) 1985",
+                "C) 1922",
+                "D) 1999"
+            ],
+            "answer": "D) 1999"
+        },
+        {
+            "question": "The Raimona National Park belongs to which of the following districts of Assam?",
+            "options": [
+                "A) Baksa District",
+                "B) Chirang District",
+                "C) Kokrajhar district",
+                "D) Dibrugarh district"
+            ],
+            "answer": "A) Baksa District"
+        },
+        {
+            "question": "In which national park is the rare white-winged wood duck (deohah) found?",
+            "options": [
+                "A) Kaziranga National Park",
+                "B) Manas National Park",
+                "C) Dibru-Saikhowa National Park",
+                "D) Orang National Park"
+            ],
+            "answer": "C) Dibru-Saikhowa National Park"
+        },
+        {
+            "question": "What percentage of India's land is covered by the forest area of Assam?",
+            "options": [
+                "A) 5.55%",
+                "B) 3.20%",
+                "C) 3.51%",
+                "D) 3.71%"
+            ],
+            "answer": "B) 3.20%"
+        },
+        {
+            "question": "When was Manas declared as a national park?",
+            "options": [
+                "A) 1990",
+                "B) 1999",
+                "C) 1985",
+                "D) 1998"
+            ],
+            "answer": "C) 1985"
+        },
+        {
+            "question": "The Panidihing Bird Reserve Forest is located in which of these districts of Assam?",
+            "options": [
+                "A) Jorhat",
+                "B) Golaghat",
+                "C) Sivsagar",
+                "D) Dhemaji"
+            ],
+            "answer": "B) Golaghat"
+        },
+        {
+            "question": "What is the name of the smallest sanctuary in Assam?",
+            "options": [
+                "A) Garampani Wildlife Sanctuary",
+                "B) Amchang Wildlife Sanctuary",
+                "C) Baranadi Wildlife Sanctuary",
+                "D) Chakrashila Wildlife Sanctuary"
+            ],
+            "answer": "B) Amchang Wildlife Sanctuary"
+        },
+        {
+            "question": "What is extracted from the Badarpur Thermal Power Plant?",
+            "options": [
+                "A) Coal",
+                "B) Crude oil",
+                "C) Natural gas",
+                "D) Fossils"
+            ],
+            "answer": "C) Natural gas"
+        },
+        {
+            "question": "Where was coal discovered and excavated first in Assam?",
+            "options": [
+                "A) Makum",
+                "B) Lidu",
+                "C) Naginimara",
+                "D) Jaipur"
+            ],
+            "answer": "A) Makum"
+        },
+        {
+            "question": "What is the name of the largest tributary of the Brahmaputra River?",
+            "options": [
+                "A) Manas",
+                "B) Beki",
+                "C) Sonkosh",
+                "D) Subansiri"
+            ],
+            "answer": "D) Subansiri"
+        },
+        {
+            "question": "Which of the following divides Karbi Anglong into two parts?",
+            "options": [
+                "A) North Cachar Hills",
+                "B) Kapili River",
+                "C) Barak Valley",
+                "D) Brahmaputra River"
+            ],
+            "answer": "B) Kapili River"
+        },
+        {
+            "question": "What amongst these separates the Barak Valley and the Brahmaputra Valley region?",
+            "options": [
+                "A) Karbi plateau",
+                "B) Naga Hills",
+                "C) Meghalaya",
+                "D) North Cachar Hills"
+            ],
+            "answer": "D) North Cachar Hills"
+        },
+        {
+            "question": "Which amongst these is the more common natural disaster in Assam?",
+            "options": [
+                "A) Flood",
+                "B) Storm",
+                "C) Earthquake",
+                "D) Land slide"
+            ],
+            "answer": "A) Flood"
+        },
+        {
+            "question": "Which amongst these earthquakes is related to Majuli's erosion problem?",
+            "options": [
+                "A) 1950",
+                "B) 1988",
+                "C) 1930",
+                "D) 1948"
+            ],
+            "answer": "C) 1930"
+        },
+        {
+            "question": "In which year was the Chandubi Lake formed due to an earthquake?",
+            "options": [
+                "A) 12 June, 1897",
+                "B) 21 June, 1897",
+                "C) 9 September, 1923",
+                "D) 3 July, 1930"
+            ],
+            "answer": "B) 21 June, 1897"
+        },
+        {
+            "question": "When was crude oil first excavated in Assam?",
+            "options": [
+                "A) 1850",
+                "B) 1857",
+                "C) 1860",
+                "D) 1889"
+            ],
+            "answer": "B) 1857"
+        },
+        {
+            "question": "Which of the following riverbank was excavated first for crude oil?",
+            "options": [
+                "A) Subanshiri",
+                "B) Digaru",
+                "C) Namdang",
+                "D) Jhanji"
+            ],
+            "answer": "C) Namdang"
+        },
+        {
+            "question": "How many oil refineries are there in Assam?",
+            "options": [
+                "A) Four",
+                "B) Three",
+                "C) Five",
+                "D) Two"
+            ],
+            "answer": "A) Four"
+        },
+        {
+            "question": "Which of the following organizations recognizes the 'World Heritage sites'?",
+            "options": [
+                "A) WHO",
+                "B) UNESCO",
+                "C) UNITED NATIONS",
+                "D) UNICEF"
+            ],
+            "answer": "B) UNESCO"
+        },
+        {
+            "question": "What is the name of the smallest district of Assam?",
+            "options": [
+                "A) Chirang",
+                "B) Udalguri",
+                "C) South Salmara Mankachar",
+                "D) Sivasagar"
+            ],
+            "answer": "A) Chirang"
+        },
+        {
+            "question": "On which river is the Dhola-Sadiya Bridge built?",
+            "options": [
+                "A) Brahmaputra",
+                "B) Lohit",
+                "C) Dibang",
+                "D) Siang"
+            ],
+            "answer": "A) Brahmaputra"
+        },
+        {
+            "question": "In which year was the capital of Assam shifted from Shillong to Dispur?",
+            "options": [
+                "A) 1950",
+                "B) 1965",
+                "C) 1971",
+                "D) 1973"
+            ],
+            "answer": "B) 1965"
+        },
+        {
+            "question": "In which year was the Assam Sahitya Sabha formed?",
+            "options": [
+                "A) 1909",
+                "B) 1917",
+                "C) 1914",
+                "D) 1921"
+            ],
+            "answer": "B) 1917"
+        },
+        {
+            "question": "According to the 2015 census in India, what is the average percentage of rhinoceros population found in Kaziranga Park of Assam?",
+            "options": [
+                "A) 80%",
+                "B) 70%",
+                "C) 91%",
+                "D) More than 80%"
+            ],
+            "answer": "D) More than 80%"
+        },
+        {
+            "question": "How many national parks have been newly declared in Assam?",
+            "options": [
+                "A) Two",
+                "B) Three",
+                "C) Four",
+                "D) Five"
+            ],
+            "answer": "C) Four"
+        },
+        {
+            "question": "Who was the first President of Assam Sahitya Sabha?",
+            "options": [
+                "A) Lakshminath Bezbaruah",
+                "B) Hemchandra Goswami",
+                "C) Padmanath Gohainbaruah",
+                "D) Rajanikanta Bordoloi"
+            ],
+            "answer": "A) Lakshminath Bezbaruah"
+        },
+        {
+            "question": "What is the name of the first Chief Minister of Assam?",
+            "options": [
+                "A) Bishnuram Medhi",
+                "B) Tarunram Phukan",
+                "C) Gopinath Bordoloi",
+                "D) Sarbananda Sonowal"
+            ],
+            "answer": "C) Gopinath Bordoloi"
+        }
+    ]
+}
