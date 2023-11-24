@@ -1,1 +1,504 @@
-
+{
+    "questions": [
+        {
+            "question": "What is the maximum number of members in the town committees?",
+            "options": [
+                "a) 20",
+                "b) 10",
+                "c) 7",
+                "d) 15"
+            ],
+            "answer": "a) 20"
+        },
+        {
+            "question": "What is the maximum number of members present in a municipality?",
+            "options": [
+                "a) 30",
+                "b) 20",
+                "c) 60",
+                "d) 15"
+            ],
+            "answer": "a) 30"
+        },
+        {
+            "question": "When was the Guwahati Municipal Corporation established?",
+            "options": [
+                "a) 1969",
+                "b) 1974",
+                "c) 1975",
+                "d) 1984"
+            ],
+            "answer": "b) 1974"
+        },
+        {
+            "question": "Which part of the Indian Constitution mentions the panchayat system?",
+            "options": [
+                "a) 9th [Part IX]",
+                "b) 10th",
+                "c) 9th (a) Part",
+                "d) 8th part"
+            ],
+            "answer": "a) 9th [Part IX]"
+        },
+        {
+            "question": "Which part of the Indian Constitution mentions about municipality?",
+            "options": [
+                "a) 9th",
+                "b) 10th part",
+                "c) 9th (A) part [Part IX A]",
+                "d) 8th part"
+            ],
+            "answer": "c) 9th (A) part [Part IX A]"
+        },
+        {
+            "question": "Which Article refers to panchayat system in the Part IX of the Constitution?",
+            "options": [
+                "a) 243",
+                "b) 243 (Q)",
+                "c) 244",
+                "d) 242"
+            ],
+            "answer": "b) 243 (Q)"
+        },
+        {
+            "question": "Which Article refers to the urban area in [Part IX(A)] section of the Constitution?",
+            "options": [
+                "a) 243",
+                "b) 243 (Q)",
+                "c) 244",
+                "d) 242"
+            ],
+            "answer": "a) 243"
+        },
+        {
+            "question": "Who is the chief of the municipality?",
+            "options": [
+                "a) Mayor",
+                "b) Representative of the constituency",
+                "c) Deputy Commissioner",
+                "d) Councillor"
+            ],
+            "answer": "a) Mayor"
+        },
+        {
+            "question": "Who is the political representative of the municipal corporation?",
+            "options": [
+                "a) Councillor",
+                "b) Corporation Secretary",
+                "c) Deputy Commissioner",
+                "d) Urban"
+            ],
+            "answer": "a) Councillor"
+        },
+        {
+            "question": "What is the total land area of Bodoland region?",
+            "options": [
+                "a) 10,200 sq km",
+                "b) 8,970 sq km",
+                "c) 9,612 sq km",
+                "d) 11,002 sq km"
+            ],
+            "answer": "a) 10,200 sq km"
+        },
+        {
+            "question": "How many constituency seats are there in Bodoland region?",
+            "options": [
+                "a) 40",
+                "b) 46",
+                "c) 60",
+                "d) 50"
+            ],
+            "answer": "a) 40"
+        },
+        {
+            "question": "How many districts have autonomy under the Sixth Schedule?",
+            "options": [
+                "a) Two",
+                "b) Three",
+                "c) Four",
+                "d) Five"
+            ],
+            "answer": "b) Three"
+        },
+        {
+            "question": "When was the Mishing Autonomous Council formed?",
+            "options": [
+                "a) 1994",
+                "b) 1995",
+                "c) 1993",
+                "d) 1996"
+            ],
+            "answer": "c) 1993"
+        },
+        {
+            "question": "When was Rabha Hasong Autonomous Council formed?",
+            "options": [
+                "a) 1995",
+                "b) 2013",
+                "c) 2015",
+                "d) 2003"
+            ],
+            "answer": "a) 1995"
+        },
+        {
+            "question": "When was the Sonowal Kachari Autonomous Council formed?",
+            "options": [
+                "a) 2005",
+                "b) 2015",
+                "c) 2014",
+                "d) 1995"
+            ],
+            "answer": "a) 2005"
+        },
+        {
+            "question": "When was the Tiwa Autonomous Councils formed?",
+            "options": [
+                "a) 2005",
+                "b) 2015",
+                "c) 2010",
+                "d) 2019"
+            ],
+            "answer": "c) 2010"
+        },
+        {
+            "question": "What is the total number of seats in the Tiwa Autonomous Council?",
+            "options": [
+                "a) 36",
+                "b) 26",
+                "c) 40",
+                "d) 29"
+            ],
+            "answer": "a) 36"
+        },
+        {
+            "question": "When was the Assam police department formed?",
+            "options": [
+                "a) 1926",
+                "b) 1947",
+                "c) 1826",
+                "d) 1939"
+            ],
+            "answer": "a) 1826"
+        },
+        {
+            "question": "What is the name of Jyoti Prasad Agarwala’s wife?",
+            "options": [
+                "a) Lavita Baruah",
+                "b) Debajani Bhuyan",
+                "c) Malati Baruah",
+                "d) Reena Agarwal"
+            ],
+            "answer": "c) Malati Baruah"
+        },
+        {
+            "question": "Guwahati city has been divided into how many police commissioner districts?",
+            "options": [
+                "a) Three",
+                "b) Four",
+                "c) Five",
+                "d) Two"
+            ],
+            "answer": "d) Two"
+        },
+        {
+            "question": "When was the Assam Public Service Commission constituted?",
+            "options": [
+                "a) 1935",
+                "b) 1936",
+                "c) 1937",
+                "d) 1938"
+            ],
+            "answer": "a) 1935"
+        },
+        {
+            "question": "Who was the first Chairman of Assam Public Service Commission?",
+            "options": [
+                "a) James Hezelett",
+                "b) E. P. Bark",
+                "c) A. J. Das",
+                "d) Kamleswar Das"
+            ],
+            "answer": "a) James Hezelett"
+        },
+        {
+            "question": "Who was the first chairman of Assam Public Service Commission of postindependence Assam?",
+            "options": [
+                "a) H.C. Bhuyan",
+                "b) A. N. Bhattacharya",
+                "c) Kameshwar Das",
+                "d) Kocantaly"
+            ],
+            "answer": "c) Kameshwar Das"
+        },
+        {
+            "question": "Who appoints the Chairman of the Assam Public Service Commission?",
+            "options": [
+                "a) Governor",
+                "b) Prime Minister",
+                "c) Chief Minister.",
+                "d) Home Minister"
+            ],
+            "answer": "a) Governor"
+        },
+        {
+            "question": "What is the tenure of Chairman of Assam Public Service Commission?",
+            "options": [
+                "a) Five years.",
+                "b) Four years",
+                "c) Six years",
+                "d) Eight years"
+            ],
+            "answer": "c) Six years"
+        },
+        {
+            "question": "When was the Assam State Finance Commission constituted?",
+            "options": [
+                "a) 23 June 1995",
+                "b) 18 April 2001",
+                "c) 6 February 2006",
+                "d) 23 April 2010"
+            ],
+            "answer": "c) 6 February 2006"
+        },
+        {
+            "question": "When was the Assam State Election Commission constituted?",
+            "options": [
+                "a) 1993",
+                "b) 1951",
+                "c) 1994",
+                "d) 1972"
+            ],
+            "answer": "c) 1994"
+        },
+        {
+            "question": "When was the first tea garden of Assam established?",
+            "options": [
+                "a) 1839",
+                "b) 1838",
+                "c) 1837",
+                "d) 1840"
+            ],
+            "answer": "b) 1838"
+        },
+        {
+            "question": "Where was the first tea garden to be set up in Assam?",
+            "options": [
+                "a) Jorhat",
+                "b) Vishwanath",
+                "c) Margherita",
+                "d) Chabua"
+            ],
+            "answer": "a) Jorhat"
+        },
+        {
+            "question": "What is the name of the largest tea garden in Assam?",
+            "options": [
+                "a) Manobari Tea Garden",
+                "b) Gagharajan Tea Garden",
+                "c) Deepling Tea Garden",
+                "d) Galleky Tea Garden"
+            ],
+            "answer": "b) Gagharajan Tea Garden"
+        },
+        {
+            "question": "When was the Toklai Tea Research Centre established in Jorhat?",
+            "options": [
+                "a) 1910",
+                "b) 1974",
+                "c) 1911",
+                "d) 1970"
+            ],
+            "answer": "c) 1911"
+        },
+        {
+            "question": "What is the real name of Manoni Roisom Goswami?",
+            "options": [
+                "a) Indira Goswami",
+                "b) Indira Miri",
+                "c) Bina Baideu",
+                "d) Sulekha Devi"
+            ],
+            "answer": "a) Indira Goswami"
+        },
+        {
+            "question": "When was the Tea Auction Centre established in Guwahati?",
+            "options": [
+                "A. 1974",
+                "B. 1970",
+                "C. 2017",
+                "D. 2001"
+            ],
+            "answer": "B. 1970"
+        },
+        {
+            "question": "Which oil refinery in Assam is known as 'Assam Accord Refinery'?",
+            "options": [
+                "A. Digboi Refinery",
+                "B. Noonmati refinery",
+                "C. Bongaigaon Refinery",
+                "D. Numalighar Refinery"
+            ],
+            "answer": "C. Bongaigaon Refinery"
+        },
+        {
+            "question": "How many oil refineries are there in Assam?",
+            "options": [
+                "A. Four",
+                "B. Five",
+                "C. Three",
+                "D. Six"
+            ],
+            "answer": "B. Five"
+        },
+        {
+            "question": "When was the first sugarcane industry of Assam established in Barua bamun Gaon village in Golaghat?",
+            "options": [
+                "A. 1958",
+                "B. 1971",
+                "C. 1955",
+                "D. 1956"
+            ],
+            "answer": "C. 1955"
+        },
+        {
+            "question": "In which year Mamoni Roisom Goswami received Sahitya Akademi Award?",
+            "options": [
+                "A. 1981",
+                "B. 1983",
+                "C. 1982",
+                "D. 1984"
+            ],
+            "answer": "C. 1982"
+        },
+        {
+            "question": "When was Assam's first plywood industry ‘Assam Saw Mill and Timber’ established?",
+            "options": [
+                "A. 1925",
+                "B. 1942",
+                "C. 1920",
+                "D. 1943"
+            ],
+            "answer": "A. 1925"
+        },
+        {
+            "question": "What industries did the English company Ward and Company set up in Assam?",
+            "options": [
+                "A. Fertilizer industry",
+                "B. Sugar industry",
+                "C. Acid industry",
+                "D. Plywood Industry"
+            ],
+            "answer": "B. Sugar industry"
+        },
+        {
+            "question": "When was the first paper mill established in Assam?",
+            "options": [
+                "A. 1970",
+                "B. 1985",
+                "C. 1971",
+                "D. 1961"
+            ],
+            "answer": "A. 1970"
+        },
+        {
+            "question": "What is the name of the paper mill in Jogighopa, Assam?",
+            "options": [
+                "A. Hindustan Paper Corporation",
+                "B. Nagaon paper Mill (1970)",
+                "C. Ashok Paper Mills Limited",
+                "D. None of the above"
+            ],
+            "answer": "C. Ashok Paper Mills Limited"
+        },
+        {
+            "question": "When was the Assam tourism policy been adopted?",
+            "options": [
+                "A. 1995",
+                "B. 2014",
+                "C. 2008",
+                "D. 2001"
+            ],
+            "answer": "B. 2014"
+        },
+        {
+            "question": "Which national park in Assam has the highest number of inflow of tourists?",
+            "options": [
+                "A. Manas national Park",
+                "B. Orang National Park",
+                "C. Kaziranga National Park",
+                "D. Nameri National Park"
+            ],
+            "answer": "C. Kaziranga National Park"
+        },
+        {
+            "question": "What is known as the 'Golden Silk' of Assam?",
+            "options": [
+                "A. Jute cloth",
+                "B. Eri cloth",
+                "C. Muga cloth",
+                "D. Cotton cloth"
+            ],
+            "answer": "C. Muga cloth"
+        },
+        {
+            "question": "When was the first five-year plan launched in Assam?",
+            "options": [
+                "A. 1950",
+                "B. 1951",
+                "C. 1956",
+                "D. 1949"
+            ],
+            "answer": "B. 1951"
+        },
+        {
+            "question": "When was NITI Aayog constituted?",
+            "options": [
+                "A. 2016",
+                "B. 2015",
+                "C. 2014",
+                "D. 2010"
+            ],
+            "answer": "C. 2014"
+        },
+        {
+            "question": "When was the Irrigation Department of Assam established?",
+            "options": [
+                "A. 1974",
+                "B. 1980",
+                "C. 1951",
+                "D. 1971"
+            ],
+            "answer": "C. 1951"
+        },
+        {
+            "question": "When was Assam State Electricity Board formed?",
+            "options": [
+                "A. 1950",
+                "B. 1975",
+                "C. 1958",
+                "D. 1956"
+            ],
+            "answer": "B. 1975"
+        },
+        {
+            "question": "The second film of Jyoti Prasad Agarewal was?",
+            "options": [
+                "A. Joymati",
+                "B. Lavita",
+                "C. Sonitkuwori",
+                "D. Indramalati"
+            ],
+            "answer": "A. Joymati"
+        },
+        {
+            "question": "When was Assam Power Distribution Company Limited (APDCL) formed?",
+            "options": [
+                "A. 23 October, 2009",
+                "B. 1 June, 2005",
+                "C. 10 May 2005",
+                "D. 5 May 2009"
+            ],
+            "answer": "A. 23 October, 2009"
+        }
+    ]
+}
