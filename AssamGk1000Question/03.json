@@ -1,1 +1,514 @@
-
+{
+    "questions": [
+        {
+            "question": "What religious ceremony do the Tai-Ahoms celebrate in honour of their ancestors?",
+            "options": [
+                "A. Ali-Aye-Lrigang",
+                "B. Bhatheli",
+                "C. Me-Dam-Me-Phi",
+                "D. Chomangkan"
+            ],
+            "answer": "C. Me-Dam-Me-Phi"
+        },
+        {
+            "question": "Which of the following tribes performs Tusu Puja?",
+            "options": [
+                "A. Mising",
+                "B. Karbi",
+                "C. Tea Tribe",
+                "D. Dimasa"
+            ],
+            "answer": "A. Mising"
+        },
+        {
+            "question": "The Bash Puja is observed by which of the following community?",
+            "options": [
+                "A. Karbi",
+                "B. Koch Rajbongshi",
+                "C. Rabha",
+                "D. Boro"
+            ],
+            "answer": "D. Boro"
+        },
+        {
+            "question": "Which of the following festival is celebrated by the Karbi?",
+            "options": [
+                "A. Chomangkan",
+                "B. Dehal Puja",
+                "C. Rongkher",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "Which of the following festival is celebrated by the Ahoms?",
+            "options": [
+                "A. Me-Dam-Me-Phi",
+                "B. Umpha Puja",
+                "C. Somdeo Puja",
+                "D. All of the above"
+            ],
+            "answer": "A. Me-Dam-Me-Phi"
+        },
+        {
+            "question": "Which of the following festival is celebrated by the Boro community?",
+            "options": [
+                "A. Bwisagu",
+                "B. Kherai",
+                "C. Garja",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "Which of the following festival is celebrated by the tea-community?",
+            "options": [
+                "A. Tusu Puja",
+                "B. Chaita Parv",
+                "C. Karam Puja",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "Which of the following festival is celebrated by the Mising community?",
+            "options": [
+                "A. Ali-Aye-Lrigang",
+                "B. Dobur",
+                "C. Parag",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "Which of the following festival is celebrated by the Tiwa community?",
+            "options": [
+                "A. Yaling",
+                "B. Sogra Misawa",
+                "C. Songkhong",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "Which of the following festival is celebrated by the Rabha community?",
+            "options": [
+                "A. Hashang Puja",
+                "B. Hatasuwani",
+                "C. Hathasuni",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "What festival is celebrated by the Deori community?",
+            "options": [
+                "A. Bohagya Bichu",
+                "B. Du Minusi Liduraba",
+                "C. Hauniya Puja",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "What festival is celebrated by the Hajong community?",
+            "options": [
+                "A. Kautokou Puja",
+                "B. Kati Gasa",
+                "C. Lewatana Bihu",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "Which of the following festival is celebrated by the Buddhists community?",
+            "options": [
+                "A. Poisankentai",
+                "B. Poilengtai",
+                "C. Mykuchumfaitai",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "In which month the Dehing Patkai festival celebrated?",
+            "options": [
+                "A. January",
+                "B. March",
+                "C. April",
+                "D. November"
+            ],
+            "answer": "C. April"
+        },
+        {
+            "question": "The Jonbeel Mela is famous for?",
+            "options": [
+                "A. For the visit of Gova King to the Fair",
+                "B. To get goods at an affordable rate",
+                "C. For the prevalence of the barter system",
+                "D. For sightseeing"
+            ],
+            "answer": "C. For the prevalence of the barter system"
+        },
+        {
+            "question": "According to the Yogini tantra, the ancient Kamrup was divided into how many parts?",
+            "options": [
+                "A. Five",
+                "B. Six",
+                "C. Four",
+                "D. Three"
+            ],
+            "answer": "A. Five"
+        },
+        {
+            "question": "Who was the first king of Kamrup?",
+            "options": [
+                "A. Mahiranga Danava",
+                "B. Hatakasura",
+                "C. Sambarasura",
+                "D. Ratanasura"
+            ],
+            "answer": "A. Mahiranga Danava"
+        },
+        {
+            "question": "Who was the king of Kamrup contemporary to the Kurukshetra war?",
+            "options": [
+                "A. Ghataksaura",
+                "B. Ratanasura",
+                "C. Bhagadatta",
+                "D. Bajrapani"
+            ],
+            "answer": "C. Bhagadatta"
+        },
+        {
+            "question": "Whose son was Bajradatta?",
+            "options": [
+                "A. Bhagadatta",
+                "B. Narkasura",
+                "C. Hatakasur",
+                "D. Pralambh"
+            ],
+            "answer": "A. Bhagadatta"
+        },
+        {
+            "question": "Who established the Varman dynasty?",
+            "options": [
+                "A. Samudravarman",
+                "B. Bala Varman",
+                "C. Narayanvarman",
+                "D. Pushya Varman"
+            ],
+            "answer": "A. Samudravarman"
+        },
+        {
+            "question": "Who was the greatest Ruler of the Varman dynasty?",
+            "options": [
+                "A. Sthitavarman",
+                "B. Susthitavarman",
+                "C. Supratisthitavarman",
+                "D. Bhaskaravarman"
+            ],
+            "answer": "D. Bhaskaravarman"
+        },
+        {
+            "question": "During the rule of which of the following did the Bhaskarabda era start in Assam?",
+            "options": [
+                "A. Pushya Varman",
+                "B. Susthitavarman",
+                "C. Bhaskaravarman",
+                "D. Chandramukhvarman"
+            ],
+            "answer": "C. Bhaskaravarman"
+        },
+        {
+            "question": "Which king established the Pala dynasty in Assam?",
+            "options": [
+                "A. Ratnapala",
+                "B. Dharmapala",
+                "C. Indrapala",
+                "D. Brahmapala"
+            ],
+            "answer": "B. Dharmapala"
+        },
+        {
+            "question": "What is the name of the kingdom established by Shashanka?",
+            "options": [
+                "A. Banga kingdom",
+                "B. Kamata kingdom",
+                "C. Gauda kingdom",
+                "D. Bidarbha kingdom"
+            ],
+            "answer": "C. Gauda kingdom"
+        },
+        {
+            "question": "Which is correct about Satisadhani?",
+            "options": [
+                "A. She was the daughter of King Dharmadhwajpal, also known as Dhirnarayan",
+                "B. She was the daughter of the ruler of the Chutia dynasty",
+                "C. She was married to Nitai from the Chakusara clan",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "Who established the Koch dynasty?",
+            "options": [
+                "A. Naranarayan",
+                "B. Biswa Singha",
+                "C. Shukladhwaj",
+                "D. Raghudev Narayan"
+            ],
+            "answer": "B. Biswa Singha"
+        },
+        {
+            "question": "Who was popularly known as Chilarai?",
+            "options": [
+                "A. Chakradhwaj",
+                "B. Jayadhwaj",
+                "C. Shukladhwaj",
+                "D. None of the above"
+            ],
+            "answer": "A. Chakradhwaj"
+        },
+        {
+            "question": "Who established the Jaintia kingdom?",
+            "options": [
+                "A. Parbat Ray",
+                "B. Burha Parbat Ray",
+                "C. Pratap Ray",
+                "D. Sundar Ray"
+            ],
+            "answer": "B. Burha Parbat Ray"
+        },
+        {
+            "question": "Who established the Ahom Empire?",
+            "options": [
+                "A. Sukhampha",
+                "B. Sudangpha",
+                "C. Sukhrangpha",
+                "D. Sukaphaa"
+            ],
+            "answer": "D. Sukaphaa"
+        },
+        {
+            "question": "Who was the ruler of Assam during the battle of Itakhuli?",
+            "options": [
+                "A. Sulikphaa",
+                "B. Supatphaa",
+                "C. Sutanphaa",
+                "D. Sukhramphaa"
+            ],
+            "answer": "A. Sulikphaa"
+        },
+        {
+            "question": "What was the name of the first chief English ruler of Assam after the Yandaboo Treaty?",
+            "options": [
+                "A. Robertson",
+                "B. David Scott",
+                "C. Adam White",
+                "D. Captain Neuville"
+            ],
+            "answer": "B. David Scott"
+        },
+        {
+            "question": "Who was the first Assamese person to oppose British rule in 1826?",
+            "options": [
+                "A. Piyoli Phukan",
+                "B. Dutiram Baruah",
+                "C. Formud Ali",
+                "D. Gomdhar Konwar"
+            ],
+            "answer": "A. Piyoli Phukan"
+        },
+        {
+            "question": "In which year was Piyoli Phukan and Jiuram dulia baruah trapped?",
+            "options": [
+                "A. 1829",
+                "B. 1930",
+                "C. 1830",
+                "D. 1857"
+            ],
+            "answer": "C. 1830"
+        },
+        {
+            "question": "Who took the lead in the sepoy rebellion in Assam?",
+            "options": [
+                "A. Piyoli Phukan",
+                "B. Gomdhar Konwar",
+                "C. Maniram Dewan",
+                "D. Piyali Baruah"
+            ],
+            "answer": "C. Maniram Dewan"
+        },
+        {
+            "question": "Which Chief Commissioner in Assam introduced the first entrance and scholarships for higher education?",
+            "options": [
+                "A. Charles Elliot",
+                "B. SC Bailey",
+                "C. Colonel Kittinger",
+                "D. Henry Hopkinson"
+            ],
+            "answer": "B. SC Bailey"
+        },
+        {
+            "question": "Cotton College was established in 1901 during the time of which British Chief commissioner?",
+            "options": [
+                "A. William Bard",
+                "B. Bemfield Fuller",
+                "C. Henry Cotton",
+                "D. Charles Freire"
+            ],
+            "answer": "C. Henry Cotton"
+        },
+        {
+            "question": "In which year was the Assam Provincial Congress Committee formed?",
+            "options": [
+                "A. 1915",
+                "B. 1921",
+                "C. 1929",
+                "D. 1930"
+            ],
+            "answer": "B. 1921"
+        },
+        {
+            "question": "When did the first elections held during the pre-independence period in Assam?",
+            "options": [
+                "A. 1935",
+                "B. 1936",
+                "C. 1937",
+                "D. 1931"
+            ],
+            "answer": "A. 1935"
+        },
+        {
+            "question": "Who was the first Prime Minister of Assam at the time of pre-independence?",
+            "options": [
+                "A. Bishnuram Medhi",
+                "B. Gopinath Bordoloi",
+                "C. Syed Muhammad Saadulla",
+                "D. Sarat Chandra Singha"
+            ],
+            "answer": "C. Syed Muhammad Saadulla"
+        },
+        {
+            "question": "Who was the first Governor of independent Assam?",
+            "options": [
+                "A. Gopinath Bordoloi",
+                "B. Fazal Ali",
+                "C. Akbar Hydari",
+                "D. Bishnu Sahai"
+            ],
+            "answer": "C. Akbar Hydari"
+        },
+        {
+            "question": "Who was the first Chief Minister of independent Assam?",
+            "options": [
+                "A. Bishnuram Medhi",
+                "B. Bimala Prasad Chaliha",
+                "C. Gopinath Bordoloi",
+                "D. Syed Muhammad Sadulla"
+            ],
+            "answer": "B. Bimala Prasad Chaliha"
+        },
+        {
+            "question": "When was the Guwahati University established?",
+            "options": [
+                "A. 1948",
+                "B. 1950",
+                "C. 1949",
+                "D. 1953"
+            ],
+            "answer": "C. 1949"
+        },
+        {
+            "question": "When was the Guwahati High Court established in Assam?",
+            "options": [
+                "A. 1948",
+                "B. 1949",
+                "C. 1950",
+                "D. 1951"
+            ],
+            "answer": "B. 1949"
+        },
+        {
+            "question": "Who was the chief minister of Assam after Gopinath Bordoloi?",
+            "options": [
+                "A. Bimala Prasad Chaliha",
+                "B. Sarat Chandra Singha",
+                "C. Bishnuram Medhi",
+                "D. Golap Borborah"
+            ],
+            "answer": "A. Bimala Prasad Chaliha"
+        },
+        {
+            "question": "Which of the below institutions was/were established in Assam in 1948?",
+            "options": [
+                "A. Assam Agricultural University",
+                "B. Assam Veterinary College",
+                "C. Guwahati Akashvani Kendra",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "When was the first blind school established in Assam?",
+            "options": [
+                "A. 1955",
+                "B. 1952",
+                "C. 1951",
+                "D. 1957"
+            ],
+            "answer": "C. 1951"
+        },
+        {
+            "question": "When was the first engineering college of Assam established?",
+            "options": [
+                "A. 1950",
+                "B. 1956",
+                "C. 1959",
+                "D. 1955"
+            ],
+            "answer": "A. 1950"
+        },
+        {
+            "question": "When was the Assam Fixation of Ceiling on Landholding Act also popularly known as the Ceiling Act enacted in Assam?",
+            "options": [
+                "A. 1955",
+                "B. 1956",
+                "C. 1959",
+                "D. 1957"
+            ],
+            "answer": "B. 1956"
+        },
+        {
+            "question": "How many seats were there for in the first Assam Assembly elections held in 1952?",
+            "options": [
+                "A. 108",
+                "B. 105",
+                "C. 126",
+                "D. 120"
+            ],
+            "answer": "C. 126"
+        },
+        {
+            "question": "When was the Namrup fertilizer industry of Assam established?",
+            "options": [
+                "A. 1955",
+                "B. 1962",
+                "C. 1965",
+                "D. 1963"
+            ],
+            "answer": "B. 1962"
+        },
+        {
+            "question": "When was the Bodo language recognized as a medium of education for the Bodo students at the primary school in Assam?",
+            "options": [
+                "A. 1964",
+                "B. 1963",
+                "C. 1967",
+                "D. 1969"
+            ],
+            "answer": "C. 1967"
+        }
+    ]
+}
