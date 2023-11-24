@@ -1,1 +1,484 @@
-
+{
+    "questions": [
+        {
+            "question": "Jyoti Prasad Agarwal was the editor of which Newspaper?",
+            "options": [
+                "A. Dainik Agradoot",
+                "B. Dainik Asom",
+                "C. Amar Asom",
+                "D. Pratidin"
+            ],
+            "answer": "A. Dainik Agradoot"
+        },
+        {
+            "question": "When President's rule was first introduced in Assam?",
+            "options": [
+                "A. 27 November 1990",
+                "B. 30 June 1981",
+                "C. 12 December 1979",
+                "D. 19 March 1982"
+            ],
+            "answer": "C. 12 December 1979"
+        },
+        {
+            "question": "When was the Illegal Migrants Detection by Tribunals (IMDT) Act passed in Parliament?",
+            "options": [
+                "A. 15 October 1983",
+                "B. 27 February 1993",
+                "C. 15 August 1985",
+                "D. 16 December 1985"
+            ],
+            "answer": "C. 15 August 1985"
+        },
+        {
+            "question": "When the deadly serial bomb blast took place in Assam?",
+            "options": [
+                "A. October 3, 2008",
+                "B. October 30, 2008",
+                "C. 26 November 2008",
+                "D. 29 November 2008"
+            ],
+            "answer": "C. 26 November 2008"
+        },
+        {
+            "question": "When Turbak invaded Assam?",
+            "options": [
+                "A. 1527",
+                "B. 1530",
+                "C. 1532",
+                "D. 1532"
+            ],
+            "answer": "C. 1532"
+        },
+        {
+            "question": "Which of the following is correct about Mula Gabharu?",
+            "options": [
+                "A. Wife of the General Phrasengmung Bargohain",
+                "B. Fought against Turbak",
+                "C. Mula Gabharu died in the war",
+                "D. All of the above"
+            ],
+            "answer": "D. All of the above"
+        },
+        {
+            "question": "When Mirjumla invaded Assam?",
+            "options": [
+                "A. 1662",
+                "B. 1659",
+                "C. 1663",
+                "D. 1671"
+            ],
+            "answer": "D. 1671"
+        },
+        {
+            "question": "What is the name of the battle of 1671 in the history of Assam?",
+            "options": [
+                "A. Battle of Itakhuli",
+                "B. Battle of Saraighat",
+                "C. Battle of Latakata",
+                "D. Battle of Ghilajhari"
+            ],
+            "answer": "B. Battle of Saraighat"
+        },
+        {
+            "question": "When did the Khasi rebellion take place?",
+            "options": [
+                "A. 1828",
+                "B. 1830",
+                "C. 1831",
+                "D. 1833"
+            ],
+            "answer": "C. 1831"
+        },
+        {
+            "question": "When did the first farmer's rebellion at Phulaguri in Assam take place?",
+            "options": [
+                "A. 1860",
+                "B. 1861",
+                "C. 1862",
+                "D. 1865"
+            ],
+            "answer": "A. 1860"
+        },
+        {
+            "question": "When the Farmers Revolt of Rangia took place?",
+            "options": [
+                "A. 1893",
+                "B. 1895",
+                "C. 1889",
+                "D. 1899"
+            ],
+            "answer": "A. 1893"
+        },
+        {
+            "question": "When the battle of Patharughat of the Darrang district took place?",
+            "options": [
+                "A. 10 January 1894",
+                "B. 28 January 1894",
+                "C. 19 January 1894",
+                "D. 22 January 1894"
+            ],
+            "answer": "A. 10 January 1894"
+        },
+        {
+            "question": "How many people died in the battle of Patharughat?",
+            "options": [
+                "A. 150",
+                "B. 140",
+                "C. 145",
+                "D. 149"
+            ],
+            "answer": "C. 145"
+        },
+        {
+            "question": "When did the language movement (Assamese Language) start in Assam?",
+            "options": [
+                "A. 1950",
+                "B. 1960",
+                "C. 1966",
+                "D. 1972"
+            ],
+            "answer": "A. 1950"
+        },
+        {
+            "question": "When did the Indo-China war take place?",
+            "options": [
+                "A. 1970",
+                "B. 1962",
+                "C. 1961",
+                "D. 1960"
+            ],
+            "answer": "B. 1962"
+        },
+        {
+            "question": "When did the medium movement started in Assam?",
+            "options": [
+                "A. 1960",
+                "B. 1962",
+                "C. 1972",
+                "D. 1975"
+            ],
+            "answer": "A. 1960"
+        },
+        {
+            "question": "When was the Assam movement launched in Assam?",
+            "options": [
+                "A. 1989",
+                "B. 1978",
+                "C. 1979",
+                "D. 1985"
+            ],
+            "answer": "C. 1979"
+        },
+        {
+            "question": "Under whose leadership was the Assam movement started?",
+            "options": [
+                "A. AASU",
+                "B. AMCHU",
+                "C. AKRASU",
+                "D. ABSU"
+            ],
+            "answer": "A. AASU"
+        },
+        {
+            "question": "When was the Assam Accord signed?",
+            "options": [
+                "A. 15 August 1984",
+                "B. 15 August 1985",
+                "C. 15 September 1985",
+                "D. 15 June 1985"
+            ],
+            "answer": "C. 15 September 1985"
+        },
+        {
+            "question": "On which river is the 2000 MW large river dam constructed in Assam?",
+            "options": [
+                "A. Sonkosh River",
+                "B. Kapili River",
+                "C. Subansiri River",
+                "D. Lohit River"
+            ],
+            "answer": "C. Subansiri River"
+        },
+        {
+            "question": "In which year did the British stop growing opium poppy by enacting a law?",
+            "options": [
+                "A. 1861",
+                "B. 1894",
+                "C. 1860",
+                "D. 1893"
+            ],
+            "answer": "A. 1861"
+        },
+        {
+            "question": "When the Citizenship Amendment Bill 2016 first introduced in Parliament?",
+            "options": [
+                "A. 19 July 2016",
+                "B. 19 December 2016",
+                "C. 8 January 2019",
+                "D. 9 December 2019"
+            ],
+            "answer": "A. 19 July 2016"
+        },
+        {
+            "question": "By what margin of votes was the Citizenship Amendment Bill passed in the Lok Sabha on 9th December 2019?",
+            "options": [
+                "A. 311- 60",
+                "B. 311- 80",
+                "C. 310 - 80",
+                "D. 301- 60"
+            ],
+            "answer": "B. 311- 80"
+        },
+        {
+            "question": "By what margin of votes was the Citizenship Amendment Bill passed in the Rajya Sabha on December 11, 2019?",
+            "options": [
+                "A. 110-106",
+                "B. 112-110",
+                "C. 125-105",
+                "D. 110-105"
+            ],
+            "answer": "A. 110-106"
+        },
+        {
+            "question": "Between whom was the treaty of Majuli signed?",
+            "options": [
+                "A. Between Ahom and Koch",
+                "B. Between Ahom and Kachari",
+                "C. Between Ahom and Mughal",
+                "D. None of the above"
+            ],
+            "answer": "B. Between Ahom and Kachari"
+        },
+        {
+            "question": "In 1663 in the treaty of Ghilajharighat was signed between?",
+            "options": [
+                "A. Between Ahom and Mughal",
+                "B. Between the Ahom and Koch",
+                "C. Between the Ahom and Maans",
+                "D. None of the above"
+            ],
+            "answer": "A. Between Ahom and Mughal"
+        },
+        {
+            "question": "Yandaboo Treaty was signed between which of the following?",
+            "options": [
+                "A. Between Ahom and Mughals",
+                "B. Between Ahom and British rulers",
+                "C. Between British and Burmese (Mann)",
+                "D. Between Mann and Ahom"
+            ],
+            "answer": "C. Between British and Burmese (Mann)"
+        },
+        {
+            "question": "In which year was the Bodo Agreement signed?",
+            "options": [
+                "A. 10 February 2002",
+                "B. 10 February 2003",
+                "C. 10 January 2003",
+                "D. 10 January 2002"
+            ],
+            "answer": "A. 10 February 2002"
+        },
+        {
+            "question": "How many districts are there in Bodoland region?",
+            "options": [
+                "A. Three",
+                "B. Four",
+                "C. Five",
+                "D. Six"
+            ],
+            "answer": "B. Four"
+        },
+        {
+            "question": "When Hiuen Tsang visited Kamrup?",
+            "options": [
+                "A. In 540 AD",
+                "B. In 650 AD",
+                "C. In 640 AD",
+                "D. In 460 AD"
+            ],
+            "answer": "B. In 650 AD"
+        },
+        {
+            "question": "Who was Ralph Fitch?",
+            "options": [
+                "A. Portuguese traveller",
+                "B. British traveller",
+                "C. French traveller",
+                "D. Burmese traveller"
+            ],
+            "answer": "B. British traveller"
+        },
+        {
+            "question": "Who is the author of the book “Travels and Adventure in the Province of Assam”?",
+            "options": [
+                "A. J Mills",
+                "B. Assam White",
+                "C. Hamilton",
+                "D. John Butler"
+            ],
+            "answer": "C. Hamilton"
+        },
+        {
+            "question": "Who was the author of the book “Gold and Silver wares of Assam”?",
+            "options": [
+                "A. Buchanan",
+                "B. Hamilton",
+                "C. Jenkins",
+                "D. F.C. Hennikar"
+            ],
+            "answer": "A. Buchanan"
+        },
+        {
+            "question": "Who wrote the book “A descriptive Account of Assam”?",
+            "options": [
+                "A. David Scott",
+                "B. Dalton",
+                "C. John Cabrel",
+                "D. William Robinson"
+            ],
+            "answer": "A. David Scott"
+        },
+        {
+            "question": "Who wrote the book “Topography of Assam”?",
+            "options": [
+                "A. William Robinson",
+                "B. Hamilton",
+                "C. Williamson Hunter",
+                "D. John McCosh"
+            ],
+            "answer": "A. William Robinson"
+        },
+        {
+            "question": "Who wrote the book “Statistical Account of Assam”?",
+            "options": [
+                "A. David Scott",
+                "B. P R Tigordon",
+                "C. William Wilson Hunter",
+                "D. B C Allen"
+            ],
+            "answer": "C. William Wilson Hunter"
+        },
+        {
+            "question": "What was the number of members of the Upper House and lower house of the bihoused legislature of pre-independent Assam?",
+            "options": [
+                "A. 22-108",
+                "B. 21-108",
+                "C. 22-126",
+                "D. 21-105"
+            ],
+            "answer": "A. 22-108"
+        },
+        {
+            "question": "Who served as the Speaker of the Assembly in the first session in 1937?",
+            "options": [
+                "A. Mohammad Amiruddin",
+                "B. Basanta Kumar Das",
+                "C. Debeshwar Sarma",
+                "D. Kuldhav Chaliha"
+            ],
+            "answer": "A. Mohammad Amiruddin"
+        },
+        {
+            "question": "On the basis of Panchayati Raj Act, the autonomy of Assam has been divided into how many parts?",
+            "options": [
+                "A. Three",
+                "B. Two",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "B. Two"
+        },
+        {
+            "question": "Which of the following is incorrect according to the autonomy of the urban areas of Assam?",
+            "options": [
+                "A. Municipal Corporation",
+                "B. Municipality",
+                "C. Town Committee",
+                "D. Zilla Parishad"
+            ],
+            "answer": "D. Zilla Parishad"
+        },
+        {
+            "question": "Which of the following is incorrect as per the autonomy of the village area of Assam?",
+            "options": [
+                "A. Village Panchayat",
+                "B. Regional Panchayat",
+                "C. Zilla Parishad",
+                "D. Town committee"
+            ],
+            "answer": "B. Regional Panchayat"
+        },
+        {
+            "question": "How many municipalities are there in Assam till today?",
+            "options": [
+                "A. 80",
+                "B. 84",
+                "C. 89",
+                "D. 48"
+            ],
+            "answer": "B. 84"
+        },
+        {
+            "question": "How many wards are there under the Guwahati Municipal Corporation?",
+            "options": [
+                "A. 80",
+                "B. 85",
+                "C. 60",
+                "D. 70"
+            ],
+            "answer": "C. 60"
+        },
+        {
+            "question": "The municipal corporation was formed in Assam under the Municipal Act of?",
+            "options": [
+                "A. 1914",
+                "B. 1974",
+                "C. 1956",
+                "D. 1994"
+            ],
+            "answer": "D. 1994"
+        },
+        {
+            "question": "Under which Act city committees were formed in Assam?",
+            "options": [
+                "A. Assam Municipal Corporation Act, 1956",
+                "B. Assam Panchayat Act, 1994",
+                "C. Panchayati Raj Act, 1914",
+                "D. None of the above"
+            ],
+            "answer": "A. Assam Municipal Corporation Act, 1956"
+        },
+        {
+            "question": "Under which law are the Gaon Panchayats of Assam were formed?",
+            "options": [
+                "A. Guwahati Municipal Corporation Act, 1969",
+                "B. Municipal Act, 1956",
+                "C. Assam Panchayat Act, 1994",
+                "D. Panchayati Raj Act, 1914"
+            ],
+            "answer": "C. Assam Panchayat Act, 1994"
+        },
+        {
+            "question": "How many Gaon panchayats are there in Assam till today?",
+            "options": [
+                "A. 2201",
+                "B. 2202",
+                "C. 2022",
+                "D. 2012"
+            ],
+            "answer": "A. 2201"
+        },
+        {
+            "question": "Gaon Panchayats are divided into how many wards?",
+            "options": [
+                "A. 10",
+                "B. 15",
+                "C. 5",
+                "D. 12"
+            ],
+            "answer": "C. 5"
+        }
+    ]
+}
