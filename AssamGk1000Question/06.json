@@ -1,1 +1,504 @@
-
+{
+    "questions": [
+        {
+            "question": "When did the construction of Assam Trunk Road begin?",
+            "options": [
+                "A. 1856",
+                "B. 1868",
+                "C. 1842",
+                "D. 1880"
+            ],
+            "answer": "D. 1880"
+        },
+        {
+            "question": "The Public Works Department (PWD) is one of the oldest and most important Departments of Government of Assam. It was established in the year?",
+            "options": [
+                "A. 1880",
+                "B. 1989",
+                "C. 1895",
+                "D. 1889"
+            ],
+            "answer": "A. 1880"
+        },
+        {
+            "question": "What is the length of the National Highway in Assam which has been developed under the initiative of National Highways Authority of India (NHAI)?",
+            "options": [
+                "A. 3613 km",
+                "B. 3840 km",
+                "C. 3909 km",
+                "D. 3900 km"
+            ],
+            "answer": "B. 3840 km"
+        },
+        {
+            "question": "When was the first passenger bus service started in Assam?",
+            "options": [
+                "A. 1920",
+                "B. 1925",
+                "C. 1914",
+                "D. 1930"
+            ],
+            "answer": "A. 1920"
+        },
+        {
+            "question": "When did the first passenger bus (city bus) start in Guwahati?",
+            "options": [
+                "A. 1923",
+                "B. 1933",
+                "C. 1946",
+                "D. 1941"
+            ],
+            "answer": "B. 1933"
+        },
+        {
+            "question": "When did the first train engine operate in Assam?",
+            "options": [
+                "A. 1881",
+                "B. 1853",
+                "C. 1882",
+                "D. 1888"
+            ],
+            "answer": "B. 1853"
+        },
+        {
+            "question": "When did the first passenger train operate in Assam?",
+            "options": [
+                "A. 1881",
+                "B. 1984",
+                "C. 1883",
+                "D. 1882"
+            ],
+            "answer": "A. 1881"
+        },
+        {
+            "question": "When was Assam railways and Trading Company Limited formed?",
+            "options": [
+                "A. 1880",
+                "B. 1895",
+                "C. 1881",
+                "D. 1884"
+            ],
+            "answer": "D. 1884"
+        },
+        {
+            "question": "When was Assam-Bengal Railway Company formed in Assam?",
+            "options": [
+                "A. 1899",
+                "B. 1880",
+                "C. 1892",
+                "D. 1893"
+            ],
+            "answer": "C. 1892"
+        },
+        {
+            "question": "When was the North-East Frontier Railway (NFR) formed?",
+            "options": [
+                "A. 1956",
+                "B. 1958",
+                "C. 1953",
+                "D. 1883"
+            ],
+            "answer": "A. 1956"
+        },
+        {
+            "question": "Where is the headquarter of Northeast Frontier Railway located?",
+            "options": [
+                "A. Alipurduar",
+                "B. Katihar",
+                "C. Lumding",
+                "D. Maligaon"
+            ],
+            "answer": "D. Maligaon"
+        },
+        {
+            "question": "Into how many divisions is the North East Frontier Railway divided?",
+            "options": [
+                "A. Six",
+                "B. Five",
+                "C. Three",
+                "D. Two"
+            ],
+            "answer": "B. Five"
+        },
+        {
+            "question": "When did the train service by steam engine stop in Assam?",
+            "options": [
+                "A. 1958",
+                "B. 1990",
+                "C. 1996",
+                "D. 1999"
+            ],
+            "answer": "A. 1958"
+        },
+        {
+            "question": "When did Guwahati airport start?",
+            "options": [
+                "A. 1956",
+                "B. 1926",
+                "C. 1958",
+                "D. 1947"
+            ],
+            "answer": "D. 1947"
+        },
+        {
+            "question": "When was the Assam Postal Circle formed in Assam?",
+            "options": [
+                "A. 1980",
+                "B. 1990",
+                "C. 1873",
+                "D. 1998"
+            ],
+            "answer": "C. 1873"
+        },
+        {
+            "question": "How many post offices are there in Assam at present?",
+            "options": [
+                "A. 4011",
+                "B. 4550",
+                "C. 4110",
+                "D. 4016"
+            ],
+            "answer": "B. 4550"
+        },
+        {
+            "question": "When was night post office service inaugurated in Assam?",
+            "options": [
+                "A. 1988",
+                "B. 1990",
+                "C. 1947",
+                "D. 1969"
+            ],
+            "answer": "D. 1969"
+        },
+        {
+            "question": "When was Assam Telecom Circle launched?",
+            "options": [
+                "A. 1987",
+                "B. 1969",
+                "C. 1998",
+                "D. 1985"
+            ],
+            "answer": "D. 1985"
+        },
+        {
+            "question": "Since when was Assamese news broadcasted from Akashvani Guwahati Centre?",
+            "options": [
+                "A. 1943",
+                "B. 1948",
+                "C. 1960",
+                "D. 1951"
+            ],
+            "answer": "D. 1951"
+        },
+        {
+            "question": "What educational programmes are broadcasted by Akashvani Guwahati Centre since 1960?",
+            "options": [
+                "A. Abelir Beli",
+                "B. Ekalavya",
+                "C. Bidyarthir Anusthan",
+                "D. Samidhan"
+            ],
+            "answer": "C. Bidyarthir Anusthan"
+        },
+        {
+            "question": "When did the regular telecast of television in India begin?",
+            "options": [
+                "A. 1955",
+                "B. 1966",
+                "C. 1965",
+                "D. 1976"
+            ],
+            "answer": "A. 1955"
+        },
+        {
+            "question": "In which year did the broadcast of independent television in India start after being divided from Akashvani?",
+            "options": [
+                "A. 1965",
+                "B. 1962",
+                "C. 1976",
+                "D. 1972"
+            ],
+            "answer": "A. 1965"
+        },
+        {
+            "question": "When did the broadcast of television in Assam start?",
+            "options": [
+                "A. 1975",
+                "B. 1988",
+                "C. 1982",
+                "D. 1990"
+            ],
+            "answer": "A. 1975"
+        },
+        {
+            "question": "Since when did Guwahati television station broadcast the show on its own?",
+            "options": [
+                "A. 1982",
+                "B. 1988",
+                "C. 1990",
+                "D. 1985"
+            ],
+            "answer": "D. 1985"
+        },
+        {
+            "question": "What is the name of the first private TV channel in Assam?",
+            "options": [
+                "A. News Live",
+                "B. NE Hi-Fi",
+                "C. NE TV",
+                "D. DY 365"
+            ],
+            "answer": "A. News Live"
+        },
+        {
+            "question": "From when did internet use start in Assam?",
+            "options": [
+                "A. 1999",
+                "B. 1987",
+                "C. 1997",
+                "D. 1995"
+            ],
+            "answer": "C. 1997"
+        },
+        {
+            "question": "What is the name of the first nursing home in Assam?",
+            "options": [
+                "A. Dispur polyclinic and nursing home",
+                "B. Central Nursing Home",
+                "C. Assam Medical Corporation and Polyclinic",
+                "D. Kalicharan Das Nursing Home and polyclinic"
+            ],
+            "answer": "A. Dispur polyclinic and nursing home"
+        },
+        {
+            "question": "When was Assam's first nursing home established?",
+            "options": [
+                "A. 1965",
+                "B. 1956",
+                "C. 1966",
+                "D. 1969"
+            ],
+            "answer": "C. 1966"
+        },
+        {
+            "question": "When was the Assam Medical College established?",
+            "options": [
+                "A. 1910",
+                "B. 1947",
+                "C. 1930",
+                "D. 1900"
+            ],
+            "answer": "B. 1947"
+        },
+        {
+            "question": "When was the Guwahati Medical College established?",
+            "options": [
+                "A. 1960",
+                "B. 1971",
+                "C. 1947",
+                "D. 1970"
+            ],
+            "answer": "D. 1970"
+        },
+        {
+            "question": "In whose name was the first medical school in Assam established?",
+            "options": [
+                "A. John Barry White",
+                "B. Satan Kabra",
+                "C. N Khound",
+                "D. Pankaj Bhardwaj"
+            ],
+            "answer": "A. John Barry White"
+        },
+        {
+            "question": "When was the Medical Council of India formed?",
+            "options": [
+                "A. 1917",
+                "B. 1920",
+                "C. 1933",
+                "D. 1947"
+            ],
+            "answer": "C. 1933"
+        },
+        {
+            "question": "Where is Ayurvedic College in Assam located?",
+            "options": [
+                "A. Jalukbari",
+                "B. Dispur",
+                "C. Khanapara",
+                "D. Paltan Bazaar"
+            ],
+            "answer": "A. Jalukbari"
+        },
+        {
+            "question": "When was Assam Ayurvedic College established?",
+            "options": [
+                "A. 1973",
+                "B. 1977",
+                "C. 1984",
+                "D. 1948"
+            ],
+            "answer": "D. 1948"
+        },
+        {
+            "question": "When was the Janani Suraksha Scheme launched in Assam?",
+            "options": [
+                "A. 2005",
+                "B. 2004",
+                "C. 2006",
+                "D. 2007"
+            ],
+            "answer": "D. 2007"
+        },
+        {
+            "question": "When is the Rashtriya Swasthya Bima Yojana launched in Assam?",
+            "options": [
+                "A. 2005",
+                "B. 2010",
+                "C. 2008",
+                "D. 2009"
+            ],
+            "answer": "C. 2008"
+        },
+        {
+            "question": "When is Atal Amrit health insurance scheme launched in Assam?",
+            "options": [
+                "A. 2006",
+                "B. 2008",
+                "C. 2014",
+                "D. 2016"
+            ],
+            "answer": "C. 2014"
+        },
+        {
+            "question": "What is the first Assamese sonnet poem?",
+            "options": [
+                "A. Malas",
+                "B. Banakuwari",
+                "C. Priyatmar Chithi",
+                "D. Bonophul"
+            ],
+            "answer": "C. Priyatmar Chithi"
+        },
+        {
+            "question": "Which of the following is not a theatrical show?",
+            "options": [
+                "A. Ankiya naat",
+                "B. Putola Naach",
+                "C. Ojapali",
+                "D. Chomangkan"
+            ],
+            "answer": "D. Chomangkan"
+        },
+        {
+            "question": "Bagurumba is the traditional dance of which of the following community?",
+            "options": [
+                "A. Missing",
+                "B. Tea community",
+                "C. Tiwa",
+                "D. Bodo"
+            ],
+            "answer": "D. Bodo"
+        },
+        {
+            "question": "Jhumur dance is which of the following community's special dance?",
+            "options": [
+                "A. Ahom",
+                "B. Big",
+                "C. Karbi",
+                "D. Tea community"
+            ],
+            "answer": "D. Tea community"
+        },
+        {
+            "question": "Lakhinandan Bora received Assam Valley Literary Award in the year?",
+            "options": [
+                "A. 2003",
+                "B. 2002",
+                "C. 2001",
+                "D. 2004"
+            ],
+            "answer": "B. 2002"
+        },
+        {
+            "question": "Which of the following is not a musical instrument played with a puff?",
+            "options": [
+                "A. Buffalo horn pipe",
+                "B. Doble buffalo horn pipe",
+                "C. Sutuli",
+                "D. Rudraveena"
+            ],
+            "answer": "D. Rudraveena"
+        },
+        {
+            "question": "Which of the following is not a musical instrument of the Mising?",
+            "options": [
+                "A. Dumdum",
+                "B. Lupi",
+                "C. Deonghanta",
+                "D. Kharam"
+            ],
+            "answer": "D. Kharam"
+        },
+        {
+            "question": "Which of the following is not a musical instrument of Dimasa?",
+            "options": [
+                "A. Muree",
+                "B. Wathisa",
+                "C. Sufin",
+                "D. Dhumsa"
+            ],
+            "answer": "D. Dhumsa"
+        },
+        {
+            "question": "Which of the following is not a musical instrument of the Bodos?",
+            "options": [
+                "A. Chifung",
+                "B. Sarangi",
+                "C. Gangana",
+                "D. Buburang"
+            ],
+            "answer": "B. Sarangi"
+        },
+        {
+            "question": "When was the first art school of Assam 'Guwahati School of Art and Craft' established?",
+            "options": [
+                "A. 1970",
+                "B. 1960",
+                "C. 1947",
+                "D. 1983"
+            ],
+            "answer": "B. 1960"
+        },
+        {
+            "question": "What is the earliest architecture of Assam?",
+            "options": [
+                "A. Shiva Dol",
+                "B. Devi Dol",
+                "C. Da-Parbatia toron",
+                "D. Umachal stone inscription"
+            ],
+            "answer": "C. Da-Parbatia toron"
+        },
+        {
+            "question": "Where is Agnigarh located?",
+            "options": [
+                "A. Lakhimpur",
+                "B. Dhemaji",
+                "C. Tezpur",
+                "D. Mangaldoi"
+            ],
+            "answer": "C. Tezpur"
+        },
+        {
+            "question": "Which religious place in Assam is known as 'Mayurdeep or Peacock Island'?",
+            "options": [
+                "A. Kamakhya Temple",
+                "B. Ashwatthak Temple",
+                "C. Umananda Temple",
+                "D. Mahabhairav Temple"
+            ],
+            "answer": "C. Umananda Temple"
+        }
+    ]
+}
