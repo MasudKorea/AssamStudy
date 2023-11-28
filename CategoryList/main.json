@@ -36,6 +36,11 @@
             "imageUrl": "not_updated"
         },
         {
+            "name": "700 MCQ on Assam History",
+            "sourceUrl": "https://masudkorea.github.io/StudyAssam/700MCQonAssamHistory/main.json",
+            "imageUrl": "not_updated"
+        },
+        {
             "name": "Previous Year Questions",
             "sourceUrl": "https://masudkorea.github.io/StudyAssam/QuestionAnswers/main.json",
             "imageUrl": "not_updated"
