@@ -1,6 +1,6 @@
 {
-    "questions": [
-            {
+  "questions": [
+    {
       "options": [
         "A. Uower",
         "B. Middle",
@@ -500,5 +500,5 @@
       "question": "Which Lok Sabha constituency of Assam is reserved for SC?",
       "answer": "A. Karimganj"
     }
-    ]
+  ]
 }
