@@ -1,459 +1,503 @@
 {
-    "questions": [
-        {
-            "options": [
-              "B. 72%",
-              "C. 82%",
-              "D. 85%"
-            ],
-            "question": "As per the data of 2011 population census, the literacy rate in Assam is approximatelyA. 68%",
-            "answer": "B. 72%"
-          },
-          {
-            "options": [
-              "B. 1948",
-              "C. 1958",
-              "D. 1967"
-            ],
-            "question": "When did Transport Department of Assam was established?A. 1935",
-            "answer": "B. 1948"
-          },
-          {
-            "options": [
-              "B. Hojai and Barpeta",
-              "C. Nagaon and Morigaon",
-              "D. Kukrajhar and Golaghat"
-            ],
-            "question": "The major reserves of limestone are in _____ andA. Dima Hasao and Karbi Anglong"
-          },
-          {
-            "options": [
-              "B. 24",
-              "C. 26",
-              "D. 10"
-            ],
-            "question": "Population wise rank of Assam among the states of India isA. 15"
-          },
-          {
-            "options": [
-              "B. Second",
-              "C. Third",
-              "D. Fourth"
-            ],
-            "question": "The rank of Assam in terms of crude oil production is _____.A. First",
-            "answer": "B. Second"
-          },
-          {
-            "options": [
-              "B. Bhutan and Bangladesh",
-              "C. China, Myanmar, Bhutan and Bangladesh",
-              "D. Myanmar and Bangladesh"
-            ],
-            "question": "Assam share international border with which of the following countriesA. Myanmar, Bhutan and Bangladesh",
-            "answer": "B. Bhutan and Bangladesh"
-          },
-          {
-            "options": [
-              "B. Sunderlal Bahuguna",
-              "C. Jadav Payeng",
-              "D. Kallen Pakkudan"
-            ],
-            "question": "Who is famously known as the “Forest Man of India”?A. Mike Pandey",
-            "answer": "C. Jadav Payeng"
-          },
-          {
-            "options": [
-              "B. Pobitora Wildlife Sanctuary",
-              "C. Garampani Wildlife Sanctuary",
-              "D. Chakrasila Wildlife Sanctuary"
-            ],
-            "question": "Which of the following protected areas in Assam is known for Golden LangurA. Nameri National Park",
-            "answer": "D. Chakrasila Wildlife Sanctuary"
-          },
-          {
-            "options": [
-              "B. 10 February, 2003",
-              "D. 20 June, 2005"
-            ],
-            "question": "When did B. T.A. D was established ?A. 30 November, 2004",
-            "answer": "B. 10 February, 2003"
-          },
-          {
-            "options": [
-              "B. 27",
-              "C. 32",
-              "D. 34"
-            ],
-            "question": "The total number of administrative districts in Assam is _________.A. 23",
-            "answer": "D. 34"
-          },
-          {
-            "options": [
-              "B. 33",
-              "C. 80",
-              "D. 126"
-            ],
-            "question": "The total number of seats in the legislative council of Assam is \t.A. 13",
-            "answer": "D. 126"
-          },
-          {
-            "options": [
-              "B. Rubber",
-              "C. Maize",
-              "D. Paddy"
-            ],
-            "question": "Assam is not a traditional growing area of which of the following crop?A. Tobacco"
-          },
-          {
-            "options": [
-              "B. Mikir Hills",
-              "C. Singrimari Hills",
-              "D. Makum"
-            ],
-            "question": "Which of the following is the largest Coalfield in Assam?A. Dilli Jaypore",
-            "answer": "D. Makum"
-          },
-          {
-            "options": [
-              "A. 14",
-              "B. 24",
-              "C. 34",
-              "D. 44"
-            ],
-            "question": "The percentage of population living in urban areas in Assam according to 2011 census is",
-            "answer": "A. 14"
-          },
-          {
-            "options": [
-              "B. 20.6 %",
-              "C. 22.4 %",
-              "D. 34.21 %"
-            ],
-            "question": "How much land of assam has been occupied by forests?A. 17.2 %",
-            "answer": "D. 34.21 %"
-          },
-          {
-            "options": [
-              "B. Kokrajhar",
-              "C. Baks",
-              "D. Cachar"
-            ],
-            "question": "Which of the following districts of Assam does not have any international boundary?A. Dhemaji"
-          },
-          {
-            "options": [
-              "B. Kumri Beel Lake",
-              "C. Cahndubi Lake",
-              "D. Deepor Beel"
-            ],
-            "question": "Which of is the largest wetland in Assam?A. Sonbill Lake"
-          },
-          {
-            "options": [
-              "B. 2007",
-              "C. 2008",
-              "D. 2009"
-            ],
-            "question": "In which year Kaziranga National Park became a Tiger reserve?A. 2006"
-          },
-          {
-            "options": [
-              "B. Borgang",
-              "C. Jhanji",
-              "D. Bhugdoi"
-            ],
-            "question": "Which is the northward flow sub-river of Brahmaputra?A. Ronga Noi",
-            "answer": "C. Jhanji"
-          },
-          {
-            "options": [
-              "B. 1867",
-              "C. 1889",
-              "D. 1901"
-            ],
-            "question": "In which of the following year Coal was discovered in Assam?A. 1825"
-          },
-          {
-            "options": [
-              "A. Guwahati",
-              "B. Bongaigaon",
-              "C. Numalighar",
-              "D. Makum"
-            ],
-            "question": "Asia’s first successful mechanically drilled oil well was drilled in ________ of Assam way back in 1867.",
-            "answer": "D. Makum"
-          },
-          {
-            "options": [
-              "B. Majuli Island",
-              "C. Brahmaputrd Floodplains of Eastern Assam",
-              "D. BTAD gred near Bhutan Himalayan foothills"
-            ],
-            "question": "Red Laterite Soils are found in which of the following areas in AssamA. Karbi Hills and Dima Hasao"
-          },
-          {
-            "options": [
-              "B. 720 km",
-              "C. 920 km",
-              "D. 2880 km"
-            ],
-            "question": "The length of Brahmaputra within Assam is ______.A. 640 km",
-            "answer": "B. 720 km"
-          },
-          {
-            "options": [
-              "B. 55%",
-              "C. 75%",
-              "D. 85%"
-            ],
-            "question": "The approximate share of Assam in India’s annually production of tea isA. 25%",
-            "answer": "B. 55%"
-          },
-          {
-            "options": [
-              "B. Kaziranga National Park",
-              "C. Orang National Park",
-              "D. Manas National Park"
-            ],
-            "question": "Which National Park in Assam is one of the last strongholds for the wild water buffalo?A. Dibru-Saikhowa National Park",
-            "answer": "B. Kaziranga National Park"
-          },
-          {
-            "options": [
-              "B. Sonai Rupai WLS",
-              "C. Bornodi WLS",
-              "D. Garampani WLS"
-            ],
-            "question": "Which of the following is the oldest among the present eighteen wildlife sanctuaries in Assam?A. Pobitord WLS",
-            "answer": "D. Garampani WLS"
-          },
-          {
-            "options": [
-              "B. Nagaon",
-              "C. Tinisuki",
-              "D. Nalbari"
-            ],
-            "question": "The literacy rate of which of the following districts is highest in Assam?A. Kamrup Metropolitan"
-          },
-          {
-            "options": [
-              "B. 67.27%",
-              "C. 78.81%",
-              "D. 88.90%"
-            ],
-            "question": "Literacy rate of women in assam according to 2011 census?A. 65.21%",
-            "answer": "B. 67.27%"
-          },
-          {
-            "options": [
-              "B. 1972",
-              "C. 1974",
-              "D. 1975"
-            ],
-            "question": "When Assam’s Kaziranga was declared as a national park ?A. 1950",
-            "answer": "C. 1974"
-          },
-          {
-            "options": [
-              "B. 1849",
-              "C. 1859",
-              "D. 1869"
-            ],
-            "question": "In which year a earthquake sank the bank of the Barak by 15 ft.?A. 1839",
-            "answer": "D. 1869"
-          },
-          {
-            "options": [
-              "B. Laikei peak",
-              "C. Danbukosu peak",
-              "D. Mahadev"
-            ],
-            "question": "What is the highest peak of Karbi hill ?A. Singhason"
-          },
-          {
-            "options": [
-              "B. Equator",
-              "C. Tropic of Capricorn",
-              "D. None of the above"
-            ],
-            "question": "Which of the following geographical lines passes through the state of Assam?A. Tropic of cancer",
-            "answer": "D. None of the above"
-          },
-          {
-            "options": [
-              "B. Tezpur",
-              "C. Jorhat",
-              "D. None of these"
-            ],
-            "question": "Assam’s newest district Majuli is carved out of which of district?A. Dibrugarh",
-            "answer": "C. Jorhat"
-          },
-          {
-            "options": [
-              "B. Mushalpur",
-              "C. Barpeta Road",
-              "D. Goreswar"
-            ],
-            "question": "Which of the following is the district Headquarter of newly created Baksa District.A. Tamulpur",
-            "answer": "B. Mushalpur"
-          },
-          {
-            "options": [
-              "B. Dhansiri",
-              "C. Manas",
-              "D. Sonai"
-            ],
-            "question": "Which among the following is not a principal tributary of Brahmaputra?A. Subansiri",
-            "answer": "D. Sonai"
-          },
-          {
-            "options": [
-              "B. Meghalaya",
-              "C. Nagaland",
-              "D. None of the above"
-            ],
-            "question": "Which of the following North Eastern state shares the longest boundary with Assam?A. Mizoram",
-            "answer": "B. Meghalaya"
-          },
-          {
-            "options": [
-              "A. Guwahati",
-              "B. Itanagar",
-              "C. Dispur",
-              "D. Agartala"
-            ],
-            "question": "What is the capital of Assam?",
-            "answer": "C. Dispur"
-          },
-          {
-            "options": [
-              "A. Nilachal Hill",
-              "B. Chitrachal Hill",
-              "C. Sandhyachal Hill",
-              "D. Jogini Hill"
-            ],
-            "question": "In which hill top, the Kamakhya Temple is located?",
-            "answer": "A. Nilachal Hill"
-          },
-          {
-            "options": [
-              "A. Bishnuram Medhi",
-              "B. Tarun Ram Phukan",
-              "C. Gopinath Bordoloi",
-              "D. None of the Above"
-            ],
-            "question": "Who was the first Chief Minister of Assam?",
-            "answer": "C. Gopinath Bordoloi"
-          },
-          {
-            "options": [
-              "A. 1671",
-              "B. 1644",
-              "C. 1678",
-              "D. 1643"
-            ],
-            "question": "The war of Saraighat was fought between Ahom and Mughal in the year?",
-            "answer": "A. 1671"
-          },
-          {
-            "options": [
-              "A. Jorhat",
-              "B. Sualkuchi",
-              "C. Diphu",
-              "D. Digboi"
-            ],
-            "question": "Which town is also known as the Manchester of Assam?",
-            "answer": "B. Sualkuchi"
-          },
-          {
-            "options": [
-              "A. 1458",
-              "B. 1549",
-              "C. 1449",
-              "D. 1464"
-            ],
-            "question": "Srimanta Sankardev was born in the year __.",
-            "answer": "C. 1449"
-          },
-          {
-            "options": [
-              "A. 34",
-              "B. 32",
-              "C. 25",
-              "D. 33"
-            ],
-            "question": "Total number of Districts in Assam are __.",
-            "answer": "A. 34"
-          },
-          {
-            "options": [
-              "A. Godadhar Singha",
-              "B. Rudra Singha",
-              "C. Siva Singha",
-              "D. Pramatta Singha"
-            ],
-            "question": "The Temple of Umananda was built by:",
-            "answer": "A. Godadhar Singha"
-          },
-          {
-            "options": [
-              "A. The Mahabharata",
-              "B. The Harshacharita",
-              "C. The Kalika Purana",
-              "D. The Arthashastra"
-            ],
-            "question": "One of the following books is the most important literature source for the study of early history of Assam. Which is the book?",
-            "answer": "C. The Kalika Purana"
-          },
-          {
-            "options": [
-              "A. Mahiranga Danava",
-              "B. Narakasura",
-              "C. Bhaskara Varman",
-              "D. Naranarayana"
-            ],
-            "question": "The earliest king of Assam was",
-            "answer": "A. Mahiranga Danava"
-          },
-          {
-            "options": [
-              "A. Palas",
-              "B. Varmans",
-              "C. Narakas",
-              "D. Salastambhas"
-            ],
-            "question": "The earliest historical dynasty of Assam was that of",
-            "answer": "B. Varmans"
-          },
-          {
-            "options": [
-              "A. Autobiographical writings of the Ahom rulers",
-              "B. Diaries written by the monarchs",
-              "C. Chronicles",
-              "D. None of the above"
-            ],
-            "question": "The Buranjis are",
-            "answer": "C. Chronicles"
-          },
-          {
-            "options": [
-              "A. Bhagadatta",
-              "B. Kumar Bhaskar Barman",
-              "C. Swargadeo Rudra Singha",
-              "D. Kumar Rudra Barman"
-            ],
-            "question": "Hiuen Tsang visited Assam (kamarupa) in 640 AD. He was received by the king",
-            "answer": "B. Kumar Bhaskar Barman"
-          },
-          {
-            "options": [
-              "A. 13th century",
-              "B. 14th century",
-              "C. 15th century",
-              "D. 10th century"
-            ],
-            "question": "Ibn Battuta, the celebrated traveler visited Assam in the",
-            "answer": "B. 14th century"
-          }
-    ]
+  "questions": [
+    {
+      "options": [
+        "A. Nameri National Park",
+        "B. Garampani Wildlife Sanctuary",
+        "C. Dibru Saikhowa National Park",
+        "D. None of the above"
+      ],
+      "question": "Which of the following area in Assam is known for Feral Horses?",
+      "answer": "C. Dibru Saikhowa National Park"
+    },
+    {
+      "options": [
+        "A. 68%",
+        "B. 72%",
+        "C. 82%",
+        "D. 85%"
+      ],
+      "question": "As per the data of 2011 population census, the literacy rate in Assam is approximately",
+      "answer": "B. 72%"
+    },
+    {
+      "options": [
+        "A. 1935",
+        "B. 1948",
+        "C. 1958",
+        "D. 1967"
+      ],
+      "question": "When did Transport Department of Assam was established?",
+      "answer": "B. 1948"
+    },
+    {
+      "options": [
+        "A. Dima Hasao and Karbi Anglong",
+        "B. Hojai and Barpeta",
+        "C. Nagaon and Morigaon",
+        "D. Kukrajhar and Golaghat"
+      ],
+      "question": "The major reserves of limestone are in _____ and",
+      "answer": "A. Dima Hasao and Karbi Anglong"
+    },
+    {
+      "options": [
+        "A. 15",
+        "B. 24",
+        "C. 26",
+        "D. 10"
+      ],
+      "question": "Population wise rank of Assam among the states of India is",
+      "answer": "A. 15"
+    },
+    {
+      "options": [
+        "A. First",
+        "B. Second",
+        "C. Third",
+        "D. Fourth"
+      ],
+      "question": "The rank of Assam in terms of crude oil production is _____.",
+      "answer": "B. Second"
+    },
+    {
+      "options": [
+        "A. Myanmar, Bhutan and Bangladesh",
+        "B. Bhutan and Bangladesh",
+        "C. China, Myanmar, Bhutan and Bangladesh",
+        "D. Myanmar and Bangladesh"
+      ],
+      "question": "Assam share international border with which of the following countries",
+      "answer": "B. Bhutan and Bangladesh"
+    },
+    {
+      "options": [
+        "A. Mike Pandey",
+        "B. Sunderlal Bahuguna",
+        "C. Jadav Payeng",
+        "D. Kallen Pakkudan"
+      ],
+      "question": "Who is famously known as the “Forest Man of India”?",
+      "answer": "C. Jadav Payeng"
+    },
+    {
+      "options": [
+        "A. Nameri National Park",
+        "B. Pobitora Wildlife Sanctuary",
+        "C. Garampani Wildlife Sanctuary",
+        "D. Chakrasila Wildlife Sanctuary"
+      ],
+      "question": "Which of the following protected areas in Assam is known for Golden Langur",
+      "answer": "D. Chakrasila Wildlife Sanctuary"
+    },
+    {
+      "options": [
+        "A. 30 November, 2004",
+        "B. 10 February, 2003",
+        "D. 20 June, 2005"
+      ],
+      "question": "When did B.T.A.D was established ?",
+      "answer": "B. 10 February, 2003"
+    },
+    {
+      "options": [
+        "A. 23",
+        "B. 27",
+        "C. 32",
+        "D. 34"
+      ],
+      "question": "The total number of administrative districts in Assam is _________.",
+      "answer": "D. 34"
+    },
+    {
+      "options": [
+        "A. 13",
+        "B. 33",
+        "C. 80",
+        "D. 126"
+      ],
+      "question": "The total number of seats in the legislative council of Assam is",
+      "answer": "D. 126"
+    },
+    {
+      "options": [
+        "A. Tobacco",
+        "B. Rubber",
+        "C. Maize",
+        "D. Paddy"
+      ],
+      "question": "Assam is not a traditional growing area of which of the following crop?",
+      "answer": "A. Tobacco"
+    },
+    {
+      "options": [
+        "A. Dilli Jaypore",
+        "B. Mikir Hills",
+        "C. Singrimari Hills",
+        "D. Makum"
+      ],
+      "question": "Which of the following is the largest Coalfield in Assam?",
+      "answer": "D. Makum"
+    },
+    {
+      "options": [
+        "A. 14",
+        "B. 24",
+        "C. 34",
+        "D. 44"
+      ],
+      "question": "The percentage of population living in urban areas in Assam according to 2011 census is",
+      "answer": "A. 14"
+    },
+    {
+      "options": [
+        "A. 17.2 %",
+        "B. 20.6 %",
+        "C. 22.4 %",
+        "D. 34.21 %"
+      ],
+      "question": "How much land of assam has been occupied by forests?",
+      "answer": "D. 34.21 %"
+    },
+    {
+      "options": [
+        "A. Dhemaji",
+        "B. Kokrajhar",
+        "C. Baks",
+        "D. Cachar"
+      ],
+      "question": "Which of the following districts of Assam does not have any international boundary?",
+      "answer": "A. Dhemaji"
+    },
+    {
+      "options": [
+        "A. Sonbill Lake",
+        "B. Kumri Beel Lake",
+        "C. Cahndubi Lake",
+        "D. Deepor Beel"
+      ],
+      "question": "Which of is the largest wetland in Assam?",
+      "answer": "A. Sonbill Lake"
+    },
+    {
+      "options": [
+        "A. 2006",
+        "B. 2007",
+        "C. 2008",
+        "D. 2009"
+      ],
+      "question": "In which year Kaziranga National Park became a Tiger reserve?",
+      "answer": "A. 2006"
+    },
+    {
+      "options": [
+        "A. Ronga Noi",
+        "B. Borgang",
+        "C. Jhanji",
+        "D. Bhugdoi"
+      ],
+      "question": "Which is the northward flow sub-river of Brahmaputra?",
+      "answer": "C. Jhanji"
+    },
+    {
+      "options": [
+        "A. 1825",
+        "B. 1867",
+        "C. 1889",
+        "D. 1901"
+      ],
+      "question": "In which of the following year Coal was discovered in Assam?",
+      "answer": "A. 1825"
+    },
+    {
+      "options": [
+        "A. Guwahati",
+        "B. Bongaigaon",
+        "C. Numalighar",
+        "D. Makum"
+      ],
+      "question": "Asia’s first successful mechanically drilled oil well was drilled in ________ of Assam way back in 1867.",
+      "answer": "D. Makum"
+    },
+    {
+      "options": [
+        "A. Karbi Hills and Dima Hasao",
+        "B. Majuli Island",
+        "C. Brahmaputrd Floodplains of Eastern Assam",
+        "D. BTAD gred near Bhutan Himalayan foothills"
+      ],
+      "question": "Red Laterite Soils are found in which of the following areas in Assam",
+      "answer": "A. Karbi Hills and Dima Hasao"
+    },
+    {
+      "options": [
+        "A. 640 km",
+        "B. 720 km",
+        "C. 920 km",
+        "D. 2880 km"
+      ],
+      "question": "The length of Brahmaputra within Assam is ______.",
+      "answer": "B. 720 km"
+    },
+    {
+      "options": [
+        "A. 25%",
+        "B. 55%",
+        "C. 75%",
+        "D. 85%"
+      ],
+      "question": "The approximate share of Assam in India’s annually production of tea is",
+      "answer": "B. 55%"
+    },
+    {
+      "options": [
+        "A. Dibru-Saikhowa National Park",
+        "B. Kaziranga National Park",
+        "C. Orang National Park",
+        "D. Manas National Park"
+      ],
+      "question": "Which National Park in Assam is one of the last strongholds for the wild water buffalo?",
+      "answer": "B. Kaziranga National Park"
+    },
+    {
+      "options": [
+        "A. Pobitord WLS",
+        "B. Sonai Rupai WLS",
+        "C. Bornodi WLS",
+        "D. Garampani WLS"
+      ],
+      "question": "Which of the following is the oldest among the present eighteen wildlife sanctuaries in Assam?",
+      "answer": "D. Garampani WLS"
+    },
+    {
+      "options": [
+        "A. Kamrup Metropolitan",
+        "B. Nagaon",
+        "C. Tinisuki",
+        "D. Nalbari"
+      ],
+      "question": "The literacy rate of which of the following districts is highest in Assam?",
+      "answer": "A. Kamrup Metropolitan"
+    },
+    {
+      "options": [
+        "A. 65.21%",
+        "B. 67.27%",
+        "C. 78.81%",
+        "D. 88.90%"
+      ],
+      "question": "Literacy rate of women in assam according to 2011 census?",
+      "answer": "B. 67.27%"
+    },
+    {
+      "options": [
+        "A. 1950",
+        "B. 1972",
+        "C. 1974",
+        "D. 1975"
+      ],
+      "question": "When Assam’s Kaziranga was declared as a national park ?",
+      "answer": "C. 1974"
+    },
+    {
+      "options": [
+        "A. 1839",
+        "B. 1849",
+        "C. 1859",
+        "D. 1869"
+      ],
+      "question": "In which year a earthquake sank the bank of the Barak by 15 ft.?",
+      "answer": "D. 1869"
+    },
+    {
+      "options": [
+        "A. Singhason",
+        "B. Laikei peak",
+        "C. Danbukosu peak",
+        "D. Mahadev"
+      ],
+      "question": "What is the highest peak of Karbi hill ?",
+      "answer": "A. Singhason"
+    },
+    {
+      "options": [
+        "A. Tropic of cancer",
+        "B. Equator",
+        "C. Tropic of Capricorn",
+        "D. None of the above"
+      ],
+      "question": "Which of the following geographical lines passes through the state of Assam?",
+      "answer": "D. None of the above"
+    },
+    {
+      "options": [
+        "A. Dibrugarh",
+        "B. Tezpur",
+        "C. Jorhat",
+        "D. None of these"
+      ],
+      "question": "Assam’s newest district Majuli is carved out of which of district?",
+      "answer": "C. Jorhat"
+    },
+    {
+      "options": [
+        "A. Tamulpur",
+        "B. Mushalpur",
+        "C. Barpeta Road",
+        "D. Goreswar"
+      ],
+      "question": "Which of the following is the district Headquarter of newly created Baksa District.",
+      "answer": "B. Mushalpur"
+    },
+    {
+      "options": [
+        "A. Subansiri",
+        "B. Dhansiri",
+        "C. Manas",
+        "D. Sonai"
+      ],
+      "question": "Which among the following is not a principal tributary of Brahmaputra?",
+      "answer": "D. Sonai"
+    },
+    {
+      "options": [
+        "A. Mizoram",
+        "B. Meghalaya",
+        "C. Nagaland",
+        "D. None of the above"
+      ],
+      "question": "Which of the following North Eastern state shares the longest boundary with Assam?",
+      "answer": "B. Meghalaya"
+    },
+    {
+      "options": [
+        "A. Guwahati",
+        "B. Itanagar",
+        "C. Dispur",
+        "D. Agartala"
+      ],
+      "question": "What is the capital of Assam?",
+      "answer": "C. Dispur"
+    },
+    {
+      "options": [
+        "A. Nilachal Hill",
+        "B. Chitrachal Hill",
+        "C. Sandhyachal Hill",
+        "D. Jogini Hill"
+      ],
+      "question": "In which hill top, the Kamakhya Temple is located?",
+      "answer": "A. Nilachal Hill"
+    },
+    {
+      "options": [
+        "A. Bishnuram Medhi",
+        "B. Tarun Ram Phukan",
+        "C. Gopinath Bordoloi",
+        "D. None of the Above"
+      ],
+      "question": "Who was the first Chief Minister of Assam?",
+      "answer": "C. Gopinath Bordoloi"
+    },
+    {
+      "options": [
+        "A. 1671",
+        "B. 1644",
+        "C. 1678",
+        "D. 1643"
+      ],
+      "question": "The war of Saraighat was fought between Ahom and Mughal in the year?",
+      "answer": "A. 1671"
+    },
+    {
+      "options": [
+        "A. Jorhat",
+        "B. Sualkuchi",
+        "C. Diphu",
+        "D. Digboi"
+      ],
+      "question": "Which town is also known as the Manchester of Assam?",
+      "answer": "B. Sualkuchi"
+    },
+    {
+      "options": [
+        "A. 1458",
+        "B. 1549",
+        "C. 1449",
+        "D. 1464"
+      ],
+      "question": "Srimanta Sankardev was born in the year __.",
+      "answer": "C. 1449"
+    },
+    {
+      "options": [
+        "A. 34",
+        "B. 32",
+        "C. 25",
+        "D. 33"
+      ],
+      "question": "Total number of Districts in Assam are __.",
+      "answer": "A. 34"
+    },
+    {
+      "options": [
+        "A. Godadhar Singha",
+        "B. Rudra Singha",
+        "C. Siva Singha",
+        "D. Pramatta Singha"
+      ],
+      "question": "The Temple of Umananda was built by:",
+      "answer": "A. Godadhar Singha"
+    },
+    {
+      "options": [
+        "A. The Mahabharata",
+        "B. The Harshacharita",
+        "C. The Kalika Purana",
+        "D. The Arthashastra"
+      ],
+      "question": "One of the following books is the most important literature source for the study of early history of Assam. Which is the book?",
+      "answer": "C. The Kalika Purana"
+    },
+    {
+      "options": [
+        "A. Mahiranga Danava",
+        "B. Narakasura",
+        "C. Bhaskara Varman",
+        "D. Naranarayana"
+      ],
+      "question": "The earliest king of Assam was",
+      "answer": "A. Mahiranga Danava"
+    },
+    {
+      "options": [
+        "A. Palas",
+        "B. Varmans",
+        "C. Narakas",
+        "D. Salastambhas"
+      ],
+      "question": "The earliest historical dynasty of Assam was that of",
+      "answer": "B. Varmans"
+    },
+    {
+      "options": [
+        "A. Autobiographical writings of the Ahom rulers",
+        "B. Diaries written by the monarchs",
+        "C. Chronicles",
+        "D. None of the above"
+      ],
+      "question": "The Buranjis are",
+      "answer": "C. Chronicles"
+    },
+    {
+      "options": [
+        "A. Bhagadatta",
+        "B. Kumar Bhaskar Barman",
+        "C. Swargadeo Rudra Singha",
+        "D. Kumar Rudra Barman"
+      ],
+      "question": "Hiuen Tsang visited Assam (kamarupa) in 640 AD. He was received by the king",
+      "answer": "B. Kumar Bhaskar Barman"
+    }
+  ]
 }
