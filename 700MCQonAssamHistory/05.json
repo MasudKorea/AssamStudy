@@ -1,0 +1,512 @@
+{
+    "questions": [
+        {
+            "options": [
+                "A. 26th February, 1858",
+                "B. 30th January, 1860",
+                "C. 20th March, 1861",
+                "D. 21st April, 1865"
+            ],
+            "question": "Maniram Dewan and Piyali Barua were hanged on ___.",
+            "answer": "A. 26th February, 1858"
+        },
+        {
+            "options": [
+                "A. Sonitpur",
+                "B. Tezpur",
+                "C. Gohpur",
+                "D. None of these"
+            ],
+            "question": "In the Quit India Movement of 1942, Kanak Lata and Mukunda Kakati were shot dead by the British Police at __.",
+            "answer": "C. Gohpur"
+        },
+        {
+            "options": [
+                "A. B. P. Chaliha",
+                "B. B. R. Medhi",
+                "C. Sarat Chandra Singha",
+                "D. M. M. Choudhury"
+            ],
+            "question": "After the demise of the 1st Chief Minister of Assam, Gopinath Bordoloi in 1950, the second Chief Minister was __.",
+            "answer": "B. B. R. Medhi"
+        },
+        {
+            "options": [
+                "A. 1st April, 1937",
+                "B. 1st March, 1937",
+                "C. 5th March, 1939",
+                "D. 5th April, 1941"
+            ],
+            "question": "Sadulla's Coalition Ministry took place on ___.",
+            "answer": "A. 1st April, 1937"
+        },
+        {
+            "options": [
+                "A. Bhupen Hazarika",
+                "B. Mamoni Raisom Goswami",
+                "C. Dhrubajyoti Bora",
+                "D. Lakshminath Bezbaroa"
+            ],
+            "question": "Who was the founder of the South-East Asia Ramayana Research Center?",
+            "answer": "B. Mamoni Raisom Goswami"
+        },
+        {
+            "options": [
+                "A. Pala dynasty",
+                "B. Mlechchha dynasty",
+                "C. Varman dynasty",
+                "D. Naraka dynasty"
+            ],
+            "question": "Durjaya (present-day North Guwahati) was the capital of ____.",
+            "answer": "A. Pala dynasty"
+        },
+        {
+            "options": [
+                "A. Agnigarh Hill",
+                "B. Nilachal Hill",
+                "C. Monikut Hill",
+                "D. Mikir Hills"
+            ],
+            "question": "The Hayagriva Madhava Temple of Hajo is located in which hill?",
+            "answer": "C. Monikut Hill"
+        },
+        {
+            "options": [
+                "A. Charaideo",
+                "B. Garhgaon",
+                "C. Rangpur",
+                "D. Jorhat"
+            ],
+            "question": "Which one was the last capital of the Ahom Kingdom?",
+            "answer": "D. Jorhat"
+        },
+        {
+            "options": [
+                "A. Dibrugarh",
+                "B. Jorhat",
+                "C. Sivsagar",
+                "D. Golaghat"
+            ],
+            "question": "Which one city is also known as 'Tea City of India'?",
+            "answer": "A. Dibrugarh"
+        },
+        {
+            "options": [
+                "A. Rudra Baruah",
+                "B. Parvati Prasad Baruwa",
+                "C. Bishnuprasad Rabha",
+                "D. Jyoti Prasad Agarwala"
+            ],
+            "question": "Who is known as the 'Luit Konwar' of Assam?",
+            "answer": "A. Rudra Baruah"
+        },
+        {
+            "options": [
+                "A. Vishwanath",
+                "B. Ratnapur",
+                "C. Swarnagiri",
+                "D. None of these"
+            ],
+            "question": "Which one was the first capital of the Chutiya Kingdom?",
+            "answer": "C. Swarnagiri"
+        },
+        {
+            "options": [
+                "A. 9",
+                "B. 8",
+                "C. 7",
+                "D. 6",
+                "A. 3",
+                "B. 4",
+                "C. 2",
+                "D. 1"
+            ],
+            "question": "Assam shares its border with how many states?",
+            "answer": "C. 7"
+        },
+        {
+            "options": [
+                "A. 9",
+                "B. 7",
+                "C. 8",
+                "D. 10"
+            ],
+            "question": "How many districts of Assam touch the Arunachal Pradesh Border?",
+            "answer": "C. 8"
+        },
+        {
+            "options": [
+                "A. 6",
+                "B. 5",
+                "C. 7",
+                "D. 8"
+            ],
+            "question": "How many districts of Assam touch the Nagaland Border?",
+            "answer": "A. 6"
+        },
+        {
+            "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "question": "How many districts of Assam touch the Manipur Border?",
+            "answer": "B. 2"
+        },
+        {
+            "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "question": "How many districts of Assam touch the Mizoram Border?",
+            "answer": "C. 3"
+        },
+        {
+            "options": [
+                "A. 2",
+                "B. 1",
+                "C. 3",
+                "D. 4"
+            ],
+            "question": "How many districts of Assam touch the Tripura Border?",
+            "answer": "B. 1"
+        },
+        {
+            "options": [
+                "A. 8",
+                "B. 9",
+                "C. 10",
+                "D. 11"
+            ],
+            "question": "How many districts of Assam touch the Meghalaya Border?",
+            "answer": "A. 8"
+        },
+        {
+            "options": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 1"
+            ],
+            "question": "Assam shares its border with how many countries?",
+            "answer": "A. 2"
+        },
+        {
+            "options": [
+                "A. 3",
+                "B. 2",
+                "C. 4",
+                "D. 5",
+                "A. 3",
+                "B. 4",
+                "C. 5",
+                "D. 6"
+            ],
+            "question": "How many districts of Assam share its border with Bhutan?",
+            "answer": "B. 2"
+        },
+        {
+            "options": [
+                "A. 1989",
+                "B. 1991",
+                "C. 1994",
+                "D. 1995"
+            ],
+            "question": "In which year, Doordarshan Kendra was established in Assam to telecast programmes in Assamese language",
+            "answer": "B. 1991"
+        },
+        {
+            "options": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "question": "How many Lok Sabha constituencies in Assam are reserve for schedule tribes",
+            "answer": "A. 2"
+        },
+        {
+            "options": [
+                "A. Dhubri",
+                "B. Kokrajhar",
+                "C. Lakhimpur",
+                "D. Karimganj"
+            ],
+            "question": "Which one Lok Sabha constituency in Assam is reserve for schedule caste",
+            "answer": "D. Karimganj"
+        },
+        {
+            "options": [
+                "A. Devendra Nath Sarma",
+                "B. Rohini Kumar Chaudhury",
+                "C. Hem Barua",
+                "D. Dhireswar Kalita"
+            ],
+            "question": "Who was the first Member of Parliament from Guwahati Lok Sabha constituency in 1951",
+            "answer": "B. Rohini Kumar Chaudhury"
+        },
+        {
+            "options": [
+                "A. 1970",
+                "B. 1973",
+                "C. 1975",
+                "D. 1977"
+            ],
+            "question": "The Manas bioreserve was created in the year",
+            "answer": "B. 1973"
+        },
+        {
+            "options": [
+                "A. Bongaigaon",
+                "B. Kokrajhar",
+                "C. Golaghat",
+                "D. Darrang"
+            ],
+            "question": "The Kakoijana reserved forest is located in which district",
+            "answer": "A. Bongaigaon"
+        },
+        {
+            "options": [
+                "A. Jungle",
+                "B. Hills",
+                "C. River",
+                "D. Community"
+            ],
+            "question": "What is the meaning of 'Hasao' in the word \"Dima Hasao\"",
+            "answer": "B. Hills"
+        },
+        {
+            "options": [
+                "A. Jatinga",
+                "B. Umrangso",
+                "C. Haflong",
+                "D. Amreng"
+            ],
+            "question": "Which one is the only hill station in Assam",
+            "answer": "C. Haflong"
+        },
+        {
+            "options": [
+                "A. Dhemaji",
+                "B. Charaideo",
+                "C. Biswanath",
+                "D. Sonitpur"
+            ],
+            "question": "Sonari is the headquaters of which district",
+            "answer": "B. Charaideo"
+        },
+        {
+            "options": [
+                "A. 1940",
+                "B. 1945",
+                "C. 1948",
+                "D. 1956"
+            ],
+            "question": "The Assam State Museum was established in the year",
+            "answer": "A. 1940"
+        },
+        {
+            "options": [
+                "A. 1472",
+                "B. 1475",
+                "C. 1489",
+                "D. 1492"
+            ],
+            "question": "Madhavdev was born in the year",
+            "answer": "C. 1489"
+        },
+        {
+            "options": [
+                "A. Badrinath",
+                "B. Haridwar",
+                "C. Mathura",
+                "D. Koach Bihar"
+            ],
+            "question": "The first borgeet was composed by the Sankardeva at",
+            "answer": "A. Badrinath"
+        },
+        {
+            "options": [
+                "A. Bordowa",
+                "B. Dhuwahat",
+                "C. Patbausi",
+                "D. Sunpora"
+            ],
+            "question": "Sankardev met his spiritual successor Madhavdev for the first time in",
+            "answer": "B. Dhuwahat"
+        },
+        {
+            "options": [
+                "A. Dibrugarh",
+                "B. Diphu",
+                "C. Tinsukia",
+                "D. Sadiya"
+            ],
+            "question": "The ancient city 'Bengmara' is presently known as",
+            "answer": "C. Tinsukia"
+        },
+        {
+            "options": [
+                "A. 12",
+                "B. 13",
+                "C. 15",
+                "D. 16"
+            ],
+            "question": "During Indian Independence, how many districts Assam had",
+            "answer": "B. 13"
+        },
+        {
+            "options": [
+                "A. Tyagasimha",
+                "B. Harjjaravarman",
+                "C. Salasthamba",
+                "D. Birpal"
+            ],
+            "question": "Mlechchha dynasty was established by",
+            "answer": "C. Salasthamba"
+        },
+        {
+            "options": [
+                "A. 1560",
+                "B. 1563",
+                "C. 1569",
+                "D. 1572"
+            ],
+            "question": "In which year the Treaty of Majuli was signed between Koch king Nara Narayan and the Ahom king Sukhaamphaa",
+            "answer": "B. 1563"
+        },
+        {
+            "options": [
+                "A. 1567",
+                "B. 1568",
+                "C. 1569",
+                "D. 1570"
+            ],
+            "question": "Srimanta Sankardev died in the year ________",
+            "answer": "B. 1568"
+        },
+        {
+            "options": [
+                "A. Momai Tamuli Borbarua",
+                "B. Pratap Sinha",
+                "C. Lachit Borphukan",
+                "D. Chakrapani Borbarua"
+            ],
+            "question": "Who had designed the Paik system in Ahom Kingdom",
+            "answer": "A. Momai Tamuli Borbarua"
+        },
+        {
+            "options": [
+                "A. Jai Singh I",
+                "B. Ram Singh I",
+                "C. Jai Singh II",
+                "D. Bishan Singh"
+            ],
+            "question": "Who had lead the Mughal Army in the Battle of Saraighat",
+            "answer": "B. Ram Singh I"
+        },
+        {
+            "options": [
+                "A. 1675",
+                "B. 1677",
+                "C. 1680",
+                "D. 1682"
+            ],
+            "question": "The Battle of Itakhuli was fought in the year",
+            "answer": "D. 1682"
+        },
+        {
+            "options": [
+                "A. 1998",
+                "B. 2000",
+                "C. 2002",
+                "D. 2003"
+            ],
+            "question": "In which year Sattriya is recognized as classical dance by Sangeet Natak Akademi of India",
+            "answer": "B. 2000"
+        },
+        {
+            "options": [
+                "A. Holicharan Narzary",
+                "B. Monalisa Baruah",
+                "C. Bhogeswar Baruah",
+                "D. Dipankar Bhattacharjee"
+            ],
+            "question": "Who was the first Assamese to get the Arjuna award",
+            "answer": "C. Bhogeswar Baruah"
+        },
+        {
+            "options": [
+                "A. 4th",
+                "B. 5th",
+                "C. 6th",
+                "D. 7th"
+            ],
+            "question": "Fakhruddin Ali Ahmed was the ________ president of India",
+            "answer": "B. 5th"
+        },
+        {
+            "options": [
+                "A. Ananda Ram Baruah",
+                "B. Kamalakanta Bhattacharya",
+                "C. Bhabananda Deka",
+                "D. Chandra Kumar Agarwala"
+            ],
+            "question": "Who was the first Indian district magistrate in India",
+            "answer": "A. Ananda Ram Baruah"
+        },
+        {
+            "options": [
+                "A. 1998",
+                "B. 1999",
+                "C. 2000",
+                "D. 2001"
+            ],
+            "question": "In which year Bharat Ratna award was given to Gopinath Bordoloi posthumously",
+            "answer": "B. 1999"
+        },
+        {
+            "options": [
+                "A. Harekrishna Deka",
+                "B. Harishankar Brahma",
+                "C. Ranjit Barthakur",
+                "D. Sailadhar Baruah"
+            ],
+            "question": "Who was the first election commissioner of India from Assam",
+            "answer": "B. Harishankar Brahma"
+        },
+        {
+            "options": [
+                "A. Ranjit Shekhar Mooshahary",
+                "B. Devanand Konwar",
+                "C. Ranjan Gogoi",
+                "D. Bishnuram Medhi"
+            ],
+            "question": "Who was the first Assamese Governor of an Indian state",
+            "answer": "D. Bishnuram Medhi"
+        },
+        {
+            "options": [
+                "A. Seema Biswas",
+                "B. Purnima Pathak",
+                "C. Aideu Handique",
+                "D. Moloya Goswami"
+            ],
+            "question": "Who was the first Assamese actress to win National Award under the Best Actress category",
+            "answer": "D. Moloya Goswami"
+        },
+        {
+            "options": [
+                "A. Prafulla Govinda Baruah",
+                "B. Radha Govinda Baruah",
+                "C. Siva Prasad Barooah",
+                "D. Dhirendra Nath Bezbaruah"
+            ],
+            "question": "Who is the founder of the Assamese daily english newspaper \"The Assam Tribune\"",
+            "answer": "B. Radha Govinda Baruah"
+        }
+    ]
+}
